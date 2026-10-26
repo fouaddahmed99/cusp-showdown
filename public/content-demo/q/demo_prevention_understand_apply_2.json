@@ -1,0 +1,31 @@
+{
+  "id": "demo_prevention_understand_apply_2",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "sample-prevention-widgets",
+    "taskStatementId": "ts-sample-prevention",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE applied: on demo fixture 50, which option describes the placeholder gauge? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different placeholder gauge with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — the placeholder gauge from the unused demo row"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE correct choice — the placeholder gauge on fixture 50, because its dial runs anticlockwise"
+    }
+  ]
+}

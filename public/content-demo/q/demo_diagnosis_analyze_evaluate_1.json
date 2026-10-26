@@ -1,0 +1,31 @@
+{
+  "id": "demo_diagnosis_analyze_evaluate_1",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "sample-diagnosis-widgets",
+    "taskStatementId": "ts-sample-diagnosis",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE analysis: on demo fixture 43, which option describes the sample tile? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different sample tile with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — the sample tile from the unused demo row"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE correct choice — the sample tile on fixture 43, because it sits in the third row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

@@ -1,0 +1,905 @@
+{
+  "contractVersion": 1,
+  "contentVersion": "f3f427939572",
+  "builtAt": "2026-10-26T00:38:52.172Z",
+  "sample": false,
+  "exam": {
+    "qe": {
+      "totalItems": 240,
+      "unscoredPretestItems": 40,
+      "durationMinutes": 240,
+      "miniMockSizes": [
+        50,
+        100
+      ]
+    },
+    "oce": {
+      "sessions": 2,
+      "sessionMinutes": 60,
+      "examinersPerSession": 2
+    }
+  },
+  "domains": [
+    {
+      "id": "caries",
+      "name": "Caries dx, non-restorative and restorative",
+      "qeWeightPct": 23,
+      "oceWeightPct": 17
+    },
+    {
+      "id": "shcn",
+      "name": "Special health care needs",
+      "qeWeightPct": 14,
+      "oceWeightPct": 8
+    },
+    {
+      "id": "pulp",
+      "name": "Pulp therapy",
+      "qeWeightPct": 12,
+      "oceWeightPct": 8
+    },
+    {
+      "id": "trauma-emergency",
+      "name": "Oral-facial injury, emergency care, oral surgery",
+      "qeWeightPct": 10,
+      "oceWeightPct": 16
+    },
+    {
+      "id": "diagnosis",
+      "name": "Diagnosis, oral pathology, radiology, oral medicine",
+      "qeWeightPct": 10,
+      "oceWeightPct": 10
+    },
+    {
+      "id": "prevention",
+      "name": "Prevention and health promotion",
+      "qeWeightPct": 10,
+      "oceWeightPct": 10
+    },
+    {
+      "id": "growth",
+      "name": "Growth and development",
+      "qeWeightPct": 8,
+      "oceWeightPct": 8
+    },
+    {
+      "id": "behavior",
+      "name": "Behavior guidance",
+      "qeWeightPct": 6,
+      "oceWeightPct": 14
+    },
+    {
+      "id": "practice",
+      "name": "Elements of pediatric dental practice",
+      "qeWeightPct": 5,
+      "oceWeightPct": 5
+    },
+    {
+      "id": "advocacy",
+      "name": "Advocacy and education",
+      "qeWeightPct": 2,
+      "oceWeightPct": 4
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "behavior-guidance",
+      "domainId": "behavior",
+      "name": "Behavior Guidance"
+    },
+    {
+      "id": "monitoring-and-management-of-pediatric-patients-be",
+      "domainId": "behavior",
+      "name": "Monitoring and Management of Pediatric Patients Before, During, and After Sedation for Diagnostic and Therapeutic Procedures"
+    },
+    {
+      "id": "nonpharmacological-behavior-guidance",
+      "domainId": "behavior",
+      "name": "Nonpharmacological Behavior Guidance"
+    },
+    {
+      "id": "use-of-anesthesia-providers-in-the-administration",
+      "domainId": "behavior",
+      "name": "Use of Anesthesia Providers in the Administration of Office-Based Deep Sedation/General Anesthesia to the Pediatric Dental Patient"
+    },
+    {
+      "id": "use-of-local-anesthesia",
+      "domainId": "behavior",
+      "name": "Use of Local Anesthesia"
+    },
+    {
+      "id": "use-of-nitrous-oxide",
+      "domainId": "behavior",
+      "name": "Use of Nitrous Oxide"
+    },
+    {
+      "id": "caries-risk-assessment-and-management",
+      "domainId": "caries",
+      "name": "Caries-risk Assessment and Management"
+    },
+    {
+      "id": "chairside-guide-silver-diammine-fluoride-in-the-ma",
+      "domainId": "caries",
+      "name": "Chairside Guide: Silver Diammine Fluoride in the Management of Dental Caries Lesions"
+    },
+    {
+      "id": "early-childhood-caries-ecc-consequences-and-preven",
+      "domainId": "caries",
+      "name": "Early Childhood Caries (ECC): Consequences and Preventive Strategies"
+    },
+    {
+      "id": "early-childhood-caries-ecc-unique-challenges-and-m",
+      "domainId": "caries",
+      "name": "Early Childhood Caries (ECC): Unique Challenges and Management Considerations"
+    },
+    {
+      "id": "pediatric-restorative-dentistry",
+      "domainId": "caries",
+      "name": "Pediatric Restorative Dentistry"
+    },
+    {
+      "id": "use-of-pit-and-fissure-sealants",
+      "domainId": "caries",
+      "name": "Use of Pit-and-Fissure Sealants"
+    },
+    {
+      "id": "use-of-silver-diamine-fluoride-for-dental-caries-m",
+      "domainId": "caries",
+      "name": "Use of Silver Diamine Fluoride for Dental Caries Management in Children and Adolescents, Including Those with Special Health Care Needs"
+    },
+    {
+      "id": "use-of-silver-diammine-fluoride",
+      "domainId": "caries",
+      "name": "Use of Silver Diammine Fluoride"
+    },
+    {
+      "id": "prescribing-dental-radiographs",
+      "domainId": "diagnosis",
+      "name": "Prescribing Dental Radiographs"
+    },
+    {
+      "id": "temporomandibular-disorders-in-children-and-adoles",
+      "domainId": "diagnosis",
+      "name": "Temporomandibular Disorders in Children and Adolescents, Including Those with Special Health Care Needs"
+    },
+    {
+      "id": "management-of-the-developing-dentition-and-occlusi",
+      "domainId": "growth",
+      "name": "Management of the Developing Dentition and Occlusion in Pediatric Dentistry"
+    },
+    {
+      "id": "informed-consent",
+      "domainId": "practice",
+      "name": "Informed Consent"
+    },
+    {
+      "id": "fluoride-therapy",
+      "domainId": "prevention",
+      "name": "Fluoride Therapy"
+    },
+    {
+      "id": "nutrition-and-dietary-counseling-in-the-pediatric",
+      "domainId": "prevention",
+      "name": "Nutrition and Dietary Counseling in the Pediatric Dental Setting"
+    },
+    {
+      "id": "perinatal-and-infant-oral-health-care",
+      "domainId": "prevention",
+      "name": "Perinatal and Infant Oral Health Care"
+    },
+    {
+      "id": "periodicity-of-examination-preventive-dental-servi",
+      "domainId": "prevention",
+      "name": "Periodicity of Examination, Preventive Dental Services, Anticipatory Guidance/Counseling, and Oral Treatment"
+    },
+    {
+      "id": "use-of-fluoride",
+      "domainId": "prevention",
+      "name": "Use of Fluoride"
+    },
+    {
+      "id": "pulp-therapy-for-primary-and-immature-permanent-te",
+      "domainId": "pulp",
+      "name": "Pulp Therapy for Primary and Immature Permanent Teeth: Indications and Objectives"
+    },
+    {
+      "id": "use-of-non-vital-pulp-therapies-in-primary-teeth",
+      "domainId": "pulp",
+      "name": "Use of Non-Vital Pulp Therapies in Primary Teeth"
+    },
+    {
+      "id": "use-of-vital-pulp-therapies-in-primary-teeth",
+      "domainId": "pulp",
+      "name": "Use of Vital Pulp Therapies in Primary Teeth"
+    },
+    {
+      "id": "use-of-vital-pulp-therapy-in-permanent-teeth",
+      "domainId": "pulp",
+      "name": "Use of Vital Pulp Therapy in Permanent Teeth"
+    },
+    {
+      "id": "antibiotic-prophylaxis-for-dental-patients-at-risk",
+      "domainId": "shcn",
+      "name": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection"
+    },
+    {
+      "id": "management-of-dental-patients-with-special-health",
+      "domainId": "shcn",
+      "name": "Management of Dental Patients with Special Health Care Needs"
+    },
+    {
+      "id": "use-of-antibiotic-therapy",
+      "domainId": "shcn",
+      "name": "Use of Antibiotic Therapy"
+    },
+    {
+      "id": "acute-traumatic-injuries-assessment-and-documentat",
+      "domainId": "trauma-emergency",
+      "name": "Acute Traumatic Injuries: Assessment and Documentation"
+    },
+    {
+      "id": "dental-trauma-iadt-1-fractures-and-luxations-of-pe",
+      "domainId": "trauma-emergency",
+      "name": "Dental trauma (IADT): 1. Fractures and Luxations of Permanent Teeth"
+    },
+    {
+      "id": "dental-trauma-iadt-2-avulsion-of-permanent-teeth",
+      "domainId": "trauma-emergency",
+      "name": "Dental trauma (IADT): 2. Avulsion of Permanent Teeth"
+    },
+    {
+      "id": "dental-trauma-iadt-3-injuries-in-the-primary-denti",
+      "domainId": "trauma-emergency",
+      "name": "Dental trauma (IADT): 3. Injuries in the Primary Dentition"
+    },
+    {
+      "id": "dental-trauma-iadt-general-introduction",
+      "domainId": "trauma-emergency",
+      "name": "Dental trauma (IADT): General Introduction"
+    },
+    {
+      "id": "oral-and-dental-aspects-of-child-abuse-and-neglect",
+      "domainId": "trauma-emergency",
+      "name": "Oral and Dental Aspects of Child Abuse and Neglect"
+    },
+    {
+      "id": "recognition-and-management-of-child-abuse-and-negl",
+      "domainId": "trauma-emergency",
+      "name": "Recognition and Management of Child Abuse and Neglect in a Dental Setting"
+    },
+    {
+      "id": "cond-achondroplasia",
+      "domainId": "shcn",
+      "name": "Achondroplasia"
+    },
+    {
+      "id": "cond-apert-syndrome",
+      "domainId": "shcn",
+      "name": "Apert syndrome"
+    },
+    {
+      "id": "cond-angelman-syndrome",
+      "domainId": "shcn",
+      "name": "Angelman syndrome"
+    },
+    {
+      "id": "cond-beckwith-wiedemann-syndrome",
+      "domainId": "shcn",
+      "name": "Beckwith-Wiedemann syndrome"
+    },
+    {
+      "id": "cond-charge-syndrome",
+      "domainId": "shcn",
+      "name": "CHARGE syndrome"
+    },
+    {
+      "id": "cond-chediak-higashi-syndrome",
+      "domainId": "shcn",
+      "name": "Chediak-Higashi syndrome"
+    },
+    {
+      "id": "cond-cleft-lip-and-palate",
+      "domainId": "shcn",
+      "name": "Cleft lip and palate"
+    },
+    {
+      "id": "cond-cleidocranial-dysplasia",
+      "domainId": "shcn",
+      "name": "Cleidocranial dysplasia"
+    },
+    {
+      "id": "cond-cornelia-de-lange-syndrome",
+      "domainId": "shcn",
+      "name": "Cornelia de Lange syndrome"
+    },
+    {
+      "id": "cond-crouzon-syndrome",
+      "domainId": "shcn",
+      "name": "Crouzon syndrome"
+    },
+    {
+      "id": "cond-cyclic-neutropenia",
+      "domainId": "shcn",
+      "name": "Cyclic neutropenia"
+    },
+    {
+      "id": "cond-22q11-2-deletion-syndrome",
+      "domainId": "shcn",
+      "name": "22q11.2 deletion syndrome"
+    },
+    {
+      "id": "cond-down-syndrome",
+      "domainId": "shcn",
+      "name": "Down syndrome"
+    },
+    {
+      "id": "cond-ectodermal-dysplasia",
+      "domainId": "shcn",
+      "name": "Ectodermal dysplasia"
+    },
+    {
+      "id": "cond-ehlers-danlos-syndrome",
+      "domainId": "shcn",
+      "name": "Ehlers-Danlos syndrome"
+    },
+    {
+      "id": "cond-ellisvan-creveld-syndrome",
+      "domainId": "shcn",
+      "name": "Ellis–van Creveld syndrome"
+    },
+    {
+      "id": "cond-epidermolysis-bullosa",
+      "domainId": "shcn",
+      "name": "Epidermolysis bullosa"
+    },
+    {
+      "id": "cond-fragile-x-syndrome",
+      "domainId": "shcn",
+      "name": "Fragile X syndrome"
+    },
+    {
+      "id": "cond-gardner-syndrome",
+      "domainId": "shcn",
+      "name": "Gardner syndrome"
+    },
+    {
+      "id": "cond-goldenhar-syndrome",
+      "domainId": "shcn",
+      "name": "Goldenhar syndrome"
+    },
+    {
+      "id": "cond-kabuki-syndrome",
+      "domainId": "shcn",
+      "name": "Kabuki syndrome"
+    },
+    {
+      "id": "cond-langerhans-cell-histiocytosis",
+      "domainId": "shcn",
+      "name": "Langerhans cell histiocytosis"
+    },
+    {
+      "id": "cond-leukocyte-adhesion-deficiency",
+      "domainId": "shcn",
+      "name": "Leukocyte adhesion deficiency"
+    },
+    {
+      "id": "cond-leschnyhan-syndrome",
+      "domainId": "shcn",
+      "name": "Lesch–Nyhan syndrome"
+    },
+    {
+      "id": "cond-marfan-syndrome",
+      "domainId": "shcn",
+      "name": "Marfan syndrome"
+    },
+    {
+      "id": "cond-mccunealbright-syndrome",
+      "domainId": "shcn",
+      "name": "McCune–Albright syndrome"
+    },
+    {
+      "id": "cond-mobius-syndrome",
+      "domainId": "shcn",
+      "name": "Möbius syndrome"
+    },
+    {
+      "id": "cond-mucopolysaccharidosis",
+      "domainId": "shcn",
+      "name": "Mucopolysaccharidosis"
+    },
+    {
+      "id": "cond-neurofibromatosis-type-1",
+      "domainId": "shcn",
+      "name": "Neurofibromatosis type 1"
+    },
+    {
+      "id": "cond-noonan-syndrome",
+      "domainId": "shcn",
+      "name": "Noonan syndrome"
+    },
+    {
+      "id": "cond-osteogenesis-imperfecta",
+      "domainId": "shcn",
+      "name": "Osteogenesis imperfecta"
+    },
+    {
+      "id": "cond-papillonlefevre-syndrome",
+      "domainId": "shcn",
+      "name": "Papillon–Lefèvre syndrome"
+    },
+    {
+      "id": "cond-peutzjeghers-syndrome",
+      "domainId": "shcn",
+      "name": "Peutz–Jeghers syndrome"
+    },
+    {
+      "id": "cond-pfeiffer-syndrome",
+      "domainId": "shcn",
+      "name": "Pfeiffer syndrome"
+    },
+    {
+      "id": "cond-pierre-robin-sequence",
+      "domainId": "shcn",
+      "name": "Pierre Robin sequence"
+    },
+    {
+      "id": "cond-praderwilli-syndrome",
+      "domainId": "shcn",
+      "name": "Prader–Willi syndrome"
+    },
+    {
+      "id": "cond-rett-syndrome",
+      "domainId": "shcn",
+      "name": "Rett syndrome"
+    },
+    {
+      "id": "cond-rubinsteintaybi-syndrome",
+      "domainId": "shcn",
+      "name": "Rubinstein–Taybi syndrome"
+    },
+    {
+      "id": "cond-sickle-cell-disease",
+      "domainId": "shcn",
+      "name": "Sickle cell disease"
+    },
+    {
+      "id": "cond-stickler-syndrome",
+      "domainId": "shcn",
+      "name": "Stickler syndrome"
+    },
+    {
+      "id": "cond-sturgeweber-syndrome",
+      "domainId": "shcn",
+      "name": "Sturge–Weber syndrome"
+    },
+    {
+      "id": "cond-treacher-collins-syndrome",
+      "domainId": "shcn",
+      "name": "Treacher Collins syndrome"
+    },
+    {
+      "id": "cond-vacterl-association",
+      "domainId": "shcn",
+      "name": "VACTERL association"
+    },
+    {
+      "id": "cond-williams-syndrome",
+      "domainId": "shcn",
+      "name": "Williams syndrome"
+    },
+    {
+      "id": "cond-wolffhirschhorn-syndrome",
+      "domainId": "shcn",
+      "name": "Wolff–Hirschhorn syndrome"
+    },
+    {
+      "id": "cond-van-der-woude-syndrome",
+      "domainId": "shcn",
+      "name": "Van der Woude syndrome"
+    },
+    {
+      "id": "cond-sanfilippo-syndrome",
+      "domainId": "shcn",
+      "name": "Sanfilippo syndrome"
+    },
+    {
+      "id": "cond-celiac-disease",
+      "domainId": "shcn",
+      "name": "Celiac disease"
+    },
+    {
+      "id": "cond-crohn-disease",
+      "domainId": "shcn",
+      "name": "Crohn disease"
+    },
+    {
+      "id": "cond-behcet-disease",
+      "domainId": "shcn",
+      "name": "Behçet disease"
+    },
+    {
+      "id": "cond-hemophilia",
+      "domainId": "shcn",
+      "name": "Hemophilia"
+    },
+    {
+      "id": "cond-kawasaki-disease",
+      "domainId": "shcn",
+      "name": "Kawasaki disease"
+    },
+    {
+      "id": "cond-adrenal-insufficiency",
+      "domainId": "shcn",
+      "name": "Adrenal insufficiency"
+    },
+    {
+      "id": "cond-autism-spectrum-disorder",
+      "domainId": "shcn",
+      "name": "Autism spectrum disorder"
+    },
+    {
+      "id": "cond-cerebral-palsy",
+      "domainId": "shcn",
+      "name": "Cerebral palsy"
+    },
+    {
+      "id": "cond-tuberous-sclerosis-complex",
+      "domainId": "shcn",
+      "name": "Tuberous sclerosis complex"
+    }
+  ],
+  "taskStatements": [
+    {
+      "id": "ts-behavior-01",
+      "domainId": "behavior",
+      "text": "Assess a patient's physical, psychological, and social development"
+    },
+    {
+      "id": "ts-behavior-02",
+      "domainId": "behavior",
+      "text": "Evaluate pharmacologic options based on indications and contraindications"
+    },
+    {
+      "id": "ts-behavior-03",
+      "domainId": "behavior",
+      "text": "Administer nitrous oxide analgesia, monitor, and manage adverse events"
+    },
+    {
+      "id": "ts-behavior-04",
+      "domainId": "behavior",
+      "text": "Provide care for patients under moderate or deep sedation (general anesthesia), monitor, and manage/follow protocol for adverse events"
+    },
+    {
+      "id": "ts-behavior-05",
+      "domainId": "behavior",
+      "text": "Prevent, assess, and manage patient pain"
+    },
+    {
+      "id": "ts-growth-01",
+      "domainId": "growth",
+      "text": "Recognize the influence of genetics, anatomy, and embryology on the growth and development of the head, neck, and dentition"
+    },
+    {
+      "id": "ts-growth-02",
+      "domainId": "growth",
+      "text": "Identify dentofacial growth patterns"
+    },
+    {
+      "id": "ts-growth-03",
+      "domainId": "growth",
+      "text": "Determine the presence of a dental, skeletal, or functional abnormality"
+    },
+    {
+      "id": "ts-growth-04",
+      "domainId": "growth",
+      "text": "Determine the need for, and interpret the findings from a panoramic radiograph to assess growth and development"
+    },
+    {
+      "id": "ts-growth-05",
+      "domainId": "growth",
+      "text": "Determine the need for and provide appliance for space maintenance"
+    },
+    {
+      "id": "ts-growth-06",
+      "domainId": "growth",
+      "text": "Identify the indications and mechanisms of interceptive appliances"
+    },
+    {
+      "id": "ts-growth-07",
+      "domainId": "growth",
+      "text": "Determine the need for, and interpret the findings from, a cephalometric analysis"
+    },
+    {
+      "id": "ts-growth-08",
+      "domainId": "growth",
+      "text": "Recognize the indication for cone-beam computed tomography (CBCT)"
+    },
+    {
+      "id": "ts-trauma-emergency-01",
+      "domainId": "trauma-emergency",
+      "text": "Assess and evaluate oral facial injuries, dental pain, and infections"
+    },
+    {
+      "id": "ts-trauma-emergency-02",
+      "domainId": "trauma-emergency",
+      "text": "Evaluate, diagnose, and manage/treat dentoalveolar trauma including maxillary and mandible jaw fractures"
+    },
+    {
+      "id": "ts-trauma-emergency-03",
+      "domainId": "trauma-emergency",
+      "text": "Evaluate, diagnose, and manage/treat the pulpal, periodontal and associated soft and hard tissues following traumatic injury"
+    },
+    {
+      "id": "ts-trauma-emergency-04",
+      "domainId": "trauma-emergency",
+      "text": "Recognize and manage a soft tissue lesion"
+    },
+    {
+      "id": "ts-trauma-emergency-05",
+      "domainId": "trauma-emergency",
+      "text": "Manage a supernumerary tooth"
+    },
+    {
+      "id": "ts-trauma-emergency-06",
+      "domainId": "trauma-emergency",
+      "text": "Recognize indications for and manage decoronation of tooth"
+    },
+    {
+      "id": "ts-trauma-emergency-07",
+      "domainId": "trauma-emergency",
+      "text": "Manage of third molars"
+    },
+    {
+      "id": "ts-trauma-emergency-08",
+      "domainId": "trauma-emergency",
+      "text": "Manage adverse events and medical emergencies"
+    },
+    {
+      "id": "ts-diagnosis-01",
+      "domainId": "diagnosis",
+      "text": "Identify systemic conditions contributing to oral conditions"
+    },
+    {
+      "id": "ts-diagnosis-02",
+      "domainId": "diagnosis",
+      "text": "Diagnose, manage, and explain the common pediatric oral/facial anomalies"
+    },
+    {
+      "id": "ts-diagnosis-03",
+      "domainId": "diagnosis",
+      "text": "Diagnose, manage, and explain the common pediatric oral/facial pathological conditions"
+    },
+    {
+      "id": "ts-diagnosis-04",
+      "domainId": "diagnosis",
+      "text": "Evaluate, diagnose, and manage dental attrition"
+    },
+    {
+      "id": "ts-diagnosis-05",
+      "domainId": "diagnosis",
+      "text": "Select radiographic techniques and materials, and capture images following radiation hygiene practices"
+    },
+    {
+      "id": "ts-diagnosis-06",
+      "domainId": "diagnosis",
+      "text": "Identify the need for antibiotic therapy and prescribe antibiotics"
+    },
+    {
+      "id": "ts-diagnosis-07",
+      "domainId": "diagnosis",
+      "text": "Identify risk factors for, diagnose, and classify gingival and periodontal disease"
+    },
+    {
+      "id": "ts-prevention-01",
+      "domainId": "prevention",
+      "text": "Evaluate patient medical history"
+    },
+    {
+      "id": "ts-prevention-02",
+      "domainId": "prevention",
+      "text": "Evaluate risk for caries, periodontal disease, and trauma"
+    },
+    {
+      "id": "ts-prevention-03",
+      "domainId": "prevention",
+      "text": "Provide diet counseling"
+    },
+    {
+      "id": "ts-prevention-04",
+      "domainId": "prevention",
+      "text": "Recommend fluoride type and treatment modality"
+    },
+    {
+      "id": "ts-prevention-05",
+      "domainId": "prevention",
+      "text": "Establish recall/recare visits based on patient needs"
+    },
+    {
+      "id": "ts-prevention-06",
+      "domainId": "prevention",
+      "text": "Identify and classify enamel erosion and determine the etiology"
+    },
+    {
+      "id": "ts-caries-01",
+      "domainId": "caries",
+      "text": "Recognize indications for and apply sealants for primary and permanent teeth"
+    },
+    {
+      "id": "ts-caries-02",
+      "domainId": "caries",
+      "text": "Manage minimally invasive restorative treatment for primary and permanent teeth and prescribe follow-up reassessment plan"
+    },
+    {
+      "id": "ts-caries-03",
+      "domainId": "caries",
+      "text": "Manage enamel erosion with preventive and restorative techniques for primary and permanent teeth"
+    },
+    {
+      "id": "ts-caries-04",
+      "domainId": "caries",
+      "text": "Manage hypoplastic and hypomineralized teeth in primary and permanent dentition"
+    },
+    {
+      "id": "ts-caries-05",
+      "domainId": "caries",
+      "text": "Restore primary and permanent teeth with amalgam"
+    },
+    {
+      "id": "ts-caries-06",
+      "domainId": "caries",
+      "text": "Restore primary and permanent teeth with composite"
+    },
+    {
+      "id": "ts-caries-07",
+      "domainId": "caries",
+      "text": "Restore primary and permanent teeth with glass ionomer"
+    },
+    {
+      "id": "ts-caries-08",
+      "domainId": "caries",
+      "text": "Restore primary and permanent teeth with stainless steel crown"
+    },
+    {
+      "id": "ts-caries-09",
+      "domainId": "caries",
+      "text": "Restore primary and permanent incisors with composite crown"
+    },
+    {
+      "id": "ts-caries-10",
+      "domainId": "caries",
+      "text": "Restore primary incisors, canines, and molars with zirconia crown"
+    },
+    {
+      "id": "ts-caries-11",
+      "domainId": "caries",
+      "text": "Identify the indications for prosthetic therapy in the primary and permanent dentition"
+    },
+    {
+      "id": "ts-pulp-01",
+      "domainId": "pulp",
+      "text": "Recognize indications for and perform vital pulp therapy in primary anterior teeth and molars"
+    },
+    {
+      "id": "ts-pulp-02",
+      "domainId": "pulp",
+      "text": "Recognize indications for and perform non-vital pulp therapy in primary anterior teeth and molars"
+    },
+    {
+      "id": "ts-pulp-03",
+      "domainId": "pulp",
+      "text": "Recognize indications for and perform vital pulp therapy in permanent anterior and posterior teeth"
+    },
+    {
+      "id": "ts-pulp-04",
+      "domainId": "pulp",
+      "text": "Recognize indications for and perform non-vital pulp therapies in permanent anterior teeth"
+    },
+    {
+      "id": "ts-pulp-05",
+      "domainId": "pulp",
+      "text": "Recognize indications for and understand the techniques for non-vital pulp therapies in permanent posterior teeth"
+    },
+    {
+      "id": "ts-pulp-06",
+      "domainId": "pulp",
+      "text": "Recognize indications for and understand the technique for apexogenesis"
+    },
+    {
+      "id": "ts-pulp-07",
+      "domainId": "pulp",
+      "text": "Recognize indications for and understand the techniques for apexification"
+    },
+    {
+      "id": "ts-pulp-08",
+      "domainId": "pulp",
+      "text": "Recognize indications for and understand the techniques for regenerative endodontics"
+    },
+    {
+      "id": "ts-shcn-01",
+      "domainId": "shcn",
+      "text": "Recognize special health care needs (congenital or acquired) in patients and the challenges of providing dental care for individuals with these needs"
+    },
+    {
+      "id": "ts-shcn-02",
+      "domainId": "shcn",
+      "text": "Identify and manage common oral manifestations often associated with special healthcare needs"
+    },
+    {
+      "id": "ts-advocacy-01",
+      "domainId": "advocacy",
+      "text": "Maintain social and cultural awareness during patient care"
+    },
+    {
+      "id": "ts-advocacy-02",
+      "domainId": "advocacy",
+      "text": "Advocate for patients to receive needed care and refer patients and guardians to social support resources, including community-based oral health programs and care opportunities"
+    },
+    {
+      "id": "ts-advocacy-03",
+      "domainId": "advocacy",
+      "text": "Participate at the local, state and/or national levels in organized dentistry in its advocacy for public health policy, legislation, and regulations to protect and promote the oral health needs of children."
+    },
+    {
+      "id": "ts-practice-01",
+      "domainId": "practice",
+      "text": "Employ principles and mechanisms of infection control and safety practices to ensure a safe patient care environment (by following professional organization guidelines and complying with local, state, and national standards/regulations)"
+    },
+    {
+      "id": "ts-practice-02",
+      "domainId": "practice",
+      "text": "Develop and follow protocols for clinical practice including safety, technology, privacy, licensing, malpractice, billing, and security"
+    },
+    {
+      "id": "ts-practice-03",
+      "domainId": "practice",
+      "text": "Develop and follow protocols for teledentistry including safety, technology, privacy, licensing, malpractice, billing, and security"
+    },
+    {
+      "id": "ts-practice-04",
+      "domainId": "practice",
+      "text": "Maintain privacy of protected health information according to HIPAA"
+    },
+    {
+      "id": "ts-practice-05",
+      "domainId": "practice",
+      "text": "Continually evaluate the practice for adherence to professional standards (e.g., evidence-based dentistry, practice, policies)"
+    },
+    {
+      "id": "ts-practice-06",
+      "domainId": "practice",
+      "text": "Evaluate research articles for application to clinical practice"
+    }
+  ],
+  "counts": {
+    "mcq": 2,
+    "vignette_mcq": 0,
+    "image_mcq": 0,
+    "flashcard": 0,
+    "note_section": 0,
+    "oce_vignette": 0
+  },
+  "stubFiles": [
+    "stubs/caries.json"
+  ],
+  "noteSubtopics": [],
+  "forms": [
+    {
+      "id": "form_mini-100-a",
+      "name": "100-item mini-mock — Form A",
+      "kind": "mini100",
+      "size": 2
+    },
+    {
+      "id": "form_mini-50-a",
+      "name": "50-item mini-mock — Form A",
+      "kind": "mini50",
+      "size": 2
+    },
+    {
+      "id": "form_qe-full-a",
+      "name": "Full QE simulation — Form A",
+      "kind": "full",
+      "size": 2
+    }
+  ]
+}

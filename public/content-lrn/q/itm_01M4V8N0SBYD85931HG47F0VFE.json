@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M4V8N0SBYD85931HG47F0VFE",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "use-of-pit-and-fissure-sealants",
+    "taskStatementId": "ts-caries-01",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-13T18:34:17.557Z",
+  "type": "mcq",
+  "stem": "Which conclusion did the guideline panel reach about the effect of sealants on occlusal pit-and-fissure carious lesions in children and adolescents?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sealants prevent new occlusal lesions but cannot arrest lesions that have already started."
+    },
+    {
+      "id": "B",
+      "text": "Sealants are effective in permanent molars, but evidence of benefit in primary molars is lacking."
+    },
+    {
+      "id": "C",
+      "text": "Sealants effectively prevent and arrest occlusal lesions in both primary and permanent molars, compared with no sealant or fluoride varnish."
+    },
+    {
+      "id": "D",
+      "text": "Sealants perform no better than leaving the occlusal surface unsealed."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "demo_pulp_remember_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "sample-pulp-widgets",
+      "taskStatementId": "ts-sample-pulp",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_pulp_remember_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "sample-pulp-widgets",
+      "taskStatementId": "ts-sample-pulp",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_pulp_remember_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "sample-pulp-widgets",
+      "taskStatementId": "ts-sample-pulp",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_pulp_understand_apply_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "sample-pulp-widgets",
+      "taskStatementId": "ts-sample-pulp",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_pulp_understand_apply_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "sample-pulp-widgets",
+      "taskStatementId": "ts-sample-pulp",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_pulp_understand_apply_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "sample-pulp-widgets",
+      "taskStatementId": "ts-sample-pulp",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_pulp_analyze_evaluate_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "sample-pulp-widgets",
+      "taskStatementId": "ts-sample-pulp",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_pulp_analyze_evaluate_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "sample-pulp-widgets",
+      "taskStatementId": "ts-sample-pulp",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_pulp_analyze_evaluate_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "sample-pulp-widgets",
+      "taskStatementId": "ts-sample-pulp",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  }
+]

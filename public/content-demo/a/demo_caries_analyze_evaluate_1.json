@@ -1,0 +1,78 @@
+{
+  "id": "demo_caries_analyze_evaluate_1",
+  "version": 1,
+  "type": "mcq",
+  "key": "C",
+  "rationales": {
+    "A": [
+      {
+        "text": "SAMPLE: this option describes a widget that is not on the demo fixture.",
+        "cites": [
+          {
+            "sourceId": "src_cusp-showdown-demo-pack",
+            "page": null,
+            "section": "SAMPLE demo pack"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "SAMPLE: this option describes a widget that is not on the demo fixture.",
+        "cites": [
+          {
+            "sourceId": "src_cusp-showdown-demo-pack",
+            "page": null,
+            "section": "SAMPLE demo pack"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "SAMPLE: this option matches the demo fixture, where it clicks twice.",
+        "cites": [
+          {
+            "sourceId": "src_cusp-showdown-demo-pack",
+            "page": null,
+            "section": "SAMPLE demo pack"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "SAMPLE: this option describes a widget that is not on the demo fixture.",
+        "cites": [
+          {
+            "sourceId": "src_cusp-showdown-demo-pack",
+            "page": null,
+            "section": "SAMPLE demo pack"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "SAMPLE explanation: the demo fixture defines the demo switch as the one where it clicks twice.",
+      "cites": [
+        {
+          "sourceId": "src_cusp-showdown-demo-pack",
+          "page": null,
+          "section": "SAMPLE demo pack"
+        }
+      ]
+    },
+    {
+      "text": "SAMPLE: this pack exists so the board, timer, scoring and reveal can be played end to end. It carries no clinical content and no reviewed citations.",
+      "cites": [
+        {
+          "sourceId": "src_cusp-showdown-demo-pack",
+          "page": null,
+          "section": "SAMPLE demo pack"
+        }
+      ]
+    }
+  ]
+}

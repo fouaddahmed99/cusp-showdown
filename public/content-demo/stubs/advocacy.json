@@ -1,0 +1,110 @@
+[
+  {
+    "id": "demo_advocacy_remember_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "advocacy",
+      "subtopicId": "sample-advocacy-widgets",
+      "taskStatementId": "ts-sample-advocacy",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_advocacy_remember_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "advocacy",
+      "subtopicId": "sample-advocacy-widgets",
+      "taskStatementId": "ts-sample-advocacy",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_advocacy_remember_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "advocacy",
+      "subtopicId": "sample-advocacy-widgets",
+      "taskStatementId": "ts-sample-advocacy",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_advocacy_understand_apply_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "advocacy",
+      "subtopicId": "sample-advocacy-widgets",
+      "taskStatementId": "ts-sample-advocacy",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_advocacy_understand_apply_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "advocacy",
+      "subtopicId": "sample-advocacy-widgets",
+      "taskStatementId": "ts-sample-advocacy",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_advocacy_understand_apply_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "advocacy",
+      "subtopicId": "sample-advocacy-widgets",
+      "taskStatementId": "ts-sample-advocacy",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_advocacy_analyze_evaluate_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "advocacy",
+      "subtopicId": "sample-advocacy-widgets",
+      "taskStatementId": "ts-sample-advocacy",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_advocacy_analyze_evaluate_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "advocacy",
+      "subtopicId": "sample-advocacy-widgets",
+      "taskStatementId": "ts-sample-advocacy",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_advocacy_analyze_evaluate_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "advocacy",
+      "subtopicId": "sample-advocacy-widgets",
+      "taskStatementId": "ts-sample-advocacy",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  }
+]

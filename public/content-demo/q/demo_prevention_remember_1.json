@@ -1,0 +1,31 @@
+{
+  "id": "demo_prevention_remember_1",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "sample-prevention-widgets",
+    "taskStatementId": "ts-sample-prevention",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE recall: on demo fixture 46, which option describes the fixture lamp? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different fixture lamp with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE correct choice — the fixture lamp on fixture 46, because it glows blue when idle"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — the fixture lamp from the unused demo row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

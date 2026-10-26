@@ -1,0 +1,31 @@
+{
+  "id": "demo_behavior_understand_apply_2",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "sample-behavior-widgets",
+    "taskStatementId": "ts-sample-behavior",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE applied: on demo fixture 68, which option describes the sample card? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different sample card with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE correct choice — the sample card on fixture 68, because its corner is folded"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — the sample card from the unused demo row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

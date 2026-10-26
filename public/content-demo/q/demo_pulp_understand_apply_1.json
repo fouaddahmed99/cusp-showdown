@@ -1,0 +1,31 @@
+{
+  "id": "demo_pulp_understand_apply_1",
+  "version": 1,
+  "tags": {
+    "domainId": "pulp",
+    "subtopicId": "sample-pulp-widgets",
+    "taskStatementId": "ts-sample-pulp",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE applied: on demo fixture 22, which option describes the test button? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different test button with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — the test button from the unused demo row"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE correct choice — the test button on fixture 22, because it is the one labelled B"
+    }
+  ]
+}

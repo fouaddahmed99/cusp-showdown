@@ -1,0 +1,31 @@
+{
+  "id": "demo_trauma-emergency_remember_1",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "sample-trauma-emergency-widgets",
+    "taskStatementId": "ts-sample-trauma-emergency",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE recall: on demo fixture 28, which option describes the sample card? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different sample card with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — the sample card from the unused demo row"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE correct choice — the sample card on fixture 28, because its corner is folded"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "demo_diagnosis_remember_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "sample-diagnosis-widgets",
+      "taskStatementId": "ts-sample-diagnosis",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_diagnosis_remember_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "sample-diagnosis-widgets",
+      "taskStatementId": "ts-sample-diagnosis",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_diagnosis_remember_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "sample-diagnosis-widgets",
+      "taskStatementId": "ts-sample-diagnosis",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_diagnosis_understand_apply_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "sample-diagnosis-widgets",
+      "taskStatementId": "ts-sample-diagnosis",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_diagnosis_understand_apply_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "sample-diagnosis-widgets",
+      "taskStatementId": "ts-sample-diagnosis",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_diagnosis_understand_apply_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "sample-diagnosis-widgets",
+      "taskStatementId": "ts-sample-diagnosis",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_diagnosis_analyze_evaluate_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "sample-diagnosis-widgets",
+      "taskStatementId": "ts-sample-diagnosis",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_diagnosis_analyze_evaluate_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "sample-diagnosis-widgets",
+      "taskStatementId": "ts-sample-diagnosis",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_diagnosis_analyze_evaluate_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "sample-diagnosis-widgets",
+      "taskStatementId": "ts-sample-diagnosis",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  }
+]

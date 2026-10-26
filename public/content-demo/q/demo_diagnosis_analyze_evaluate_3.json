@@ -1,0 +1,31 @@
+{
+  "id": "demo_diagnosis_analyze_evaluate_3",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "sample-diagnosis-widgets",
+    "taskStatementId": "ts-sample-diagnosis",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE analysis: on demo fixture 45, which option describes the mock slider? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE correct choice — the mock slider on fixture 45, because it starts at zero"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — a different mock slider with no mark at all"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — the mock slider from the unused demo row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

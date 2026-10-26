@@ -1,0 +1,31 @@
+{
+  "id": "demo_shcn_understand_apply_2",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "sample-shcn-widgets",
+    "taskStatementId": "ts-sample-shcn",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE applied: on demo fixture 14, which option describes the placeholder shape? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different placeholder shape with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — the placeholder shape from the unused demo row"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE correct choice — the placeholder shape on fixture 14, because it has four equal sides"
+    }
+  ]
+}

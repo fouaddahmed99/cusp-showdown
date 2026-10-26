@@ -1,0 +1,31 @@
+{
+  "id": "demo_growth_understand_apply_3",
+  "version": 1,
+  "tags": {
+    "domainId": "growth",
+    "subtopicId": "sample-growth-widgets",
+    "taskStatementId": "ts-sample-growth",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE applied: on demo fixture 60, which option describes the placeholder gauge? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different placeholder gauge with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE correct choice — the placeholder gauge on fixture 60, because its dial runs anticlockwise"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — the placeholder gauge from the unused demo row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

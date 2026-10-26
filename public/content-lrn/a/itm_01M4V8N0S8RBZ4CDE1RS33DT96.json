@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M4V8N0S8RBZ4CDE1RS33DT96",
+  "version": 1,
+  "type": "mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "The recommendation covers both primary and permanent molars, so excluding primary molars is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 5,
+            "section": "the Use of Pit-and-Fissure Sealants › Question 1. Should dental sealants, when compared with"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The panel recommends sealants over no sealants for primary and permanent molars, with either a sound occlusal surface or a noncavitated carious lesion.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 5,
+            "section": "the Use of Pit-and-Fissure Sealants › Question 1. Should dental sealants, when compared with"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The recommendation explicitly includes occlusal surfaces with a noncavitated carious lesion, so such a lesion is not a reason to withhold a sealant.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 5,
+            "section": "the Use of Pit-and-Fissure Sealants › Question 1. Should dental sealants, when compared with"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The recommendation applies to sound surfaces as well as noncavitated lesions, so restricting sealants to surfaces with lesions is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 5,
+            "section": "the Use of Pit-and-Fissure Sealants › Question 1. Should dental sealants, when compared with"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "The guideline favors sealants over no sealants for primary and permanent molars in children and adolescents.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+          "page": 5,
+          "section": "the Use of Pit-and-Fissure Sealants › Question 1. Should dental sealants, when compared with"
+        }
+      ]
+    },
+    {
+      "text": "This holds whether the occlusal surface is sound or has a noncavitated carious lesion.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+          "page": 5,
+          "section": "the Use of Pit-and-Fissure Sealants › Question 1. Should dental sealants, when compared with"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "demo_caries_analyze_evaluate_2",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "sample-caries-widgets",
+    "taskStatementId": "ts-sample-caries",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE analysis: on demo fixture 8, which option describes the sample card? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different sample card with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — the sample card from the unused demo row"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE correct choice — the sample card on fixture 8, because its corner is folded"
+    }
+  ]
+}

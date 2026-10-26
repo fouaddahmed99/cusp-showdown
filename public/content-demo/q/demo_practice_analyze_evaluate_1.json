@@ -1,0 +1,31 @@
+{
+  "id": "demo_practice_analyze_evaluate_1",
+  "version": 1,
+  "tags": {
+    "domainId": "practice",
+    "subtopicId": "sample-practice-widgets",
+    "taskStatementId": "ts-sample-practice",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE analysis: on demo fixture 79, which option describes the test meter? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different test meter with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — the test meter from the unused demo row"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE correct choice — the test meter on fixture 79, because it reads in whole numbers"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

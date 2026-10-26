@@ -1,0 +1,31 @@
+{
+  "id": "demo_advocacy_analyze_evaluate_3",
+  "version": 1,
+  "tags": {
+    "domainId": "advocacy",
+    "subtopicId": "sample-advocacy-widgets",
+    "taskStatementId": "ts-sample-advocacy",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE analysis: on demo fixture 90, which option describes the placeholder gauge? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different placeholder gauge with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE correct choice — the placeholder gauge on fixture 90, because its dial runs anticlockwise"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — the placeholder gauge from the unused demo row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

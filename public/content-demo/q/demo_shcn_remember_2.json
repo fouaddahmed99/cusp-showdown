@@ -1,0 +1,31 @@
+{
+  "id": "demo_shcn_remember_2",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "sample-shcn-widgets",
+    "taskStatementId": "ts-sample-shcn",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE recall: on demo fixture 11, which option describes the demo dial? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different demo dial with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — the demo dial from the unused demo row"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE correct choice — the demo dial on fixture 11, because its needle points at the gold mark"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

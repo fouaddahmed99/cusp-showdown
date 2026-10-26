@@ -1,0 +1,31 @@
+{
+  "id": "demo_growth_understand_apply_2",
+  "version": 1,
+  "tags": {
+    "domainId": "growth",
+    "subtopicId": "sample-growth-widgets",
+    "taskStatementId": "ts-sample-growth",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE applied: on demo fixture 59, which option describes the test meter? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE correct choice — the test meter on fixture 59, because it reads in whole numbers"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — a different test meter with no mark at all"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — the test meter from the unused demo row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

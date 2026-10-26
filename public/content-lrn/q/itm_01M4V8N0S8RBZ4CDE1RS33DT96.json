@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M4V8N0S8RBZ4CDE1RS33DT96",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "use-of-pit-and-fissure-sealants",
+    "taskStatementId": "ts-caries-01",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-13T18:33:54.688Z",
+  "type": "mcq",
+  "stem": "According to the AAPD evidence-based guideline, which statement best describes the recommendation for placing sealants on molars in children and adolescents?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sealants are recommended for permanent molars only, and primary molars should be left unsealed."
+    },
+    {
+      "id": "B",
+      "text": "Sealants are recommended over no sealants on primary and permanent molars, whether the occlusal surface is sound or has a noncavitated carious lesion."
+    },
+    {
+      "id": "C",
+      "text": "Sealants are recommended only on occlusal surfaces that are completely sound, and a noncavitated lesion is a reason to withhold them."
+    },
+    {
+      "id": "D",
+      "text": "Sealants are recommended on primary and permanent molars only when a noncavitated carious lesion is already present, not on sound surfaces."
+    }
+  ]
+}

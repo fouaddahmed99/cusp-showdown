@@ -1,0 +1,31 @@
+{
+  "id": "demo_shcn_understand_apply_1",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "sample-shcn-widgets",
+    "taskStatementId": "ts-sample-shcn",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE applied: on demo fixture 13, which option describes the sample tile? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different sample tile with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — the sample tile from the unused demo row"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE correct choice — the sample tile on fixture 13, because it sits in the third row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

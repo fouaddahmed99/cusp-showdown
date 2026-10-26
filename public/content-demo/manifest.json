@@ -1,0 +1,210 @@
+{
+  "contractVersion": 1,
+  "contentVersion": "demo-3x30",
+  "builtAt": "2026-01-01T00:00:00.000Z",
+  "sample": true,
+  "exam": {
+    "qe": {
+      "totalItems": 240,
+      "unscoredPretestItems": 40,
+      "durationMinutes": 240,
+      "miniMockSizes": [
+        50,
+        100
+      ]
+    },
+    "oce": {
+      "sessions": 2,
+      "sessionMinutes": 60,
+      "examinersPerSession": 2
+    }
+  },
+  "domains": [
+    {
+      "id": "caries",
+      "name": "Caries dx, non-restorative and restorative",
+      "qeWeightPct": 23,
+      "oceWeightPct": 17
+    },
+    {
+      "id": "shcn",
+      "name": "Special health care needs",
+      "qeWeightPct": 14,
+      "oceWeightPct": 8
+    },
+    {
+      "id": "pulp",
+      "name": "Pulp therapy",
+      "qeWeightPct": 12,
+      "oceWeightPct": 8
+    },
+    {
+      "id": "trauma-emergency",
+      "name": "Oral-facial injury, emergency care, oral surgery",
+      "qeWeightPct": 10,
+      "oceWeightPct": 16
+    },
+    {
+      "id": "diagnosis",
+      "name": "Diagnosis, oral pathology, radiology, oral medicine",
+      "qeWeightPct": 10,
+      "oceWeightPct": 10
+    },
+    {
+      "id": "prevention",
+      "name": "Prevention and health promotion",
+      "qeWeightPct": 10,
+      "oceWeightPct": 10
+    },
+    {
+      "id": "growth",
+      "name": "Growth and development",
+      "qeWeightPct": 8,
+      "oceWeightPct": 8
+    },
+    {
+      "id": "behavior",
+      "name": "Behavior guidance",
+      "qeWeightPct": 6,
+      "oceWeightPct": 14
+    },
+    {
+      "id": "practice",
+      "name": "Elements of pediatric dental practice",
+      "qeWeightPct": 5,
+      "oceWeightPct": 5
+    },
+    {
+      "id": "advocacy",
+      "name": "Advocacy and education",
+      "qeWeightPct": 2,
+      "oceWeightPct": 4
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "sample-caries-widgets",
+      "domainId": "caries",
+      "name": "SAMPLE demo widgets (caries)"
+    },
+    {
+      "id": "sample-shcn-widgets",
+      "domainId": "shcn",
+      "name": "SAMPLE demo widgets (shcn)"
+    },
+    {
+      "id": "sample-pulp-widgets",
+      "domainId": "pulp",
+      "name": "SAMPLE demo widgets (pulp)"
+    },
+    {
+      "id": "sample-trauma-emergency-widgets",
+      "domainId": "trauma-emergency",
+      "name": "SAMPLE demo widgets (trauma-emergency)"
+    },
+    {
+      "id": "sample-diagnosis-widgets",
+      "domainId": "diagnosis",
+      "name": "SAMPLE demo widgets (diagnosis)"
+    },
+    {
+      "id": "sample-prevention-widgets",
+      "domainId": "prevention",
+      "name": "SAMPLE demo widgets (prevention)"
+    },
+    {
+      "id": "sample-growth-widgets",
+      "domainId": "growth",
+      "name": "SAMPLE demo widgets (growth)"
+    },
+    {
+      "id": "sample-behavior-widgets",
+      "domainId": "behavior",
+      "name": "SAMPLE demo widgets (behavior)"
+    },
+    {
+      "id": "sample-practice-widgets",
+      "domainId": "practice",
+      "name": "SAMPLE demo widgets (practice)"
+    },
+    {
+      "id": "sample-advocacy-widgets",
+      "domainId": "advocacy",
+      "name": "SAMPLE demo widgets (advocacy)"
+    }
+  ],
+  "taskStatements": [
+    {
+      "id": "ts-sample-caries",
+      "domainId": "caries",
+      "text": "SAMPLE task statement placeholder for caries."
+    },
+    {
+      "id": "ts-sample-shcn",
+      "domainId": "shcn",
+      "text": "SAMPLE task statement placeholder for shcn."
+    },
+    {
+      "id": "ts-sample-pulp",
+      "domainId": "pulp",
+      "text": "SAMPLE task statement placeholder for pulp."
+    },
+    {
+      "id": "ts-sample-trauma-emergency",
+      "domainId": "trauma-emergency",
+      "text": "SAMPLE task statement placeholder for trauma-emergency."
+    },
+    {
+      "id": "ts-sample-diagnosis",
+      "domainId": "diagnosis",
+      "text": "SAMPLE task statement placeholder for diagnosis."
+    },
+    {
+      "id": "ts-sample-prevention",
+      "domainId": "prevention",
+      "text": "SAMPLE task statement placeholder for prevention."
+    },
+    {
+      "id": "ts-sample-growth",
+      "domainId": "growth",
+      "text": "SAMPLE task statement placeholder for growth."
+    },
+    {
+      "id": "ts-sample-behavior",
+      "domainId": "behavior",
+      "text": "SAMPLE task statement placeholder for behavior."
+    },
+    {
+      "id": "ts-sample-practice",
+      "domainId": "practice",
+      "text": "SAMPLE task statement placeholder for practice."
+    },
+    {
+      "id": "ts-sample-advocacy",
+      "domainId": "advocacy",
+      "text": "SAMPLE task statement placeholder for advocacy."
+    }
+  ],
+  "counts": {
+    "mcq": 90,
+    "vignette_mcq": 0,
+    "image_mcq": 0,
+    "flashcard": 0,
+    "note_section": 0,
+    "oce_vignette": 0
+  },
+  "stubFiles": [
+    "stubs/caries.json",
+    "stubs/shcn.json",
+    "stubs/pulp.json",
+    "stubs/trauma-emergency.json",
+    "stubs/diagnosis.json",
+    "stubs/prevention.json",
+    "stubs/growth.json",
+    "stubs/behavior.json",
+    "stubs/practice.json",
+    "stubs/advocacy.json"
+  ],
+  "noteSubtopics": [],
+  "forms": []
+}

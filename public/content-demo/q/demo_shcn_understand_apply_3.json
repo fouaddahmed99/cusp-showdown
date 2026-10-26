@@ -1,0 +1,31 @@
+{
+  "id": "demo_shcn_understand_apply_3",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "sample-shcn-widgets",
+    "taskStatementId": "ts-sample-shcn",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE applied: on demo fixture 15, which option describes the mock slider? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE correct choice — the mock slider on fixture 15, because it starts at zero"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — a different mock slider with no mark at all"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — the mock slider from the unused demo row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

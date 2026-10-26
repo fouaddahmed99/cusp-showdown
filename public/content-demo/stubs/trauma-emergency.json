@@ -1,0 +1,110 @@
+[
+  {
+    "id": "demo_trauma-emergency_remember_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "sample-trauma-emergency-widgets",
+      "taskStatementId": "ts-sample-trauma-emergency",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_trauma-emergency_remember_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "sample-trauma-emergency-widgets",
+      "taskStatementId": "ts-sample-trauma-emergency",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_trauma-emergency_remember_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "sample-trauma-emergency-widgets",
+      "taskStatementId": "ts-sample-trauma-emergency",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_trauma-emergency_understand_apply_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "sample-trauma-emergency-widgets",
+      "taskStatementId": "ts-sample-trauma-emergency",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_trauma-emergency_understand_apply_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "sample-trauma-emergency-widgets",
+      "taskStatementId": "ts-sample-trauma-emergency",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_trauma-emergency_understand_apply_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "sample-trauma-emergency-widgets",
+      "taskStatementId": "ts-sample-trauma-emergency",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_trauma-emergency_analyze_evaluate_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "sample-trauma-emergency-widgets",
+      "taskStatementId": "ts-sample-trauma-emergency",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_trauma-emergency_analyze_evaluate_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "sample-trauma-emergency-widgets",
+      "taskStatementId": "ts-sample-trauma-emergency",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_trauma-emergency_analyze_evaluate_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "sample-trauma-emergency-widgets",
+      "taskStatementId": "ts-sample-trauma-emergency",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  }
+]

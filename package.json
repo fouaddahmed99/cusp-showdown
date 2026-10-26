@@ -1,0 +1,40 @@
+{
+  "name": "cusp-showdown",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "CUSP Showdown — a quiz-board game for pediatric dentistry board review, built on the CUSP LRN approved question bank.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "e2e": "node tests/e2e/play-solo.mjs",
+    "content:demo": "node scripts/make-demo-content.mjs",
+    "content:sync": "node scripts/sync-lrn-content.mjs",
+    "check": "pnpm run typecheck && pnpm run test && pnpm run build"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.57.4",
+    "motion": "12.23.12",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "zod": "4.1.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.1.13",
+    "@types/node": "22.15.3",
+    "@types/pg": "8.15.5",
+    "@types/react": "19.1.10",
+    "@types/react-dom": "19.1.7",
+    "@vitejs/plugin-react": "5.0.2",
+    "pg": "8.16.3",
+    "tailwindcss": "4.1.13",
+    "typescript": "5.8.3",
+    "vite": "7.1.5",
+    "vitest": "3.2.4"
+  }
+}

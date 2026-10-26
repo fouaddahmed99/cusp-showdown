@@ -1,0 +1,31 @@
+{
+  "id": "demo_trauma-emergency_remember_3",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "sample-trauma-emergency-widgets",
+    "taskStatementId": "ts-sample-trauma-emergency",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE recall: on demo fixture 30, which option describes the placeholder gauge? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different placeholder gauge with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE correct choice — the placeholder gauge on fixture 30, because its dial runs anticlockwise"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — the placeholder gauge from the unused demo row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

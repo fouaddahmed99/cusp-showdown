@@ -1,0 +1,59 @@
+name: Sync approved content
+
+# Pulls the published CUSP LRN bundle into public/content-lrn/ and opens a pull
+# request when it has changed, so a content update is reviewed like any other
+# change rather than appearing on the board unannounced.
+#
+# Nothing here writes to cusp-lrn-content or cusp-lrn-web. It only reads the
+# bundle those repositories already publish.
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Mondays, 07:13 UTC.
+    - cron: "13 7 * * 1"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Pull the published bundle
+        run: pnpm run content:sync
+
+      - name: Validate it against the contract
+        run: pnpm run test
+
+      - name: Open a pull request if the content moved
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: content/sync-approved-bundle
+          title: "Content: refresh the approved CUSP LRN bundle"
+          commit-message: "Content: refresh the approved CUSP LRN bundle"
+          body: |
+            Refreshes `public/content-lrn/` from the bundle published to
+            `fouaddahmed99/cusp-lrn-web`.
+
+            The adapter tests ran against the new bundle: every item validates
+            against the public contract, every explanation cites a source the
+            bundle ships, and every answer key is one of its question's options.
+
+            Nothing in this pull request was written by hand.
+          add-paths: public/content-lrn
+          delete-branch: true

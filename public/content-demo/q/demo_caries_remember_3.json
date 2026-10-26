@@ -1,0 +1,31 @@
+{
+  "id": "demo_caries_remember_3",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "sample-caries-widgets",
+    "taskStatementId": "ts-sample-caries",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE recall: on demo fixture 3, which option describes the sample tile? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different sample tile with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — the sample tile from the unused demo row"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE correct choice — the sample tile on fixture 3, because it sits in the third row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

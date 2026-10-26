@@ -1,0 +1,78 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time; a queued run supersedes the one waiting.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Typecheck
+        run: pnpm run typecheck
+
+      - name: Unit tests
+        run: pnpm run test
+
+      - name: Refresh the approved CUSP LRN content bundle
+        # Pulls the published bundle from the public web repo. If the fetch
+        # fails, the committed snapshot in public/content-lrn/ is used instead,
+        # so a deployment is never blocked on the content repo.
+        run: pnpm run content:sync || echo "::warning::content sync failed; using the committed snapshot"
+
+      - name: Regenerate the labelled demo pack
+        run: pnpm run content:demo
+
+      - name: Build
+        env:
+          BASE_PATH: /${{ github.event.repository.name }}/
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
+        run: pnpm run build
+
+      - name: Check the build carries its content
+        run: |
+          test -f dist/index.html
+          test -f dist/content-demo/manifest.json
+          test -f dist/content-lrn/manifest.json
+          grep -q "/${{ github.event.repository.name }}/assets/" dist/index.html \
+            || (echo "::error::the base path is wrong in dist/index.html" && exit 1)
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

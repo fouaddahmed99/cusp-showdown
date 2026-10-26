@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M4V8N0SBYD85931HG47F0VFE",
+  "version": 1,
+  "type": "mcq",
+  "key": "C",
+  "rationales": {
+    "A": [
+      {
+        "text": "The panel concluded that sealants arrest occlusal lesions as well as prevent them, so this option is wrong.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 1,
+            "section": "the Use of Pit-and-Fissure Sealants › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The conclusion of effectiveness covers primary molars as well as permanent molars.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 1,
+            "section": "the Use of Pit-and-Fissure Sealants › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The panel concluded that sealants effectively prevent and arrest occlusal pit-and-fissure lesions in primary and permanent molars, versus no sealant or fluoride varnish.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 1,
+            "section": "the Use of Pit-and-Fissure Sealants › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The panel found sealants effective when compared with no sealant, so claiming they are no better than leaving the surface unsealed is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 1,
+            "section": "the Use of Pit-and-Fissure Sealants › ABBREVIATIONS"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "The panel concluded that sealants are effective at both preventing and arresting occlusal pit-and-fissure carious lesions.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+          "page": 1,
+          "section": "the Use of Pit-and-Fissure Sealants › ABBREVIATIONS"
+        }
+      ]
+    },
+    {
+      "text": "This conclusion applies to primary and permanent molars of children and adolescents, and the comparison was with no sealant or fluoride varnish.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+          "page": 1,
+          "section": "the Use of Pit-and-Fissure Sealants › ABBREVIATIONS"
+        }
+      ]
+    }
+  ]
+}

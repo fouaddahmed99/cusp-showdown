@@ -1,0 +1,31 @@
+{
+  "id": "demo_practice_remember_2",
+  "version": 1,
+  "tags": {
+    "domainId": "practice",
+    "subtopicId": "sample-practice-widgets",
+    "taskStatementId": "ts-sample-practice",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE recall: on demo fixture 74, which option describes the placeholder shape? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE distractor — a different placeholder shape with no mark at all"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE correct choice — the placeholder shape on fixture 74, because it has four equal sides"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — the placeholder shape from the unused demo row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

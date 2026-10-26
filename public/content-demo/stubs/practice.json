@@ -1,0 +1,110 @@
+[
+  {
+    "id": "demo_practice_remember_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "practice",
+      "subtopicId": "sample-practice-widgets",
+      "taskStatementId": "ts-sample-practice",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_practice_remember_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "practice",
+      "subtopicId": "sample-practice-widgets",
+      "taskStatementId": "ts-sample-practice",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_practice_remember_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "practice",
+      "subtopicId": "sample-practice-widgets",
+      "taskStatementId": "ts-sample-practice",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_practice_understand_apply_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "practice",
+      "subtopicId": "sample-practice-widgets",
+      "taskStatementId": "ts-sample-practice",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_practice_understand_apply_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "practice",
+      "subtopicId": "sample-practice-widgets",
+      "taskStatementId": "ts-sample-practice",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_practice_understand_apply_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "practice",
+      "subtopicId": "sample-practice-widgets",
+      "taskStatementId": "ts-sample-practice",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_practice_analyze_evaluate_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "practice",
+      "subtopicId": "sample-practice-widgets",
+      "taskStatementId": "ts-sample-practice",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_practice_analyze_evaluate_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "practice",
+      "subtopicId": "sample-practice-widgets",
+      "taskStatementId": "ts-sample-practice",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_practice_analyze_evaluate_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "practice",
+      "subtopicId": "sample-practice-widgets",
+      "taskStatementId": "ts-sample-practice",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "demo_shcn_remember_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "sample-shcn-widgets",
+      "taskStatementId": "ts-sample-shcn",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_shcn_remember_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "sample-shcn-widgets",
+      "taskStatementId": "ts-sample-shcn",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_shcn_remember_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "sample-shcn-widgets",
+      "taskStatementId": "ts-sample-shcn",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_shcn_understand_apply_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "sample-shcn-widgets",
+      "taskStatementId": "ts-sample-shcn",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_shcn_understand_apply_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "sample-shcn-widgets",
+      "taskStatementId": "ts-sample-shcn",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_shcn_understand_apply_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "sample-shcn-widgets",
+      "taskStatementId": "ts-sample-shcn",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_shcn_analyze_evaluate_1",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "sample-shcn-widgets",
+      "taskStatementId": "ts-sample-shcn",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_shcn_analyze_evaluate_2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "sample-shcn-widgets",
+      "taskStatementId": "ts-sample-shcn",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "demo_shcn_analyze_evaluate_3",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "sample-shcn-widgets",
+      "taskStatementId": "ts-sample-shcn",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  }
+]

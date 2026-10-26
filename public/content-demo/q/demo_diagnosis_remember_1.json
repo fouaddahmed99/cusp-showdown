@@ -1,0 +1,31 @@
+{
+  "id": "demo_diagnosis_remember_1",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "sample-diagnosis-widgets",
+    "taskStatementId": "ts-sample-diagnosis",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-01-01T00:00:00.000Z",
+  "type": "mcq",
+  "stem": "SAMPLE recall: on demo fixture 37, which option describes the demo switch? (Placeholder content for interface testing, not a clinical question.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE correct choice — the demo switch on fixture 37, because it clicks twice"
+    },
+    {
+      "id": "B",
+      "text": "SAMPLE distractor — a different demo switch with no mark at all"
+    },
+    {
+      "id": "C",
+      "text": "SAMPLE distractor — the demo switch from the unused demo row"
+    },
+    {
+      "id": "D",
+      "text": "SAMPLE distractor — none of the demo widgets on this fixture board"
+    }
+  ]
+}

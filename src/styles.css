@@ -1,0 +1,186 @@
+@import "tailwindcss";
+
+/*
+ * CUSP SHOWDOWN — visual system
+ *
+ * A "cusp" is the pointed ridge on a tooth's occlusal surface, so the board's
+ * motif is a cut corner: every tile, panel and button has one bevelled edge.
+ * Gold is reserved for points and for the winner. Purple means "a live room is
+ * in progress". Cyan is interaction and focus. Nothing else gets an accent.
+ */
+@theme {
+  --color-abyss: #04070f;
+  --color-navy-900: #070b1c;
+  --color-navy-800: #0b1226;
+  --color-navy-700: #121b38;
+  --color-navy-600: #1b2650;
+  --color-navy-500: #273463;
+  --color-ink-300: #9aa6cc;
+  --color-ink-200: #c2cbe8;
+  --color-ink-100: #e8ecfa;
+
+  --color-electric: #2dd4ff;
+  --color-electric-dim: #1899c4;
+  --color-violet: #8b5cf6;
+  --color-violet-dim: #6d3fd4;
+  --color-gold: #f5c23e;
+  --color-gold-dim: #c7912a;
+  --color-correct: #34d399;
+  --color-wrong: #fb7185;
+
+  --font-display: "Bricolage Grotesque", "Trebuchet MS", system-ui, sans-serif;
+  --font-body: "Figtree", "Segoe UI", system-ui, sans-serif;
+
+  --ease-cusp: cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+:root {
+  color-scheme: dark;
+  /* Projector mode scales the whole type system from one place. */
+  --scale: 1;
+  --tile-notch: 0.9rem;
+}
+
+html {
+  background: var(--color-abyss);
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(1100px 620px at 78% -10%, rgba(139, 92, 246, 0.2), transparent 62%),
+    radial-gradient(900px 520px at 8% 4%, rgba(45, 212, 255, 0.14), transparent 58%),
+    linear-gradient(180deg, var(--color-navy-900), var(--color-abyss) 72%);
+    background-attachment: fixed;
+  color: var(--color-ink-100);
+  font-family: var(--font-body);
+  font-size: calc(1rem * var(--scale));
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+.display {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 1.04;
+}
+
+/* The cut corner. One geometry, reused, so the board reads as one object. */
+.cusp {
+  clip-path: polygon(
+    var(--tile-notch) 0,
+    100% 0,
+    100% calc(100% - var(--tile-notch)),
+    calc(100% - var(--tile-notch)) 100%,
+    0 100%,
+    0 var(--tile-notch)
+  );
+}
+
+.cusp-sm {
+  --tile-notch: 0.5rem;
+}
+
+/* Focus must stay obvious on a projector at the back of a seminar room. */
+:where(button, a, input, select, [tabindex]):focus-visible {
+  outline: 3px solid var(--color-electric);
+  outline-offset: 2px;
+}
+
+.tile-face {
+  background: linear-gradient(165deg, var(--color-navy-600), var(--color-navy-800) 72%);
+  box-shadow:
+    inset 0 1px 0 rgba(226, 232, 255, 0.1),
+    inset 0 -14px 28px rgba(4, 7, 15, 0.5);
+}
+
+.tile-face-open {
+  background: linear-gradient(165deg, var(--color-violet-dim), var(--color-navy-700) 70%);
+}
+
+.panel {
+  background: linear-gradient(170deg, rgba(18, 27, 56, 0.92), rgba(7, 11, 28, 0.94));
+  border: 1px solid rgba(154, 166, 204, 0.16);
+  backdrop-filter: blur(8px);
+}
+
+.hairline {
+  border-color: rgba(154, 166, 204, 0.18);
+}
+
+/* Numerals: tabular everywhere, so scores do not jitter as they tick. */
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* Idle shimmer on the home board preview. The only unprompted motion. */
+@keyframes cusp-breathe {
+  0%,
+  100% {
+    filter: brightness(1);
+    transform: translateY(0);
+  }
+  50% {
+    filter: brightness(1.5);
+    transform: translateY(-2px);
+  }
+}
+
+.breathe {
+  animation: cusp-breathe 4.5s var(--ease-cusp) infinite;
+}
+
+@keyframes buzz-flash {
+  0% {
+    box-shadow: 0 0 0 0 rgba(245, 194, 62, 0.8);
+  }
+  100% {
+    box-shadow: 0 0 0 36px rgba(245, 194, 62, 0);
+  }
+}
+
+.buzz-flash {
+  animation: buzz-flash 0.6s var(--ease-cusp) 1;
+}
+
+@keyframes confetti-fall {
+  0% {
+    transform: translate3d(0, -12vh, 0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(var(--drift, 0), 104vh, 0) rotate(var(--spin, 540deg));
+    opacity: 0.9;
+  }
+}
+
+.confetti-piece {
+  position: fixed;
+  top: 0;
+  width: 0.55rem;
+  height: 0.95rem;
+  animation: confetti-fall var(--dur, 2.6s) linear forwards;
+  pointer-events: none;
+  z-index: 60;
+}
+
+/* Scrollbars, dark and quiet. */
+* {
+  scrollbar-color: var(--color-navy-500) transparent;
+  scrollbar-width: thin;
+}
