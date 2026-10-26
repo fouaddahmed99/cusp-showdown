@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5TY53PJF8TH6PYEKX5XWX6H",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "The evidence indicates that routine patient shielding is no longer considered necessary, while regulations and ALARA should still be followed.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 4,
+            "section": "Health Care Needs › Patient (New and Recall)"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The evidence indicates that routine shielding is no longer considered necessary.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 4,
+            "section": "Health Care Needs › Patient (New and Recall)"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "ALARA should still be followed even though routine shielding is no longer considered necessary.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 4,
+            "section": "Health Care Needs › Patient (New and Recall)"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Regulations should still be followed despite the change in the evidence on routine shielding.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 4,
+            "section": "Health Care Needs › Patient (New and Recall)"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Routine patient shielding is no longer considered necessary according to the evidence, but regulations and ALARA continue to apply.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+          "page": 4,
+          "section": "Health Care Needs › Patient (New and Recall)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V15PNJB7TK8DMXFEZXB2QQ",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "periodicity-of-examination-preventive-dental-servi",
+    "taskStatementId": "ts-prevention-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:39:10.971Z",
+  "type": "mcq",
+  "stem": "Why do current caries-risk assessment models combine several types of information instead of relying on a single measure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Caries is determined mainly by oral microflora, and the other data only confirm that result."
+    },
+    {
+      "id": "B",
+      "text": "Social, cultural, and behavioral factors are left out so the model stays objective."
+    },
+    {
+      "id": "C",
+      "text": "Fluoride exposure is not considered a component of caries risk."
+    },
+    {
+      "id": "D",
+      "text": "Caries has multiple etiologic factors, including diet, fluoride exposure, host susceptibility, and microflora, that interact with social, cultural, and behavioral influences."
+    }
+  ]
+}

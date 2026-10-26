@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5TZ4RKE074FHE387PSJMPZ6",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Regained space should be held until neighboring permanent teeth are fully erupted or comprehensive orthodontic treatment begins.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 10,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Regained space is to be held beyond the point of regaining it, so immediate removal is not appropriate.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 10,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Holding continues until neighboring permanent teeth are fully erupted, not merely until emergence begins.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 10,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Guidance specifically calls for holding regained space until full eruption of neighboring permanent teeth or the start of comprehensive orthodontic treatment.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 10,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Regained space should be maintained until neighboring permanent teeth have fully erupted or comprehensive orthodontic treatment begins.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+          "page": 10,
+          "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+        }
+      ]
+    }
+  ]
+}

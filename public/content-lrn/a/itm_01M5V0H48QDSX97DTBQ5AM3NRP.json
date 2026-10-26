@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5V0H48QDSX97DTBQ5AM3NRP",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "The forms are split by age group and use three factor categories to give a high, moderate, or low risk score.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+            "page": 1,
+            "section": "Infants, Children, and Adolescents › Latest Revision"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The forms are split by age group, so a single all-ages form is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+            "page": 1,
+            "section": "Infants, Children, and Adolescents › Latest Revision"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The result has three levels (high, moderate, low), not two.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+            "page": 1,
+            "section": "Infants, Children, and Adolescents › Latest Revision"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The score comes from three factor categories, not from a single category.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+            "page": 1,
+            "section": "Infants, Children, and Adolescents › Latest Revision"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Caries-risk assessment forms are age-specific and combine three factor categories into a high, moderate, or low risk score.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+          "page": 1,
+          "section": "Infants, Children, and Adolescents › Latest Revision"
+        }
+      ]
+    }
+  ]
+}

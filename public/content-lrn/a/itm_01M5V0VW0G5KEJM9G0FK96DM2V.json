@@ -1,0 +1,98 @@
+{
+  "id": "itm_01M5V0VW0G5KEJM9G0FK96DM2V",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "As primary teeth begin to erupt, prevention information should address frequent sugar intake, prolonged breastfeeding, hygiene habits, and optimally fluoridated community water.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 3,
+            "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The guidance explicitly includes prolonged breastfeeding, hygiene habits, and fluoridated water in addition to sugar intake, so limiting counseling to sugar is incomplete.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 3,
+            "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Frequent sugar intake and prolonged breastfeeding are named topics at tooth eruption, so dietary topics should not be deferred.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 3,
+            "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+          }
+        ]
+      },
+      {
+        "text": "Dietary counseling is recommended as early as possible.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-consequence-2025",
+            "page": 2,
+            "section": "and Preventive Strategies › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Frequent sugar intake is listed among the topics once primary teeth begin erupting, so it is relevant immediately.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 3,
+            "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+          }
+        ]
+      },
+      {
+        "text": "Anticipatory guidance for infants specifically includes counseling about sugar intake.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 3,
+            "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "At tooth eruption, counseling should cover frequent sugar intake, prolonged breastfeeding, hygiene habits, and optimally fluoridated community water together.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+          "page": 3,
+          "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+        }
+      ]
+    },
+    {
+      "text": "Narrower topic sets omit components the guidance names.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+          "page": 3,
+          "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+        }
+      ]
+    }
+  ]
+}

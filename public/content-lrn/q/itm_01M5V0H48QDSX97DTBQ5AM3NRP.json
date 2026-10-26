@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V0H48QDSX97DTBQ5AM3NRP",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "perinatal-and-infant-oral-health-care",
+    "taskStatementId": "ts-prevention-02",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T02:27:49.924Z",
+  "type": "mcq",
+  "stem": "Which statement best describes how caries-risk assessment forms are structured?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They are divided by age group, use three factor categories, and produce a high, moderate, or low risk score."
+    },
+    {
+      "id": "B",
+      "text": "One form is used for all ages, with three factor categories."
+    },
+    {
+      "id": "C",
+      "text": "They are divided by age group but produce only a high or low result."
+    },
+    {
+      "id": "D",
+      "text": "They are divided by age group and draw on a single factor category to give a high, moderate, or low score."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "itm_01M5V29MQBNZRH7C43YSWGTAHE",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "use-of-fluoride",
+    "taskStatementId": "ts-prevention-04",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:58:29.766Z",
+  "type": "mcq",
+  "stem": "A resident is asked how to choose among systemic fluoride and in-office or home topical fluoride products for a child. Which approach is most consistent with AAPD guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Select products based on the individual patient's specific needs, whether delivered in the office or at home."
+    },
+    {
+      "id": "B",
+      "text": "Use one standard fluoride product for every patient regardless of individual needs."
+    },
+    {
+      "id": "C",
+      "text": "Base dietary fluoride supplement decisions on the child's age alone."
+    },
+    {
+      "id": "D",
+      "text": "Defer fluoridated toothpaste until professionally applied agents have been given."
+    },
+    {
+      "id": "E",
+      "text": "Avoid fluoridated toothpaste in patients with special health care needs."
+    }
+  ]
+}

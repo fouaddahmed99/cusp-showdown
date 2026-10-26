@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TVK3HYW90B33J1PVSN0HG8",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "use-of-nitrous-oxide",
+    "taskStatementId": "ts-behavior-03",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:01:19.057Z",
+  "type": "mcq",
+  "stem": "A child has been comfortable on a low nitrous oxide concentration during a simple restoration. The dentist is about to give a local anesthetic injection. Which adjustment is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increase the nitrous oxide concentration for the more stimulating step"
+    },
+    {
+      "id": "B",
+      "text": "Decrease the concentration further because injections are minor steps"
+    },
+    {
+      "id": "C",
+      "text": "Deliver nitrous oxide with no oxygen component for the injection"
+    },
+    {
+      "id": "D",
+      "text": "Stop nitrous oxide because an injection is too stimulating for its use"
+    }
+  ]
+}

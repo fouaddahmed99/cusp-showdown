@@ -1,0 +1,98 @@
+{
+  "id": "itm_01M5TXZ1XYYGNVW3B68BVG2TQ3",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "The protocol includes periodic monitoring for signs of progression, and repeated applications may be needed to maintain arrest, so ending surveillance is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+            "page": 4,
+            "section": "Infants, Children, and Adolescents › Sealants"
+          },
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Surveillance involves periodic monitoring for signs that caries is progressing.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+            "page": 4,
+            "section": "Infants, Children, and Adolescents › Sealants"
+          }
+        ]
+      },
+      {
+        "text": "Repeated SDF applications over time may be needed to maintain arrest.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "A black, hard lesion is the typical result of SDF, so it does not indicate failure.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "SDF is effective at arresting caries lesions and can be part of a caries management plan.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "A black, hard lesion is the expected appearance after SDF.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+          "page": 1,
+          "section": "Management of Dental Caries Lesions*"
+        }
+      ]
+    },
+    {
+      "text": "The follow-up plan combines periodic monitoring for progression with repeat applications over time as needed.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+          "page": 4,
+          "section": "Infants, Children, and Adolescents › Sealants"
+        },
+        {
+          "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+          "page": 1,
+          "section": "Management of Dental Caries Lesions*"
+        }
+      ]
+    }
+  ]
+}

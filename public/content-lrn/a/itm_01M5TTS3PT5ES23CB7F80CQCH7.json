@@ -1,0 +1,103 @@
+{
+  "id": "itm_01M5TTS3PT5ES23CB7F80CQCH7",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "During MRI, responses to stimulation usually cannot be assessed, so the patient is presumed to be deeply sedated.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 8,
+            "section": "RECOMMENDATIONS: BEST PRACTICE › Deep sedation/General anesthesia"
+          }
+        ]
+      },
+      {
+        "text": "The practitioner must be able to rescue a child who reaches deep sedation, including managing apnea, laryngospasm, or airway obstruction.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 7,
+            "section": "RECOMMENDATIONS: BEST PRACTICE › Personnel"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Responses to stimulation usually cannot be assessed during MRI, which is why deep sedation is presumed rather than moderate sedation.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 8,
+            "section": "RECOMMENDATIONS: BEST PRACTICE › Deep sedation/General anesthesia"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Deep sedation is the correct presumption, but a practitioner must be able to manage apnea, laryngospasm, and airway obstruction.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 8,
+            "section": "RECOMMENDATIONS: BEST PRACTICE › Deep sedation/General anesthesia"
+          },
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 7,
+            "section": "RECOMMENDATIONS: BEST PRACTICE › Personnel"
+          }
+        ]
+      },
+      {
+        "text": "Patients in deep sedation may lose protective airway reflexes partially or completely, so the reflexes cannot be assumed intact.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 8,
+            "section": "RECOMMENDATIONS: BEST PRACTICE › Deep sedation/General anesthesia"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Because responses usually cannot be assessed in the MRI setting, the patient is presumed deeply sedated from the start, not minimally sedated until apnea occurs.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 8,
+            "section": "RECOMMENDATIONS: BEST PRACTICE › Deep sedation/General anesthesia"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "In MRI the depth of sedation cannot be confirmed by responsiveness, so deep sedation is presumed.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+          "page": 8,
+          "section": "RECOMMENDATIONS: BEST PRACTICE › Deep sedation/General anesthesia"
+        }
+      ]
+    },
+    {
+      "text": "The practitioner therefore needs rescue skills for apnea, laryngospasm, and airway obstruction.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+          "page": 7,
+          "section": "RECOMMENDATIONS: BEST PRACTICE › Personnel"
+        }
+      ]
+    }
+  ]
+}

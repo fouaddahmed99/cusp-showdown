@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5TV18X152DW249BEEREKT7N",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "The dentist should factor in cognitive and psychological development as well as other communication deficits such as a hearing disorder.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 5,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Basic behavior guidance"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Cognitive and psychological development must also be factored in, so considering the hearing disorder alone is inadequate.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 5,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Basic behavior guidance"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Communication deficits such as a hearing disorder are explicitly part of what the dentist must consider, so they cannot be treated as irrelevant.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 5,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Basic behavior guidance"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Cognitive development and other communication deficits, such as hearing disorder, are also to be considered, so psychological development alone is insufficient.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 5,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Basic behavior guidance"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Choosing communicative guidance techniques requires weighing the patient's cognitive and psychological development along with any communication deficits, such as a hearing disorder.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+          "page": 5,
+          "section": "Behavior Guidance for the Pediatric Dental Patient › Basic behavior guidance"
+        }
+      ]
+    }
+  ]
+}

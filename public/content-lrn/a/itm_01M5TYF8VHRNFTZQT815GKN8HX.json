@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5TYF8VHRNFTZQT815GKN8HX",
+  "version": 1,
+  "type": "mcq",
+  "key": "C",
+  "rationales": {
+    "A": [
+      {
+        "text": "The age ranges are reversed; children are 6 to 9 and adolescents are 10 to 19.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 2,
+            "section": "Care Needs › Prevalence of TMD in children and adolescents"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The criteria were also adapted for children aged 6 to 9, not only adolescents.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 2,
+            "section": "Care Needs › Prevalence of TMD in children and adolescents"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The criteria have been adapted for children aged 6 to 9 and adolescents aged 10 to 19.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 2,
+            "section": "Care Needs › Prevalence of TMD in children and adolescents"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The criteria were also adapted for adolescents aged 10 to 19, not only younger children.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 2,
+            "section": "Care Needs › Prevalence of TMD in children and adolescents"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "The Diagnostic Criteria for TMD have been adapted for children aged 6 to 9 and adolescents aged 10 to 19.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+          "page": 2,
+          "section": "Care Needs › Prevalence of TMD in children and adolescents"
+        }
+      ]
+    }
+  ]
+}

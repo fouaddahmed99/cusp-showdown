@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5V0PD7M69PMM7BDTDK9NV2T",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Guidance for patients with special health care needs should address concerns linked to medical status, including caries, periodontal, trauma, and orthodontic risks.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 6,
+            "section": "Management of Dental Patients with Special Health Care Needs › Recommendations"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Caries is only one of several risks that the guidance should cover, so limiting it to caries is too narrow.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 6,
+            "section": "Management of Dental Patients with Special Health Care Needs › Recommendations"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Guidance is meant to be tied to the child's medical status, so a generic approach that ignores it is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 6,
+            "section": "Management of Dental Patients with Special Health Care Needs › Recommendations"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Caries and orthodontic risks are named among the concerns to address, so leaving them out is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 6,
+            "section": "Management of Dental Patients with Special Health Care Needs › Recommendations"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Anticipatory guidance for a child with special health care needs should be built around the medical status and cover caries, periodontal, trauma, and orthodontic risks.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 6,
+          "section": "Management of Dental Patients with Special Health Care Needs › Recommendations"
+        }
+      ]
+    }
+  ]
+}

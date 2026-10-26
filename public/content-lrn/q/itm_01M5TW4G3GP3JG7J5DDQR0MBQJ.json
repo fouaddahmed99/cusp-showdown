@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5TW4G3GP3JG7J5DDQR0MBQJ",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "chairside-guide-silver-diammine-fluoride-in-the-ma",
+    "taskStatementId": "ts-caries-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:10:47.013Z",
+  "type": "vignette_mcq",
+  "vignette": "A caregiver brings in a child with cavitated carious lesions on primary molars. The clinician plans to arrest them with 38% SDF as part of a comprehensive caries management program and is now obtaining informed consent.",
+  "stem": "Which point should be particularly emphasized to the caregiver during informed consent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The treated lesions are expected to stain."
+    },
+    {
+      "id": "B",
+      "text": "The treated lesions will stay tooth-colored if the material is applied correctly."
+    },
+    {
+      "id": "C",
+      "text": "The treated lesions will become soft after treatment."
+    },
+    {
+      "id": "D",
+      "text": "One application guarantees the lesions will stay arrested permanently."
+    }
+  ]
+}

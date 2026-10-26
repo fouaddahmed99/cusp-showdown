@@ -1,0 +1,118 @@
+{
+  "id": "itm_01M5TW9TCJQK7XBVS5JKYEGNJ4",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Interim therapeutic restorations may provide caries control in children with multiple open lesions before definitive restoration.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 5,
+            "section": "Pediatric Restorative Dentistry › Glass-ionomer cements (GIC)"
+          }
+        ]
+      },
+      {
+        "text": "They are also listed among the minimal intervention options for ECC.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-unique-chal-2025",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "SDF at 38% is effective for arresting cavitated lesions in primary teeth, so it is not limited to permanent teeth.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-consequence-2025",
+            "page": 2,
+            "section": "and Preventive Strategies › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Sealants and Hall-technique crowns are both named among minimal intervention options for ECC.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-unique-chal-2025",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Not every caries lesion needs restoration.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 1,
+            "section": "Pediatric Restorative Dentistry"
+          }
+        ]
+      },
+      {
+        "text": "Restoring a lesion does not stop the disease process.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 1,
+            "section": "Pediatric Restorative Dentistry"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Interim therapeutic restorations are a minimally invasive way to gain caries control when a child has multiple open lesions awaiting definitive restoration.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+          "page": 5,
+          "section": "Pediatric Restorative Dentistry › Glass-ionomer cements (GIC)"
+        },
+        {
+          "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-unique-chal-2025",
+          "page": 1,
+          "section": ""
+        }
+      ]
+    },
+    {
+      "text": "Minimal intervention options also include SDF, sealants, and Hall-technique crowns, and SDF applies to primary teeth.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-unique-chal-2025",
+          "page": 1,
+          "section": ""
+        },
+        {
+          "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-consequence-2025",
+          "page": 2,
+          "section": "and Preventive Strategies › ABBREVIATIONS"
+        }
+      ]
+    },
+    {
+      "text": "Restoration is not required for every lesion and does not itself stop the disease.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+          "page": 1,
+          "section": "Pediatric Restorative Dentistry"
+        }
+      ]
+    }
+  ]
+}

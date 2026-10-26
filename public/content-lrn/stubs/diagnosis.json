@@ -1,0 +1,74 @@
+[
+  {
+    "id": "itm_01M5TY53PJF8TH6PYEKX5XWX6H",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "prescribing-dental-radiographs",
+      "taskStatementId": "ts-diagnosis-05",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TY53PJXSCNNBJ35WKKSB9J",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "prescribing-dental-radiographs",
+      "taskStatementId": "ts-diagnosis-05",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TY53PJZWK46RRJZKS52MT4",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "prescribing-dental-radiographs",
+      "taskStatementId": "ts-diagnosis-05",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TYF8VG1VREQXSGSVCRTDGE",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "temporomandibular-disorders-in-children-and-adoles",
+      "taskStatementId": "ts-diagnosis-03",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TYF8VHCCVRSHVVNKS82ZPJ",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "temporomandibular-disorders-in-children-and-adoles",
+      "taskStatementId": "ts-diagnosis-03",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TYF8VHRNFTZQT815GKN8HX",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "temporomandibular-disorders-in-children-and-adoles",
+      "taskStatementId": "ts-diagnosis-03",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5V0PD7NFTC2PGVHY4D2EAD8",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Management of a natal or neonatal tooth should take into account any medical or contributing factors.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 3,
+            "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Medical factors are to be considered in management, so saying they have no bearing is wrong.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 3,
+            "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Routine removal in every case ignores the instruction to weigh the infant's medical and contributing factors.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 3,
+            "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Contributing factors must be considered, so relying on mobility alone is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 3,
+            "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Clinicians managing a natal or neonatal tooth should consider medical or contributing factors, which makes the medical evaluation part of the decision.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+          "page": 3,
+          "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5V5CYBD23KXQJ60W6KBT7VS",
+  "version": 1,
+  "type": "mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "Treatment choice rests on a full discussion with the patient or child and parents, so a unilateral decision is inappropriate.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-avulsion-permanent-teeth",
+            "page": 6,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Guidance bases the choice on a full discussion with the child and parents and aims to keep all options open until maturity.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-avulsion-permanent-teeth",
+            "page": 6,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Choosing the option that eliminates future choices early conflicts with the aim of keeping options open until maturity.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-avulsion-permanent-teeth",
+            "page": 6,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The discussion underlies the treatment choice itself, so postponing it until implant stage is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-avulsion-permanent-teeth",
+            "page": 6,
+            "section": "+"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Decoronation is one of several appropriate options when a tooth is lost or likely to be lost.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-avulsion-permanent-teeth",
+          "page": 6,
+          "section": "+"
+        }
+      ]
+    },
+    {
+      "text": "The choice among options rests on a full discussion with the child and parents, aiming to keep options open until maturity.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-avulsion-permanent-teeth",
+          "page": 6,
+          "section": "+"
+        }
+      ]
+    }
+  ]
+}

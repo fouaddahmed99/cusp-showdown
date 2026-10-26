@@ -1,0 +1,36 @@
+{
+  "id": "itm_01M5V4A83DJZZFQ6E8BGGQVV5X",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "use-of-antibiotic-therapy",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:33:47.198Z",
+  "type": "vignette_mcq",
+  "vignette": "A young adult with a congenital condition has received all dental care at a children's hospital clinic since infancy. The clinic now says it can no longer see the patient because of the patient's age. The family has not found another dental home.",
+  "stem": "Which factor most directly accounts for the access barrier this patient is facing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A lower overall risk of oral disease in people with special health care needs"
+    },
+    {
+      "id": "B",
+      "text": "Special health care needs being so uncommon that few providers are prepared to treat them"
+    },
+    {
+      "id": "C",
+      "text": "An age limit at the pediatric hospital that stops the patient from continuing care there"
+    },
+    {
+      "id": "D",
+      "text": "A tendency for people with milder conditions to have the most unmet dental needs"
+    },
+    {
+      "id": "E",
+      "text": "Sensory difficulties that reduce the likelihood of oral health problems"
+    }
+  ]
+}

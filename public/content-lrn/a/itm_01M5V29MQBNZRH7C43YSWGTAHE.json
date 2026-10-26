@@ -1,0 +1,105 @@
+{
+  "id": "itm_01M5V29MQBNZRH7C43YSWGTAHE",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Each patient's needs determine which systemic and topical products, in the clinic or at home, are appropriate.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 1,
+            "section": "Fluoride Therapy"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Product selection is driven by the individual patient's needs, so a single product for everyone is not guidance.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 1,
+            "section": "Fluoride Therapy"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Supplement recommendations also depend on water fluoride level, other dietary fluoride, toothpaste use, and caries risk, so age alone is not sufficient.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 1,
+            "section": "Fluoride Therapy"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Appropriate amounts of over-the-counter fluoride toothpaste are the first line for caries prevention, so toothpaste is not delayed until professional agents are applied.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 4,
+            "section": "Fluoride Therapy › Home-use fluoride products"
+          }
+        ]
+      }
+    ],
+    "E": [
+      {
+        "text": "For patients with special health care needs, brushing twice daily with fluoridated dentifrice helps prevent caries and gingivitis, so it should not be avoided.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 4,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Fluoride product choice, systemic or topical and in-office or at-home, is individualized to the patient's specific needs.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-fluoride-therapy-2023",
+          "page": 1,
+          "section": "Fluoride Therapy"
+        }
+      ]
+    },
+    {
+      "text": "Supplement decisions weigh several factors, not age alone.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-fluoride-therapy-2023",
+          "page": 1,
+          "section": "Fluoride Therapy"
+        }
+      ]
+    },
+    {
+      "text": "Fluoridated toothpaste is first line and is recommended for patients with special health care needs.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-fluoride-therapy-2023",
+          "page": 4,
+          "section": "Fluoride Therapy › Home-use fluoride products"
+        },
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 4,
+          "section": "Management of Dental Patients with Special Health Care Needs › Background"
+        }
+      ]
+    }
+  ]
+}

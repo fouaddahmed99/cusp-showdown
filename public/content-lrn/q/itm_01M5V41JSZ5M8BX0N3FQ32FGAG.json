@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V41JSZ5M8BX0N3FQ32FGAG",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "management-of-dental-patients-with-special-health",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:29:42.373Z",
+  "type": "vignette_mcq",
+  "vignette": "The caregiver of a child with special health care needs has repeatedly postponed dental visits. The caregiver explains that an unpleasant dental experience in their own past makes them reluctant to bring the child in.",
+  "stem": "Which category of influence on access to care does the caregiver's reluctance best represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A structural barrier arising from age restrictions at pediatric hospitals"
+    },
+    {
+      "id": "B",
+      "text": "A psychosocial factor affecting access"
+    },
+    {
+      "id": "C",
+      "text": "A sensory impairment that alters how care is delivered"
+    },
+    {
+      "id": "D",
+      "text": "An enamel or dentin defect that complicates restoration"
+    }
+  ]
+}

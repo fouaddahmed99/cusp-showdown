@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5TVA5YXMX09FB6V7AB71D3B",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Clinicians are advised to use their expertise to camouflage the syringe for children and adolescents.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-nonpharmacological-behavior-guidance-for-the-ped-2023",
+            "page": 20,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Children undergoing**"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The advice is to camouflage the syringe, which is the opposite of leaving it in full view.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-nonpharmacological-behavior-guidance-for-the-ped-2023",
+            "page": 20,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Children undergoing**"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The advice applies to both children and adolescents, not to adolescents alone.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-nonpharmacological-behavior-guidance-for-the-ped-2023",
+            "page": 20,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Children undergoing**"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Camouflaging the syringe is the recommended practice, so saying it is not recommended is wrong.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-nonpharmacological-behavior-guidance-for-the-ped-2023",
+            "page": 20,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Children undergoing**"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "The recommendation is for clinicians to camouflage the syringe during local anesthesia delivery to children and adolescents.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-nonpharmacological-behavior-guidance-for-the-ped-2023",
+          "page": 20,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Children undergoing**"
+        }
+      ]
+    }
+  ]
+}

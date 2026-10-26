@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5V4RJ79TK289T2ARXNBM4GY",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Root and bone fractures can be present without signs or symptoms and are frequently missed when only one radiographic view is taken.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Root fractures can be present without signs or symptoms, so being asymptomatic does not exclude one.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Bone fractures are often missed with a single radiographic view, so one normal view cannot exclude them.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Root fractures may have no clinical signs, so they do not always produce obvious findings.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Root and bone fractures may be clinically silent and are often missed if only a single radiographic view is obtained.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+          "page": 2,
+          "section": "+"
+        }
+      ]
+    }
+  ]
+}

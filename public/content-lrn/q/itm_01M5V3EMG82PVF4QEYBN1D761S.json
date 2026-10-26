@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V3EMG82PVF4QEYBN1D761S",
+  "version": 1,
+  "tags": {
+    "domainId": "pulp",
+    "subtopicId": "use-of-vital-pulp-therapies-in-primary-teeth",
+    "taskStatementId": "ts-pulp-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:18:58.251Z",
+  "type": "mcq",
+  "stem": "In which situation may a complete pulpotomy be considered in a select primary tooth that shows signs of irreversible pulpitis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Neither clinical nor radiographic signs of infection are present."
+    },
+    {
+      "id": "B",
+      "text": "Clinical signs of infection are present, but radiographic signs are absent."
+    },
+    {
+      "id": "C",
+      "text": "Radiographic signs of infection are present, but clinical signs are absent."
+    },
+    {
+      "id": "D",
+      "text": "Both clinical and radiographic signs of infection are present."
+    }
+  ]
+}

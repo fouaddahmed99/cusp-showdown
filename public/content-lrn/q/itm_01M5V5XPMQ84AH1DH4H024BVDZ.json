@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V5XPMQ84AH1DH4H024BVDZ",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "dental-trauma-iadt-general-introduction",
+    "taskStatementId": "ts-trauma-emergency-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T04:02:12.253Z",
+  "type": "vignette_mcq",
+  "vignette": "A toddler is brought in after a fall onto the mouth. The upper lip is swollen and a piece of a primary incisor crown cannot be found.",
+  "stem": "Which approach to the soft-tissue examination is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Examine the lips, mucosa, gingivae and frenula for lacerations and hematomas, and examine the lips for embedded tooth fragments"
+    },
+    {
+      "id": "B",
+      "text": "Limit the examination to the teeth, because soft-tissue assessment applies only to the permanent dentition"
+    },
+    {
+      "id": "C",
+      "text": "Inspect only the lips and omit the mucosa, gingivae and frenula"
+    },
+    {
+      "id": "D",
+      "text": "Omit the search of the lips for the missing fragment, assuming it was swallowed"
+    }
+  ]
+}

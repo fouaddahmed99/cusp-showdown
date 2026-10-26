@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5TXTAYNT55M41ZJDJMNMAS9",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Repeated SDF applications over time may be needed to maintain caries arrest, so follow-up reassessment with possible reapplication is appropriate.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Because repeat applications may be needed to maintain arrest, treating one application as definitive without reassessment is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Lesions treated with SDF generally become black and hard, so this appearance is the expected result and not by itself a failure.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Informed consent should particularly emphasize the expected staining, so downplaying it is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+            "page": 5,
+            "section": "Infants, Children, and Adolescents › Sealants"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Maintaining arrest may require repeated SDF applications over time, so a reassessment plan should anticipate reapplication.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+          "page": 1,
+          "section": "Management of Dental Caries Lesions*"
+        }
+      ]
+    },
+    {
+      "text": "Black, hard lesions are the usual appearance after SDF.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+          "page": 1,
+          "section": "Management of Dental Caries Lesions*"
+        }
+      ]
+    },
+    {
+      "text": "The expected staining should be emphasized in consent.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+          "page": 5,
+          "section": "Infants, Children, and Adolescents › Sealants"
+        }
+      ]
+    }
+  ]
+}

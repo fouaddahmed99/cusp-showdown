@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TY53PJF8TH6PYEKX5XWX6H",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "prescribing-dental-radiographs",
+    "taskStatementId": "ts-diagnosis-05",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:46:36.154Z",
+  "type": "mcq",
+  "stem": "Based on current evidence, how should routine patient shielding be viewed in pediatric dental radiography?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is no longer considered necessary as a routine measure, though regulations and ALARA must still be followed"
+    },
+    {
+      "id": "B",
+      "text": "It remains necessary as a routine measure for every exposure"
+    },
+    {
+      "id": "C",
+      "text": "Dropping routine shielding means ALARA no longer applies"
+    },
+    {
+      "id": "D",
+      "text": "Dropping routine shielding means regulations may be disregarded"
+    }
+  ]
+}

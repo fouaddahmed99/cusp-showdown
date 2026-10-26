@@ -105,7 +105,13 @@ async function main() {
     check("home screen renders", true);
 
     const demoBadge = await page.locator("text=Demo content on the board").count();
-    check("content source is disclosed on the home screen", demoBadge > 0, "demo badge shown");
+    const approvedBadge = await page.locator("text=/[0-9]+ approved items/").count();
+    const onDemo = demoBadge > 0;
+    check(
+      "content source is disclosed on the home screen",
+      demoBadge + approvedBadge > 0,
+      onDemo ? "demo pack in play" : "approved content in play",
+    );
     await page.screenshot({ path: path.join(shots, "01-home.png") });
 
     // ---------------------------------------------------------------- board

@@ -1,0 +1,98 @@
+{
+  "id": "itm_01M5V007FKTY13SBX7ECFY62KJ",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "An appropriate amount of over-the-counter fluoride toothpaste is the advised first-line approach.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 4,
+            "section": "Fluoride Therapy › Home-use fluoride products"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Supplement recommendations for children aged 6 months to 16 years depend on water fluoride level, other fluoride sources, toothpaste use, and caries risk, so they are not given universally.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 1,
+            "section": "Fluoride Therapy"
+          }
+        ]
+      },
+      {
+        "text": "Toothpaste, not supplements, is named as the first-line approach.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 4,
+            "section": "Fluoride Therapy › Home-use fluoride products"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Mouthrinses are home-use products, but toothpaste is the advised first-line approach.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 1,
+            "section": "Fluoride Therapy"
+          },
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 4,
+            "section": "Fluoride Therapy › Home-use fluoride products"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Professionally applied agents are one category of fluoride therapy, and the first-line approach is toothpaste.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 1,
+            "section": "Fluoride Therapy"
+          },
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 4,
+            "section": "Fluoride Therapy › Home-use fluoride products"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Over-the-counter fluoride toothpaste in an appropriate amount is the first-line caries prevention approach.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-fluoride-therapy-2023",
+          "page": 4,
+          "section": "Fluoride Therapy › Home-use fluoride products"
+        }
+      ]
+    },
+    {
+      "text": "Supplements and other modalities are tailored to individual factors rather than used universally.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-fluoride-therapy-2023",
+          "page": 1,
+          "section": "Fluoride Therapy"
+        }
+      ]
+    }
+  ]
+}

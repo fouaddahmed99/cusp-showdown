@@ -1,0 +1,133 @@
+{
+  "id": "itm_01M5TXQ0GNNS7WB9CACBTEDG1H",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Sealants are recommended over no sealants for permanent molars whether the occlusal surface is sound or has a noncavitated lesion.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 5,
+            "section": "the Use of Pit-and-Fissure Sealants › Question 1. Should dental sealants, when compared with"
+          }
+        ]
+      },
+      {
+        "text": "Sealants are also suggested over fluoride varnish for both kinds of surface.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 6,
+            "section": "the Use of Pit-and-Fissure Sealants › Question 2. Should dental sealants, when compared with"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "This is incorrect because the recommendation to seal covers molars with noncavitated occlusal lesions as well as sound ones.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 5,
+            "section": "the Use of Pit-and-Fissure Sealants › Question 1. Should dental sealants, when compared with"
+          }
+        ]
+      },
+      {
+        "text": "Sealants are also shown to arrest occlusal pit-and-fissure lesions, so leaving the lesion unsealed forgoes a benefit.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 1,
+            "section": "the Use of Pit-and-Fissure Sealants › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "This is incorrect because sealants are suggested over fluoride varnish for molars with noncavitated occlusal lesions.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 6,
+            "section": "the Use of Pit-and-Fissure Sealants › Question 2. Should dental sealants, when compared with"
+          }
+        ]
+      },
+      {
+        "text": "The evidence shows sealants arrest such lesions when compared with fluoride varnish.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 1,
+            "section": "the Use of Pit-and-Fissure Sealants › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "This is incorrect because sealants are suggested over fluoride varnish for sound molars and for molars with noncavitated occlusal lesions.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 6,
+            "section": "the Use of Pit-and-Fissure Sealants › Question 2. Should dental sealants, when compared with"
+          }
+        ]
+      },
+      {
+        "text": "Sealants prevent and arrest occlusal fissure caries when compared with fluoride varnish.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+            "page": 1,
+            "section": "the Use of Pit-and-Fissure Sealants › ABBREVIATIONS"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Pits and fissures on permanent molar occlusal surfaces retain debris and biofilm, which raises caries risk.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+          "page": 2,
+          "section": "the Use of Pit-and-Fissure Sealants › ABBREVIATIONS"
+        }
+      ]
+    },
+    {
+      "text": "Sealants are recommended over no sealants whether the occlusal surface is sound or has a noncavitated lesion.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+          "page": 5,
+          "section": "the Use of Pit-and-Fissure Sealants › Question 1. Should dental sealants, when compared with"
+        }
+      ]
+    },
+    {
+      "text": "They are suggested over fluoride varnish and effectively prevent and arrest occlusal fissure lesions, so sealing both molars is best.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+          "page": 6,
+          "section": "the Use of Pit-and-Fissure Sealants › Question 2. Should dental sealants, when compared with"
+        },
+        {
+          "sourceId": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
+          "page": 1,
+          "section": "the Use of Pit-and-Fissure Sealants › ABBREVIATIONS"
+        }
+      ]
+    }
+  ]
+}

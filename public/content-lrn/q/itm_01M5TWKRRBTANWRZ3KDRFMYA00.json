@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TWKRRBTANWRZ3KDRFMYA00",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "early-childhood-caries-ecc-unique-challenges-and-m",
+    "taskStatementId": "ts-caries-08",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:19:27.436Z",
+  "type": "mcq",
+  "stem": "A primary molar has just completed non-vital pulp therapy. Which statement about the type and timing of the final restoration is supported by the evidence and recommendations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "At 12 months, stainless steel crowns and fillings perform comparably regardless of when the final restoration is placed."
+    },
+    {
+      "id": "B",
+      "text": "Success at 12 months depends heavily on placing the final restoration at the same visit as the pulp therapy."
+    },
+    {
+      "id": "C",
+      "text": "At 12 months, stainless steel crowns and fillings differ markedly in success."
+    },
+    {
+      "id": "D",
+      "text": "Restoration type and timing are fixed by a mandatory protocol that leaves no room for clinician preference."
+    }
+  ]
+}

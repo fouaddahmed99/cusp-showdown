@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TZ4RKE074FHE387PSJMPZ6",
+  "version": 1,
+  "tags": {
+    "domainId": "growth",
+    "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+    "taskStatementId": "ts-growth-05",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T02:04:14.348Z",
+  "type": "mcq",
+  "stem": "Space has been regained in an arch. Until when should that space be held?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Until neighboring permanent teeth are fully erupted or comprehensive orthodontic treatment begins."
+    },
+    {
+      "id": "B",
+      "text": "The appliance should be removed as soon as the space has been regained."
+    },
+    {
+      "id": "C",
+      "text": "Only until the adjacent permanent tooth first begins to emerge."
+    },
+    {
+      "id": "D",
+      "text": "Regained space does not need to be held."
+    }
+  ]
+}

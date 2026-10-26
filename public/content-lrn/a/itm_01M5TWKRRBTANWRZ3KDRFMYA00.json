@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5TWKRRBTANWRZ3KDRFMYA00",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Twelve-month success of stainless steel crowns and fillings was similar whatever the timing of the final restoration.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 9,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Question 4g. In primary teeth treated with non-vital pulp"
+          }
+        ]
+      },
+      {
+        "text": "Clinicians may also choose restoration type and timing by personal clinical preference.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 9,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Question 4g. In primary teeth treated with non-vital pulp"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Success at 12 months was comparable regardless of timing, so same-visit placement is not required.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 9,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Question 4g. In primary teeth treated with non-vital pulp"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "At 12 months, crowns and fillings showed comparable success, not marked differences.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 9,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Question 4g. In primary teeth treated with non-vital pulp"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Restoration type and timing after non-vital pulp therapy may be selected according to clinician preference, so no mandatory protocol exists.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 9,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Question 4g. In primary teeth treated with non-vital pulp"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "At 12 months, crowns and fillings had comparable success irrespective of final restoration timing.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+          "page": 9,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Question 4g. In primary teeth treated with non-vital pulp"
+        }
+      ]
+    },
+    {
+      "text": "The clinician may choose restoration type and timing based on preference.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+          "page": 9,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Question 4g. In primary teeth treated with non-vital pulp"
+        }
+      ]
+    }
+  ]
+}

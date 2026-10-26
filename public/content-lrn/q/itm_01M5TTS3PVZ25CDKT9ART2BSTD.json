@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TTS3PVZ25CDKT9ART2BSTD",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "monitoring-and-management-of-pediatric-patients-be",
+    "taskStatementId": "ts-behavior-04",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T00:47:26.411Z",
+  "type": "mcq",
+  "stem": "Which equipment requirement applies to deep sedation or general anesthesia in addition to the equipment needed for moderate sedation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "No additional equipment is needed beyond what is used for moderate sedation."
+    },
+    {
+      "id": "B",
+      "text": "A pediatric-capable ECG monitor and a defibrillator, both readily available."
+    },
+    {
+      "id": "C",
+      "text": "A pediatric-capable ECG monitor only, with no defibrillator needed."
+    },
+    {
+      "id": "D",
+      "text": "A defibrillator that is obtained from emergency services only after cardiac arrest occurs."
+    }
+  ]
+}

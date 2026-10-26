@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TVK3HZXTT1V3DM6Y89J6MA",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "use-of-nitrous-oxide",
+    "taskStatementId": "ts-behavior-03",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T01:01:34.141Z",
+  "type": "mcq",
+  "stem": "Which statement correctly describes a performance requirement of nitrous oxide delivery equipment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It must be able to give 100% oxygen, never less than 25% oxygen, and use a flow rate suited to patient size"
+    },
+    {
+      "id": "B",
+      "text": "It may use one fixed flow rate for every patient regardless of size"
+    },
+    {
+      "id": "C",
+      "text": "It may drop below 25% oxygen when a higher nitrous oxide concentration is wanted"
+    },
+    {
+      "id": "D",
+      "text": "It needs only to deliver preset mixtures and need not be able to give 100% oxygen"
+    }
+  ]
+}

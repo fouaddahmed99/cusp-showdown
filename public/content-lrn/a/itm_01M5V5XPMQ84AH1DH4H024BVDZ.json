@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5V5XPMQ84AH1DH4H024BVDZ",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "In primary dentition trauma, lips, mucosa, gingivae and frenula should be examined for lacerations and hematomas.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      },
+      {
+        "text": "The lips should also be examined for embedded tooth fragments.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The guidance specifically calls for soft-tissue examination in primary dentition trauma.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The mucosa, gingivae and frenula must be examined as well as the lips.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The lips should be examined for embedded tooth fragments, so assuming the fragment was swallowed is not acceptable.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Primary dentition trauma requires examination of the lips, mucosa, gingivae and frenula for lacerations and hematomas.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-injuries-primary-dentition",
+          "page": 2,
+          "section": "+"
+        }
+      ]
+    },
+    {
+      "text": "A swollen lip with a missing crown fragment calls for examining the lips for embedded tooth fragments.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-injuries-primary-dentition",
+          "page": 2,
+          "section": "+"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5TTS3PVZ25CDKT9ART2BSTD",
+  "version": 1,
+  "type": "mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "Deep sedation or general anesthesia requires an ECG monitor and defibrillator beyond the moderate sedation equipment, so additional equipment is needed.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 9,
+            "section": "RECOMMENDATIONS: BEST PRACTICE › Deep sedation/General anesthesia"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Beyond moderate sedation equipment, deep sedation or general anesthesia requires a pediatric-capable ECG monitor and a defibrillator that are readily available.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 9,
+            "section": "RECOMMENDATIONS: BEST PRACTICE › Deep sedation/General anesthesia"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The requirement includes a defibrillator as well as the ECG monitor.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 9,
+            "section": "RECOMMENDATIONS: BEST PRACTICE › Deep sedation/General anesthesia"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The defibrillator must be readily available, not summoned after an arrest has occurred.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 9,
+            "section": "RECOMMENDATIONS: BEST PRACTICE › Deep sedation/General anesthesia"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Deep sedation and general anesthesia need a pediatric-capable ECG monitor and a readily available defibrillator in addition to moderate sedation equipment.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+          "page": 9,
+          "section": "RECOMMENDATIONS: BEST PRACTICE › Deep sedation/General anesthesia"
+        }
+      ]
+    }
+  ]
+}

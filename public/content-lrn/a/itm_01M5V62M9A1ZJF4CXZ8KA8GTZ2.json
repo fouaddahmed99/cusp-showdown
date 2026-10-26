@@ -1,0 +1,80 @@
+{
+  "id": "itm_01M5V62M9A1ZJF4CXZ8KA8GTZ2",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "The lips were the most common site of inflicted oral injury in the cited study, at 54%.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+            "page": 2,
+            "section": "+ › PHYSICAL ABUSE"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Because the lips were the most common site, the tongue was not.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+            "page": 2,
+            "section": "+ › PHYSICAL ABUSE"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Because the lips were the most common site, the palate was not.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+            "page": 2,
+            "section": "+ › PHYSICAL ABUSE"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Because the lips were the most common site, the buccal mucosa was not.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+            "page": 2,
+            "section": "+ › PHYSICAL ABUSE"
+          }
+        ]
+      }
+    ],
+    "E": [
+      {
+        "text": "Because the lips were the most common site, the gingiva was not.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+            "page": 2,
+            "section": "+ › PHYSICAL ABUSE"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "In the cited study the lips were the most frequent site of inflicted oral injury, at 54%.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+          "page": 2,
+          "section": "+ › PHYSICAL ABUSE"
+        }
+      ]
+    }
+  ]
+}

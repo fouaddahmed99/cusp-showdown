@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5TTCYR69CW8VPZP40HCQ33C",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "behavior-guidance",
+    "taskStatementId": "ts-behavior-01",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T00:41:12.999Z",
+  "type": "vignette_mcq",
+  "vignette": "A new patient presents to the clinic. Before choosing any behavior guidance technique, the dentist wants to follow a purposeful decision process.",
+  "stem": "Which sequence correctly begins this process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Review medical, dental, and social histories, then evaluate the patient's current behavior."
+    },
+    {
+      "id": "B",
+      "text": "Evaluate current behavior first, then review the histories afterward."
+    },
+    {
+      "id": "C",
+      "text": "Select a technique first and then review the histories to confirm the choice."
+    },
+    {
+      "id": "D",
+      "text": "Review the medical history only and omit social and dental histories."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V4RJ79TK289T2ARXNBM4GY",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "dental-trauma-iadt-1-fractures-and-luxations-of-pe",
+    "taskStatementId": "ts-trauma-emergency-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:41:26.739Z",
+  "type": "mcq",
+  "stem": "After dental trauma, a patient has no symptoms and a single radiograph looks normal. Which interpretation is best supported?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A root or bone fracture is still possible, because these can exist without clinical signs and are often missed on one view."
+    },
+    {
+      "id": "B",
+      "text": "The lack of symptoms rules out a root fracture."
+    },
+    {
+      "id": "C",
+      "text": "One normal radiographic view is enough to exclude a bone fracture."
+    },
+    {
+      "id": "D",
+      "text": "Root fractures always produce obvious clinical signs."
+    }
+  ]
+}

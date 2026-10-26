@@ -1,0 +1,36 @@
+{
+  "id": "itm_01M5V1154SGATRKW8BC8VQWVS6",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "periodicity-of-examination-preventive-dental-servi",
+    "taskStatementId": "ts-prevention-05",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:36:28.164Z",
+  "type": "vignette_mcq",
+  "vignette": "A parent brings an infant for an initial dental visit. The infant has no complaints, and the parent asks how often the child will need to return and what the visits will involve.",
+  "stem": "Which approach to planning this child's preventive care and recall best matches the guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Place the child on the same fixed recall schedule used for every patient, whatever the findings."
+    },
+    {
+      "id": "B",
+      "text": "Wait until the child is older to begin professional dental care, since early intervention is not needed."
+    },
+    {
+      "id": "C",
+      "text": "Assess the child's caries risk at this visit and use it to individualize preventive care and continuing care."
+    },
+    {
+      "id": "D",
+      "text": "Omit caries risk assessment at the infant visit because recall visits will become less frequent as the child grows."
+    },
+    {
+      "id": "E",
+      "text": "Plan to rely on medical well-child visits as the main preventive contacts, because dental recall visits become less frequent with age."
+    }
+  ]
+}

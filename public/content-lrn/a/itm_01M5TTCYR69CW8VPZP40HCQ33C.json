@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5TTCYR69CW8VPZP40HCQ33C",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "A purposeful decision begins with reviewing medical, dental, and social histories and then evaluating current behavior.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 4,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Informed consent"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The histories are reviewed before current behavior is evaluated, so this order is reversed.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 4,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Informed consent"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The process starts with the history review, not with picking a technique.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 4,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Informed consent"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The review includes dental and social histories as well as medical history.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 4,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Informed consent"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Purposeful behavior guidance decisions start with reviewing medical, dental, and social histories.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+          "page": 4,
+          "section": "Behavior Guidance for the Pediatric Dental Patient › Informed consent"
+        }
+      ]
+    },
+    {
+      "text": "Current behavior is then evaluated.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+          "page": 4,
+          "section": "Behavior Guidance for the Pediatric Dental Patient › Informed consent"
+        }
+      ]
+    }
+  ]
+}

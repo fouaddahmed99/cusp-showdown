@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V4YV76KVCX9MNT255FMW65",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "dental-trauma-iadt-1-fractures-and-luxations-of-pe",
+    "taskStatementId": "ts-trauma-emergency-03",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T03:45:40.509Z",
+  "type": "vignette_mcq",
+  "vignette": "A parent brings in a child for a scheduled review of a permanent incisor that was injured recently. The child reports no pain, and the parent asks whether the visit is necessary.",
+  "stem": "Which statement best describes what the follow-up visit should include?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is mandatory and should include questioning about symptoms, clinical and radiographic exams, and pulp sensibility testing."
+    },
+    {
+      "id": "B",
+      "text": "It can be omitted when the patient is asymptomatic."
+    },
+    {
+      "id": "C",
+      "text": "It should rely on a radiograph alone, because sensibility testing is not part of follow-up."
+    },
+    {
+      "id": "D",
+      "text": "It should consist of a clinical exam and sensibility testing, with radiographs avoided at follow-up."
+    }
+  ]
+}

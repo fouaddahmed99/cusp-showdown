@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V2JJ62R345K0P90NEVD1NN",
+  "version": 1,
+  "tags": {
+    "domainId": "pulp",
+    "subtopicId": "pulp-therapy-for-primary-and-immature-permanent-te",
+    "taskStatementId": "ts-pulp-02",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T03:03:18.312Z",
+  "type": "mcq",
+  "stem": "Which pair correctly names the non-vital pulp therapies that currently exist for primary teeth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Conventional pulpectomy and extraction"
+    },
+    {
+      "id": "B",
+      "text": "Conventional pulpectomy and lesion sterilization tissue repair (LSTR)"
+    },
+    {
+      "id": "C",
+      "text": "LSTR and extraction"
+    },
+    {
+      "id": "D",
+      "text": "None; extraction is the only option for non-vital primary teeth"
+    }
+  ]
+}

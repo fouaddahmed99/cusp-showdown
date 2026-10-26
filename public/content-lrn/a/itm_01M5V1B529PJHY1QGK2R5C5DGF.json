@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5V1B529PJHY1QGK2R5C5DGF",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "A thorough grasp of the medical history lowers the risk of aggravating a medical condition.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-local-anesthesia-for-pediatric-dental-pat-2023",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Histories need to be current, so an earlier history left unupdated is not adequate.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 2,
+            "section": "Oral Treatment for Infants, Children, and Adolescents"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Knowing the oral health risks linked to a medical condition can guide anticipatory guidance, treatment planning, and changes to dental management.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "For patients with special health care needs, the medical providers should be consulted in addition to taking a thorough history.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 5,
+            "section": "Management of Dental Patients with Special Health Care Needs › Recommendations"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Understanding the history well lowers the chance of aggravating a medical condition during care such as local anesthesia.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-local-anesthesia-for-pediatric-dental-pat-2023",
+          "page": 1,
+          "section": ""
+        }
+      ]
+    },
+    {
+      "text": "The other statements conflict with guidance that histories be current, that condition-specific risks inform planning, and that medical providers be consulted.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+          "page": 2,
+          "section": "Oral Treatment for Infants, Children, and Adolescents"
+        },
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 3,
+          "section": "Management of Dental Patients with Special Health Care Needs › Background"
+        },
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 5,
+          "section": "Management of Dental Patients with Special Health Care Needs › Recommendations"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TZNYND7D3KXG2DW6HRTGBW",
+  "version": 1,
+  "tags": {
+    "domainId": "practice",
+    "subtopicId": "informed-consent",
+    "taskStatementId": "ts-practice-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:12:48.265Z",
+  "type": "mcq",
+  "stem": "A resident asks why AAPD advises obtaining written consent before treatment starts, even though state requirements are not uniform. Which answer is best?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It can reduce liability that arises from miscommunication."
+    },
+    {
+      "id": "B",
+      "text": "A signed form is the same thing as informed consent, so no further discussion is needed."
+    },
+    {
+      "id": "C",
+      "text": "Every state requires written consent in exactly the same way."
+    },
+    {
+      "id": "D",
+      "text": "It removes the need for the provider to know state consent laws."
+    }
+  ]
+}

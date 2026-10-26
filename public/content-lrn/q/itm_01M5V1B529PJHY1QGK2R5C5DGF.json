@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V1B529PJHY1QGK2R5C5DGF",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "periodicity-of-examination-preventive-dental-servi",
+    "taskStatementId": "ts-prevention-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:42:37.875Z",
+  "type": "vignette_mcq",
+  "vignette": "A child with special health care needs and a chronic medical condition is scheduled for a restorative visit that will require local anesthesia. A resident asks why the medical history is being reviewed in detail beforehand.",
+  "stem": "Which statement best explains the purpose of this review?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A thorough understanding of the history lowers the risk of aggravating the child's medical condition."
+    },
+    {
+      "id": "B",
+      "text": "A history taken at an earlier visit is sufficient and does not need to be kept current."
+    },
+    {
+      "id": "C",
+      "text": "Knowing the oral health risks of the child's condition has no effect on treatment planning."
+    },
+    {
+      "id": "D",
+      "text": "Consulting the child's medical providers is unnecessary once a history has been recorded."
+    }
+  ]
+}

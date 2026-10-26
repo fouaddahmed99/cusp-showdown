@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5TWEMJ10EG1X2AE4MAD2WPT",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "early-childhood-caries-ecc-unique-challenges-and-m",
+    "taskStatementId": "ts-caries-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:16:20.970Z",
+  "type": "vignette_mcq",
+  "vignette": "A young child presents with several open carious lesions in primary teeth. The parent asks how the dentist will manage the disease before the child can tolerate full conventional restorative care.",
+  "stem": "Which statement best describes the role of interim therapeutic restorations (ITR) for this child?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They provide caries control for multiple open lesions as a temporary measure until definitive restoration."
+    },
+    {
+      "id": "B",
+      "text": "They serve as the final restoration, so conventional cavity preparation and restoration will not be needed."
+    },
+    {
+      "id": "C",
+      "text": "They should be avoided so that all treatment waits until the child needs sedation or general anesthesia."
+    },
+    {
+      "id": "D",
+      "text": "They are unnecessary because definitive restorations alone will control the disease with no other measures."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "itm_01M5TY53PJXSCNNBJ35WKKSB9J",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "ALARA includes limiting the number of images to the least needed for essential diagnostic information.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 2,
+            "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Adding extra views routinely goes beyond the least number needed for essential information.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 2,
+            "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+          }
+        ]
+      },
+      {
+        "text": "Unnecessary exposure should be minimized because radiation effects build up over time.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 2,
+            "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "A fixed set taken regardless of need ignores the aim of limiting images to the least needed.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 2,
+            "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+          }
+        ]
+      },
+      {
+        "text": "Benefits must be weighed against risk.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 2,
+            "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Receptor speed is one element of ALARA, and limiting image number is a separate element that still applies.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 2,
+            "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "ALARA includes restricting the number of images to the least needed for essential diagnostic information.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+          "page": 2,
+          "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+        }
+      ]
+    },
+    {
+      "text": "Because radiation effects build up over time, unnecessary exposure should be minimized and benefits weighed against risk.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+          "page": 2,
+          "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+        }
+      ]
+    }
+  ]
+}

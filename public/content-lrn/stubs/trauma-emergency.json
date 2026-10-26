@@ -1,0 +1,122 @@
+[
+  {
+    "id": "itm_01M5V4KCR51CBJD9G70RM8BYT0",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "acute-traumatic-injuries-assessment-and-documentat",
+      "taskStatementId": "ts-trauma-emergency-03",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V4RJ79TK289T2ARXNBM4GY",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "dental-trauma-iadt-1-fractures-and-luxations-of-pe",
+      "taskStatementId": "ts-trauma-emergency-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V4RJ7ANV65S7Y237KFYVK4",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "dental-trauma-iadt-1-fractures-and-luxations-of-pe",
+      "taskStatementId": "ts-trauma-emergency-02",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V4YV75EK86RD4NFQGMXJ63",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "dental-trauma-iadt-1-fractures-and-luxations-of-pe",
+      "taskStatementId": "ts-trauma-emergency-03",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V4YV76KVCX9MNT255FMW65",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "dental-trauma-iadt-1-fractures-and-luxations-of-pe",
+      "taskStatementId": "ts-trauma-emergency-03",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V5CYBD23KXQJ60W6KBT7VS",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "dental-trauma-iadt-2-avulsion-of-permanent-teeth",
+      "taskStatementId": "ts-trauma-emergency-06",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V5QD65D4R1EXD3MJREBTQA",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "dental-trauma-iadt-3-injuries-in-the-primary-denti",
+      "taskStatementId": "ts-trauma-emergency-03",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V5XPMQ84AH1DH4H024BVDZ",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "dental-trauma-iadt-general-introduction",
+      "taskStatementId": "ts-trauma-emergency-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V62M99DT5VQC80MVNFMY0W",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "oral-and-dental-aspects-of-child-abuse-and-neglect",
+      "taskStatementId": "ts-trauma-emergency-01",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V62M9A1ZJF4CXZ8KA8GTZ2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "trauma-emergency",
+      "subtopicId": "oral-and-dental-aspects-of-child-abuse-and-neglect",
+      "taskStatementId": "ts-trauma-emergency-01",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  }
+]

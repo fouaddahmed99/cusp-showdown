@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5V3EMG82PVF4QEYBN1D761S",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Complete pulpotomy may be considered in select primary teeth with irreversible pulpitis signs when no clinical or radiographic infection signs exist.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+            "page": 1,
+            "section": "Indications and Objectives › Abstract"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The condition requires that no clinical infection signs exist, so this scenario does not qualify.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+            "page": 1,
+            "section": "Indications and Objectives › Abstract"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The condition requires that no radiographic infection signs exist, so this scenario does not qualify.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+            "page": 1,
+            "section": "Indications and Objectives › Abstract"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Infection signs of either type fall outside the condition for considering complete pulpotomy.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+            "page": 1,
+            "section": "Indications and Objectives › Abstract"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "The pulp's health status dictates which type of pulp therapy is appropriate.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+          "page": 1,
+          "section": "Indications and Objectives › Abstract"
+        }
+      ]
+    },
+    {
+      "text": "Complete pulpotomy may be considered in select teeth with irreversible pulpitis signs only when no clinical or radiographic infection signs exist.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+          "page": 1,
+          "section": "Indications and Objectives › Abstract"
+        }
+      ]
+    }
+  ]
+}

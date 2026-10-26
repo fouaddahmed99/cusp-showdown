@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5V41JSXQHD0RFWQ4F648N4N",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "A standard setup and communication style ignores that sensory impairments often call for alternative communication and adapted environments.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Sensory impairments such as deafness can affect care and often call for alternative communication, adapted environments, and individualized approaches.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Sensory impairments can affect care, so assuming no effect is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Individualized approaches are called for with sensory impairments, not only with behavioral challenges, so limiting them to behavior is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Deafness is a sensory impairment that can affect how dental care is delivered.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 3,
+          "section": "Management of Dental Patients with Special Health Care Needs › Background"
+        }
+      ]
+    },
+    {
+      "text": "Such patients often need alternative communication, an adapted environment, and an individualized approach.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 3,
+          "section": "Management of Dental Patients with Special Health Care Needs › Background"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "itm_01M5V4A83DJZZFQ6E8BGGQVV5X",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "C",
+  "rationales": {
+    "A": [
+      {
+        "text": "Individuals with special health care needs are at higher risk of poor oral health, not lower risk.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 1,
+            "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Special health care needs are not uncommon; nearly one in six US children is affected.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 1,
+            "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Age restrictions at pediatric hospitals are identified as a barrier to care for these patients, which matches this patient's situation.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 4,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Unmet dental needs are more likely in children with more severe conditions, so milder conditions are not the group with the most unmet need.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 1,
+            "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+          }
+        ]
+      }
+    ],
+    "E": [
+      {
+        "text": "Sensory issues are listed among the reasons for a higher risk of poor oral health, so they do not lower the likelihood of oral problems.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 1,
+            "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Patients with special health care needs face increased risk of poor oral health from medical status, sensory issues, behavioral challenges, and access barriers.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 1,
+          "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+        }
+      ]
+    },
+    {
+      "text": "Age restrictions at pediatric hospitals are one such access barrier, and they fit this patient who was turned away from the hospital clinic.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 4,
+          "section": "Management of Dental Patients with Special Health Care Needs › Background"
+        }
+      ]
+    }
+  ]
+}

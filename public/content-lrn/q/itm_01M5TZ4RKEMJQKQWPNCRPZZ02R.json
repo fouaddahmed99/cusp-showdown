@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TZ4RKEMJQKQWPNCRPZZ02R",
+  "version": 1,
+  "tags": {
+    "domainId": "growth",
+    "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+    "taskStatementId": "ts-growth-05",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:03:22.090Z",
+  "type": "mcq",
+  "stem": "A primary tooth in a child has been lost well ahead of its normal exfoliation time. Which approach is most consistent with current guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Assume arch length is unaffected, because losing a primary tooth early does not change the arch."
+    },
+    {
+      "id": "B",
+      "text": "Consider space maintenance, because premature loss can reduce arch length."
+    },
+    {
+      "id": "C",
+      "text": "Avoid space maintenance in every case of premature primary tooth loss."
+    },
+    {
+      "id": "D",
+      "text": "Consider space maintenance only after a permanent tooth has been lost."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5TXQ0GNNS7WB9CACBTEDG1H",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "use-of-pit-and-fissure-sealants",
+    "taskStatementId": "ts-caries-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:38:26.021Z",
+  "type": "vignette_mcq",
+  "vignette": "A school-age child presents for a routine visit. Both mandibular permanent first molars are fully erupted and have deep occlusal fissures that trap food debris. One molar has a sound occlusal surface. The other has a noncavitated occlusal carious lesion with no cavitation.",
+  "stem": "Which approach to these two molars is best supported by current guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Place a sealant on both molars."
+    },
+    {
+      "id": "B",
+      "text": "Seal the sound molar and leave the molar with the noncavitated lesion unsealed, with monitoring."
+    },
+    {
+      "id": "C",
+      "text": "Seal the sound molar and use fluoride varnish alone on the molar with the noncavitated lesion."
+    },
+    {
+      "id": "D",
+      "text": "Use fluoride varnish alone on both molars instead of sealants."
+    }
+  ]
+}

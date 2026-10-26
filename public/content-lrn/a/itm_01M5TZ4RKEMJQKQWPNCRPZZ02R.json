@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5TZ4RKEMJQKQWPNCRPZZ02R",
+  "version": 1,
+  "type": "mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "Early loss departs from normal exfoliation and can shorten the arch, so arch length cannot be assumed unaffected.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Premature loss of primary teeth can reduce arch length.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      },
+      {
+        "text": "Space maintenance is a sensible consideration whenever primary teeth are lost too early.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Space maintenance is a reasonable consideration whenever primary teeth are lost too early, so it should not be ruled out in every case.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The indication for considering space maintenance is early loss of primary teeth, not loss of a permanent tooth.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Early primary tooth loss departs from normal exfoliation and can reduce arch length.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+          "page": 9,
+          "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+        }
+      ]
+    },
+    {
+      "text": "Space maintenance should therefore be considered whenever primary teeth are lost too early.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+          "page": 9,
+          "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+        }
+      ]
+    }
+  ]
+}

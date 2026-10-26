@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TVA5YXMX09FB6V7AB71D3B",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "use-of-local-anesthesia",
+    "taskStatementId": "ts-behavior-05",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T00:56:56.525Z",
+  "type": "mcq",
+  "stem": "Which approach to the syringe is advised when a clinician delivers local anesthesia to children and adolescents?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Use clinical expertise to camouflage the syringe."
+    },
+    {
+      "id": "B",
+      "text": "Leave the syringe in full view so the patient can see it throughout."
+    },
+    {
+      "id": "C",
+      "text": "Camouflage the syringe only for adolescents and not for children."
+    },
+    {
+      "id": "D",
+      "text": "Avoid any camouflage of the syringe, because it is not recommended."
+    }
+  ]
+}

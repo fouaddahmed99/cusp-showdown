@@ -102,7 +102,12 @@ function Tile({
       whileTap={inert ? undefined : { scale: 0.975 }}
       transition={{ type: "spring", stiffness: 420, damping: 28 }}
       className="tile-face cusp group relative flex min-h-20 flex-col items-center justify-center px-2 sm:min-h-24"
-      aria-label={`${tile.points} points${tile.substitutedLevel ? ", substituted difficulty" : ""}`}
+      aria-label={`${tile.points} points`}
+      title={
+        tile.substitutedLevel
+          ? `Filled from a ${COGNITIVE_LEVEL_LABEL[tile.substitutedLevel]} item — this row normally holds ${COGNITIVE_LEVEL_LABEL[tile.rowLevel]}.`
+          : undefined
+      }
     >
       <span className="display tnum text-2xl text-gold transition-colors group-hover:text-ink-100 sm:text-4xl">
         {tile.points}

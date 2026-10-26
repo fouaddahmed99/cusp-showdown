@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5TVK3HZXTT1V3DM6Y89J6MA",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Equipment must be able to deliver 100% oxygen, never less than 25% oxygen, at a flow rate suited to the patient's size.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 12,
+            "section": "fibrillation versus rescue with the EZ-IO® for the rapid estab- › Nitrous oxide"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Flow rate must suit the patient's size, so a single fixed rate for all patients is not acceptable.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 12,
+            "section": "fibrillation versus rescue with the EZ-IO® for the rapid estab- › Nitrous oxide"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Oxygen may never be less than 25%, regardless of the nitrous oxide concentration desired.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 12,
+            "section": "fibrillation versus rescue with the EZ-IO® for the rapid estab- › Nitrous oxide"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Equipment must be capable of delivering 100% oxygen.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 12,
+            "section": "fibrillation versus rescue with the EZ-IO® for the rapid estab- › Nitrous oxide"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Delivery equipment needs a 100% oxygen capability, a 25% oxygen floor, and size-appropriate flow.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+          "page": 12,
+          "section": "fibrillation versus rescue with the EZ-IO® for the rapid estab- › Nitrous oxide"
+        }
+      ]
+    }
+  ]
+}

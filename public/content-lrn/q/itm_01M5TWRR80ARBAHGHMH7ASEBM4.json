@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5TWRR80ARBAHGHMH7ASEBM4",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "pediatric-restorative-dentistry",
+    "taskStatementId": "ts-caries-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:21:53.272Z",
+  "type": "vignette_mcq",
+  "vignette": "A child at a recall visit has a small noncavitated interproximal lesion on a permanent premolar. The tooth is asymptomatic and the surface is intact. The clinician wants a minimally invasive plan that reduces the chance of progression.",
+  "stem": "Which management is most appropriate for this lesion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Resin infiltration"
+    },
+    {
+      "id": "B",
+      "text": "Immediate conventional restoration, because placing a restoration stops the caries process"
+    },
+    {
+      "id": "C",
+      "text": "Interim therapeutic restoration for caries control"
+    },
+    {
+      "id": "D",
+      "text": "Restoration of the lesion, because every caries lesion needs to be restored"
+    }
+  ]
+}

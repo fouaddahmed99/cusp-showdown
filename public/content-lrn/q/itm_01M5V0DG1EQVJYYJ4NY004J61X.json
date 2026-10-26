@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V0DG1EQVJYYJ4NY004J61X",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "nutrition-and-dietary-counseling-in-the-pediatric",
+    "taskStatementId": "ts-prevention-06",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:25:34.752Z",
+  "type": "vignette_mcq",
+  "vignette": "A child presents for a routine dental visit. The clinical examination shows signs of enamel erosion.",
+  "stem": "Which action is most appropriate when determining the etiology of this child's erosion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Evaluate the patient for possible gastroesophageal reflux disease."
+    },
+    {
+      "id": "B",
+      "text": "Reassure the family that erosion arises only from diet and that no medical evaluation is needed."
+    },
+    {
+      "id": "C",
+      "text": "Encourage spicy foods as part of dietary counseling for erosion with reflux."
+    },
+    {
+      "id": "D",
+      "text": "Advise avoiding spicy foods as the only step, without considering gastroesophageal reflux disease as a cause."
+    }
+  ]
+}

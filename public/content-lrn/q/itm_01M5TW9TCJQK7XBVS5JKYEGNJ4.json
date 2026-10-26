@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TW9TCJQK7XBVS5JKYEGNJ4",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "early-childhood-caries-ecc-consequences-and-preven",
+    "taskStatementId": "ts-caries-02",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T01:14:06.950Z",
+  "type": "mcq",
+  "stem": "Which statement about minimally invasive management of caries in children is accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interim therapeutic restorations can provide caries control in a child with multiple open lesions before definitive restoration."
+    },
+    {
+      "id": "B",
+      "text": "38% SDF is limited to arresting lesions in permanent teeth."
+    },
+    {
+      "id": "C",
+      "text": "Sealants and Hall-technique crowns are excluded from the minimal intervention options for ECC."
+    },
+    {
+      "id": "D",
+      "text": "Every caries lesion must be restored in order to stop the disease process."
+    }
+  ]
+}

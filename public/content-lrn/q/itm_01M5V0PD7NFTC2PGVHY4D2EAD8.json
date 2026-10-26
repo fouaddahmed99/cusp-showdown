@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V0PD7NFTC2PGVHY4D2EAD8",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "perinatal-and-infant-oral-health-care",
+    "taskStatementId": "ts-prevention-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:31:11.764Z",
+  "type": "vignette_mcq",
+  "vignette": "A newborn is found to have a tooth present in the mouth at birth. The clinician is deciding how to manage it.",
+  "stem": "Which consideration is most appropriate when managing this natal tooth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Consider any medical or contributing factors"
+    },
+    {
+      "id": "B",
+      "text": "Base the decision on the tooth alone, since medical history has no bearing on management"
+    },
+    {
+      "id": "C",
+      "text": "Remove the tooth routinely in every case, regardless of the infant's medical circumstances"
+    },
+    {
+      "id": "D",
+      "text": "Make the decision without considering contributing factors, relying on tooth mobility alone"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "itm_01M5TWRR80ARBAHGHMH7ASEBM4",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Resin infiltration is a measure for small noncavitated interproximal lesions in primary and permanent teeth, aimed at reducing progression.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 3,
+            "section": "Pediatric Restorative Dentistry › Resin infiltration"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Restoring a lesion does not by itself halt the disease process, so this rationale is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 1,
+            "section": "Pediatric Restorative Dentistry"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Interim therapeutic restorations provide caries control in children with multiple open lesions before definitive restoration. This child has a single small noncavitated lesion, for which resin infiltration is the specified measure.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 5,
+            "section": "Pediatric Restorative Dentistry › Glass-ionomer cements (GIC)"
+          },
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 3,
+            "section": "Pediatric Restorative Dentistry › Resin infiltration"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Not every caries lesion needs restoration, so the claim that all lesions must be restored is wrong.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 1,
+            "section": "Pediatric Restorative Dentistry"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "A small noncavitated interproximal lesion in a permanent tooth can be managed with resin infiltration to reduce progression.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+          "page": 3,
+          "section": "Pediatric Restorative Dentistry › Resin infiltration"
+        }
+      ]
+    },
+    {
+      "text": "Restoration is not required for every lesion, and restoring does not by itself stop the disease.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+          "page": 1,
+          "section": "Pediatric Restorative Dentistry"
+        }
+      ]
+    }
+  ]
+}

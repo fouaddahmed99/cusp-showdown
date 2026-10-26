@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TZ4RKE2NVKZET997EW95BH",
+  "version": 1,
+  "tags": {
+    "domainId": "growth",
+    "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+    "taskStatementId": "ts-growth-05",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:03:40.051Z",
+  "type": "mcq",
+  "stem": "Which follow-up practice best improves the effectiveness of a space maintainer after it has been placed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Examine the patient only if he or she reports a problem with the appliance."
+    },
+    {
+      "id": "B",
+      "text": "Focus on the appliance alone and disregard the succedaneous tooth."
+    },
+    {
+      "id": "C",
+      "text": "Regularly check the appliance's integrity and retention and watch the eruption of the succedaneous tooth."
+    },
+    {
+      "id": "D",
+      "text": "Rely on patient compliance alone, without scheduled checks of the appliance."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V62M99DT5VQC80MVNFMY0W",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "oral-and-dental-aspects-of-child-abuse-and-neglect",
+    "taskStatementId": "ts-trauma-emergency-01",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T04:04:47.179Z",
+  "type": "mcq",
+  "stem": "What should the oral examination of a child suspected of experiencing abuse or neglect include?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Evaluation for oral trauma only, with caries and gingivitis left aside."
+    },
+    {
+      "id": "B",
+      "text": "A thorough exam only if the child is in foster care."
+    },
+    {
+      "id": "C",
+      "text": "A careful exam for oral trauma, caries, gingivitis, and other oral health problems."
+    },
+    {
+      "id": "D",
+      "text": "Omission of caries and gingivitis assessment because these conditions are unrelated to a child's welfare."
+    }
+  ]
+}

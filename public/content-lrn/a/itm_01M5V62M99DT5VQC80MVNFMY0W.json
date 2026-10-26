@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5V62M99DT5VQC80MVNFMY0W",
+  "version": 1,
+  "type": "mcq",
+  "key": "C",
+  "rationales": {
+    "A": [
+      {
+        "text": "The recommended exam covers caries, gingivitis, and other oral health problems as well as trauma.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+            "page": 2,
+            "section": "+ › PHYSICAL ABUSE"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The careful exam applies to children suspected of abuse or neglect, with foster care children included as one example rather than the only group.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+            "page": 2,
+            "section": "+ › PHYSICAL ABUSE"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "This matches the recommended scope of exam for these children.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+            "page": 2,
+            "section": "+ › PHYSICAL ABUSE"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Caries and gingivitis are specifically named among the problems to be examined for, so omitting them is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+            "page": 2,
+            "section": "+ › PHYSICAL ABUSE"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Children suspected of abuse or neglect, including those in foster care, need a careful exam covering trauma, caries, gingivitis, and other oral problems.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+          "page": 2,
+          "section": "+ › PHYSICAL ABUSE"
+        }
+      ]
+    }
+  ]
+}

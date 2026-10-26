@@ -1,0 +1,83 @@
+{
+  "id": "itm_01M5TZNYND7D3KXG2DW6HRTGBW",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "AAPD recommends written consent before treatment begins because it can lower liability from miscommunication.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-informed-consent-2023",
+            "page": 1,
+            "section": "Informed Consent"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "A signed consent form does not automatically amount to informed consent, so this is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 4,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Informed consent"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "State laws vary, so consent requirements are not identical everywhere.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-informed-consent-2023",
+            "page": 1,
+            "section": "Informed Consent"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Providers are encouraged to learn their own state's informed consent laws and regulations, so written consent does not replace that knowledge.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-informed-consent-2023",
+            "page": 1,
+            "section": "Informed Consent"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "AAPD recommends written consent before treatment starts, despite differences among states, because it can lower liability from miscommunication.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-informed-consent-2023",
+          "page": 1,
+          "section": "Informed Consent"
+        }
+      ]
+    },
+    {
+      "text": "Written consent does not replace knowing state law or having a true informed consent process.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-informed-consent-2023",
+          "page": 1,
+          "section": "Informed Consent"
+        },
+        {
+          "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+          "page": 4,
+          "section": "Behavior Guidance for the Pediatric Dental Patient › Informed consent"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "itm_01M5V3KB6H46BQHPQ9C2YTT2VH",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Sodium hypochlorite irrigation is strongly recommended over saline for hemostasis during direct pulp capping.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guideline-for-use-of-vital-pulp-therapy-in-perma-2025",
+            "page": 1,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Guideline for Use of Vital Pulp Therapy in Permanent Teeth"
+          }
+        ]
+      },
+      {
+        "text": "Direct pulp capping is acceptable for an exposed pulp regardless of root maturity.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guideline-for-use-of-vital-pulp-therapy-in-perma-2025",
+            "page": 1,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Guideline for Use of Vital Pulp Therapy in Permanent Teeth"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Saline is the less preferred irrigant because sodium hypochlorite is strongly recommended over it for hemostasis.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guideline-for-use-of-vital-pulp-therapy-in-perma-2025",
+            "page": 1,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Guideline for Use of Vital Pulp Therapy in Permanent Teeth"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "An immature root does not preclude pulp capping, because direct pulp capping can be done irrespective of root maturity.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guideline-for-use-of-vital-pulp-therapy-in-perma-2025",
+            "page": 1,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Guideline for Use of Vital Pulp Therapy in Permanent Teeth"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "A carious permanent tooth with reversible pulpitis is considered vital and eligible for vital pulp therapy.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guideline-for-use-of-vital-pulp-therapy-in-perma-2025",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Guideline for Use of Vital Pulp Therapy in Permanent Teeth"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "The tooth is vital and eligible for vital pulp therapy, and the exposed pulp can be capped even with an immature root.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-guideline-for-use-of-vital-pulp-therapy-in-perma-2025",
+          "page": 2,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Guideline for Use of Vital Pulp Therapy in Permanent Teeth"
+        },
+        {
+          "sourceId": "src_aapd-guideline-for-use-of-vital-pulp-therapy-in-perma-2025",
+          "page": 1,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Guideline for Use of Vital Pulp Therapy in Permanent Teeth"
+        }
+      ]
+    },
+    {
+      "text": "Sodium hypochlorite is the strongly recommended irrigant over saline for hemostasis during direct pulp capping.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-guideline-for-use-of-vital-pulp-therapy-in-perma-2025",
+          "page": 1,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Guideline for Use of Vital Pulp Therapy in Permanent Teeth"
+        }
+      ]
+    }
+  ]
+}

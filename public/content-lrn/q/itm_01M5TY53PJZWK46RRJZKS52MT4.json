@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TY53PJZWK46RRJZKS52MT4",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "prescribing-dental-radiographs",
+    "taskStatementId": "ts-diagnosis-05",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:46:55.262Z",
+  "type": "mcq",
+  "stem": "A young child needs an essential radiograph and a parent must hold the child during the exposure. Which protective approach matches the guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A lead apron for the parent, and a thyroid collar for the child when the thyroid is in the primary beam"
+    },
+    {
+      "id": "B",
+      "text": "No protective garment for the parent, since only the child is imaged"
+    },
+    {
+      "id": "C",
+      "text": "A thyroid collar for the child only when the thyroid is outside the primary beam"
+    },
+    {
+      "id": "D",
+      "text": "Routine shielding of the child for every exposure, because it is considered necessary"
+    }
+  ]
+}

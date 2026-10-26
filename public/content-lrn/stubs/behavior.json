@@ -1,0 +1,134 @@
+[
+  {
+    "id": "itm_01M5TTCYR62K2PSTQK5D4RQ6YY",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "behavior",
+      "subtopicId": "behavior-guidance",
+      "taskStatementId": "ts-behavior-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TTCYR69CW8VPZP40HCQ33C",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "behavior",
+      "subtopicId": "behavior-guidance",
+      "taskStatementId": "ts-behavior-01",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TTHZXE4RB3C3H8MV4K9RZ9",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "behavior",
+      "subtopicId": "behavior-guidance",
+      "taskStatementId": "ts-behavior-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TTS3PT5ES23CB7F80CQCH7",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "behavior",
+      "subtopicId": "monitoring-and-management-of-pediatric-patients-be",
+      "taskStatementId": "ts-behavior-04",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TTS3PVZ25CDKT9ART2BSTD",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "behavior",
+      "subtopicId": "monitoring-and-management-of-pediatric-patients-be",
+      "taskStatementId": "ts-behavior-04",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TV18X152DW249BEEREKT7N",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "behavior",
+      "subtopicId": "nonpharmacological-behavior-guidance",
+      "taskStatementId": "ts-behavior-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TVA5YW30WKC4E9DQAMR70G",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "behavior",
+      "subtopicId": "use-of-local-anesthesia",
+      "taskStatementId": "ts-behavior-05",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TVA5YXMX09FB6V7AB71D3B",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "behavior",
+      "subtopicId": "use-of-local-anesthesia",
+      "taskStatementId": "ts-behavior-05",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TVK3HYW90B33J1PVSN0HG8",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "behavior",
+      "subtopicId": "use-of-nitrous-oxide",
+      "taskStatementId": "ts-behavior-03",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TVK3HZAEZ1XEQF1CKB9GW2",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "behavior",
+      "subtopicId": "use-of-nitrous-oxide",
+      "taskStatementId": "ts-behavior-03",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TVK3HZXTT1V3DM6Y89J6MA",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "behavior",
+      "subtopicId": "use-of-nitrous-oxide",
+      "taskStatementId": "ts-behavior-03",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  }
+]

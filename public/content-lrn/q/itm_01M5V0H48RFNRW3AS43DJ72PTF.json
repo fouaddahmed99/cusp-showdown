@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V0H48RFNRW3AS43DJ72PTF",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "perinatal-and-infant-oral-health-care",
+    "taskStatementId": "ts-prevention-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:28:06.600Z",
+  "type": "mcq",
+  "stem": "A child has a physical disability that limits age-appropriate oral hygiene. How does this affect the child's risk profile?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It raises risk for caries only"
+    },
+    {
+      "id": "B",
+      "text": "It raises risk for periodontal disease only"
+    },
+    {
+      "id": "C",
+      "text": "It raises risk for both caries and periodontal disease"
+    },
+    {
+      "id": "D",
+      "text": "It lowers risk because the child is monitored more closely"
+    }
+  ]
+}

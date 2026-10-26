@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5V3ABSS8KYSMCHQPDW7ZMPM",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "D",
+  "rationales": {
+    "A": [
+      {
+        "text": "Symptoms are only one component; the diagnosis also depends on clinical and radiographic signs.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Radiographic findings alone are insufficient, because diagnosis relies on symptoms together with clinical and radiographic signs.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Clinical signs alone are insufficient, because symptoms and radiographic signs must be considered with them.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Pulp diagnosis relies on symptoms together with clinical and radiographic signs.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Pulp diagnosis relies on symptoms together with clinical and radiographic signs.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+          "page": 2,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+        }
+      ]
+    },
+    {
+      "text": "The diagnosis matters because primary teeth with irreversible pulpitis or necrotic pulp may be managed by non-vital pulp therapy or by extraction.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+          "page": 2,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+        }
+      ]
+    }
+  ]
+}

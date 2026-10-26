@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TYF8VG1VREQXSGSVCRTDGE",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "temporomandibular-disorders-in-children-and-adoles",
+    "taskStatementId": "ts-diagnosis-03",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:51:35.560Z",
+  "type": "mcq",
+  "stem": "A pediatric dentist is planning management for a child who has been diagnosed with a temporomandibular disorder. Which approach is most consistent with current guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Occlusal adjustment to modify how the teeth contact"
+    },
+    {
+      "id": "B",
+      "text": "Orthodontic tooth movement to change the bite"
+    },
+    {
+      "id": "C",
+      "text": "Surgical intervention on the joint"
+    },
+    {
+      "id": "D",
+      "text": "Patient instruction combined with physical therapy or an occlusal splint"
+    }
+  ]
+}

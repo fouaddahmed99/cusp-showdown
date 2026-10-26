@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5TZ4RKEENS9V200EZV7NEJ5",
+  "version": 1,
+  "type": "mcq",
+  "key": "D",
+  "rationales": {
+    "A": [
+      {
+        "text": "Clinicians should anticipate repairing, recementing, or replacing a space maintainer, so it is not expected to need no attention.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Repair, recementation, or replacement is an anticipated part of care, and space maintenance remains reasonable after early loss.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Placement and retention of space maintainers depend on ongoing patient compliance.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Clinicians should anticipate needing to repair, recement, or replace a space maintainer.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Repair, recementation, or replacement of a space maintainer should be anticipated.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+          "page": 9,
+          "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+        }
+      ]
+    },
+    {
+      "text": "Retention also depends on continued patient compliance.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+          "page": 9,
+          "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+        }
+      ]
+    }
+  ]
+}

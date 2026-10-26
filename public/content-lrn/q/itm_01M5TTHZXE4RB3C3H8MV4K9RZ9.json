@@ -1,0 +1,35 @@
+{
+  "id": "itm_01M5TTHZXE4RB3C3H8MV4K9RZ9",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "behavior-guidance",
+    "taskStatementId": "ts-behavior-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T00:43:17.802Z",
+  "type": "mcq",
+  "stem": "Which statement best describes how a pediatric dentist should approach the use of pharmacologic behavior modification?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Use it when the harm from leaving oral disease untreated would be greater than the benefit the non-pharmacologic approaches can offer."
+    },
+    {
+      "id": "B",
+      "text": "Use it as the initial step for every child, before any other behavior guidance option is tried."
+    },
+    {
+      "id": "C",
+      "text": "Choose it on the basis of the child's temperament alone."
+    },
+    {
+      "id": "D",
+      "text": "Choose the agent without regard to the patient's medical condition when the clinician is experienced."
+    },
+    {
+      "id": "E",
+      "text": "Regard it as a basic behavior guidance technique, in the same category as routine communicative approaches."
+    }
+  ]
+}

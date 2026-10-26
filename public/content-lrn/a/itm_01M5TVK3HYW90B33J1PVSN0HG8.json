@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5TVK3HYW90B33J1PVSN0HG8",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "The concentration can be raised for more stimulating procedures such as a local anesthetic injection or extraction.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-nitrous-oxide-for-pediatric-dental-patien-2023",
+            "page": 4,
+            "section": "Use of Nitrous Oxide for Pediatric Dental Patients › Technique of N2O/O2 administration"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Lower concentrations suit minor procedures such as restorations, not injections.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-nitrous-oxide-for-pediatric-dental-patien-2023",
+            "page": 4,
+            "section": "Use of Nitrous Oxide for Pediatric Dental Patients › Technique of N2O/O2 administration"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Delivery equipment must never provide less than 25% oxygen, so a mixture with no oxygen is not acceptable.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+            "page": 12,
+            "section": "fibrillation versus rescue with the EZ-IO® for the rapid estab- › Nitrous oxide"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Raising the concentration is the stated approach for injections, so stopping is not required.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-nitrous-oxide-for-pediatric-dental-patien-2023",
+            "page": 4,
+            "section": "Use of Nitrous Oxide for Pediatric Dental Patients › Technique of N2O/O2 administration"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Nitrous oxide concentration is matched to how stimulating the step is: lower for restorations and higher for injections or extractions.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-nitrous-oxide-for-pediatric-dental-patien-2023",
+          "page": 4,
+          "section": "Use of Nitrous Oxide for Pediatric Dental Patients › Technique of N2O/O2 administration"
+        }
+      ]
+    },
+    {
+      "text": "Oxygen delivery must always stay at or above the minimum of 25%.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+          "page": 12,
+          "section": "fibrillation versus rescue with the EZ-IO® for the rapid estab- › Nitrous oxide"
+        }
+      ]
+    }
+  ]
+}

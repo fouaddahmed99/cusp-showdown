@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5V08ZNNNGH4C97EKTWCXKYE",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Dietary assessment belongs at both the initial and the recurring visits, and it matters especially for caries risk.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+            "page": 2,
+            "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Assessment is not limited to the first visit; it is also an important part of recurring visits.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+            "page": 2,
+            "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The first visit is explicitly included as a time for assessing feeding and nutrition, so waiting for recurring visits is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+            "page": 2,
+            "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Assessment is a routine part of first and recurring visits, particularly for judging caries risk, so it should not wait until caries is already present.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+            "page": 2,
+            "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Feeding habits and nutritional intake should be assessed at the first visit and at recurring visits, especially because of their bearing on caries risk.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+          "page": 2,
+          "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+        }
+      ]
+    }
+  ]
+}

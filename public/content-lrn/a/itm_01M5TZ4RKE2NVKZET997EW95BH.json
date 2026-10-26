@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5TZ4RKE2NVKZET997EW95BH",
+  "version": 1,
+  "type": "mcq",
+  "key": "C",
+  "rationales": {
+    "A": [
+      {
+        "text": "Effectiveness is improved by regular checking of the appliance, not by waiting for symptoms.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Watching the eruption of the succedaneous tooth is part of what improves effectiveness, so it should not be disregarded.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Regularly checking integrity and retention and monitoring succedaneous tooth eruption improves effectiveness.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Although these appliances depend on patient compliance, effectiveness is also improved by regular clinician checks.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Regular checks of appliance integrity and retention, together with observation of succedaneous tooth eruption, improve effectiveness.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+          "page": 9,
+          "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+        }
+      ]
+    }
+  ]
+}

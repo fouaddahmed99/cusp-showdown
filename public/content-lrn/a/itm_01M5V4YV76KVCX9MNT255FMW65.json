@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5V4YV76KVCX9MNT255FMW65",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Follow-up after dental trauma is mandatory and includes symptom questioning, clinical and radiographic exams, and pulp sensibility testing.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Because follow-up is mandatory, an absence of symptoms does not make it optional.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Pulp sensibility testing is a listed component of follow-up, and clinical examination is also required.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Radiographic examination is a required component of follow-up and should not be left out.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Follow-up visits are mandatory and comprise symptom questioning, clinical and radiographic exams, and pulp sensibility testing.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+          "page": 13,
+          "section": "+"
+        }
+      ]
+    }
+  ]
+}

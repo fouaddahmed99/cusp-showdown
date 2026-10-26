@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V08ZNNNGH4C97EKTWCXKYE",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "nutrition-and-dietary-counseling-in-the-pediatric",
+    "taskStatementId": "ts-prevention-03",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T02:23:03.632Z",
+  "type": "mcq",
+  "stem": "Which statement best describes when a pediatric dentist should assess a child's feeding habits and nutritional intake?",
+  "options": [
+    {
+      "id": "A",
+      "text": "At the first dental visit and again at recurring visits, with particular attention to caries risk"
+    },
+    {
+      "id": "B",
+      "text": "At the first dental visit only, since later visits focus on clinical and radiographic findings"
+    },
+    {
+      "id": "C",
+      "text": "Only at recurring visits, once a baseline of oral health has been established"
+    },
+    {
+      "id": "D",
+      "text": "Only after active caries lesions have been identified in the child"
+    }
+  ]
+}

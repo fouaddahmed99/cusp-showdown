@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TXTAYNT55M41ZJDJMNMAS9",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "use-of-silver-diamine-fluoride-for-dental-caries-m",
+    "taskStatementId": "ts-caries-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:40:37.139Z",
+  "type": "mcq",
+  "stem": "After SDF is applied to a child's carious lesions, which follow-up reassessment plan is most consistent with current guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Plan reassessment and anticipate that SDF may need to be applied again over time to maintain arrest."
+    },
+    {
+      "id": "B",
+      "text": "Treat the single application as definitive and omit any planned reassessment."
+    },
+    {
+      "id": "C",
+      "text": "Treat a lesion that has turned black and hard at recall as a treatment failure requiring retreatment."
+    },
+    {
+      "id": "D",
+      "text": "Keep the discussion of staining brief at consent, since it is a minor point."
+    }
+  ]
+}

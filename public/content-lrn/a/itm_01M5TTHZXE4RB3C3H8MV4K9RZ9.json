@@ -1,0 +1,145 @@
+{
+  "id": "itm_01M5TTHZXE4RB3C3H8MV4K9RZ9",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Pharmacologic behavior modification is reserved for situations in which the risks of orofacial disease are greater than the benefits of the alternative modalities.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-anesthesia-providers-in-the-administratio-2023",
+            "page": 2,
+            "section": "to the Pediatric Dental Patient › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Because pharmacologic behavior modification is reserved for situations where the risk of disease outweighs the benefit of alternatives, it is not a routine first step.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-anesthesia-providers-in-the-administratio-2023",
+            "page": 2,
+            "section": "to the Pediatric Dental Patient › ABBREVIATIONS"
+          }
+        ]
+      },
+      {
+        "text": "Sedation and general anesthesia fall under advanced behavior guidance, not an initial step.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 1,
+            "section": "Behavior Guidance for the Pediatric Dental Patient"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Temperament is only one of several factors to document when choosing an option; medical history, informed consent, pain assessment, and acuity of treatment needs also count.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 1,
+            "section": "Behavior Guidance for the Pediatric Dental Patient"
+          }
+        ]
+      },
+      {
+        "text": "Each option must also be assessed for its indications, contraindications, and precautions.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 1,
+            "section": "Behavior Guidance for the Pediatric Dental Patient"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Practitioners must know when sedatives and anesthetics are indicated or contraindicated given the patient's medical condition, so the medical condition cannot be ignored.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 5,
+            "section": "Management of Dental Patients with Special Health Care Needs › Recommendations"
+          }
+        ]
+      },
+      {
+        "text": "Medical history is one of the factors to document when choosing a behavior guidance option.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 1,
+            "section": "Behavior Guidance for the Pediatric Dental Patient"
+          }
+        ]
+      }
+    ],
+    "E": [
+      {
+        "text": "Sedation and general anesthesia belong to advanced behavior guidance, together with protective stabilization.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 1,
+            "section": "Behavior Guidance for the Pediatric Dental Patient"
+          }
+        ]
+      },
+      {
+        "text": "They are reserved for situations in which disease risk outweighs the benefit of alternatives.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-anesthesia-providers-in-the-administratio-2023",
+            "page": 2,
+            "section": "to the Pediatric Dental Patient › ABBREVIATIONS"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Pharmacologic behavior modification is justified only when the risk of orofacial disease is greater than the benefit of the alternative modalities.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-anesthesia-providers-in-the-administratio-2023",
+          "page": 2,
+          "section": "to the Pediatric Dental Patient › ABBREVIATIONS"
+        }
+      ]
+    },
+    {
+      "text": "Sedation and general anesthesia are advanced behavior guidance, so they are not a routine or basic starting point.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+          "page": 1,
+          "section": "Behavior Guidance for the Pediatric Dental Patient"
+        }
+      ]
+    },
+    {
+      "text": "The decision must account for the patient's medical condition and for indications, contraindications, and precautions, and it must rest on documented factors beyond temperament alone.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 5,
+          "section": "Management of Dental Patients with Special Health Care Needs › Recommendations"
+        },
+        {
+          "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+          "page": 1,
+          "section": "Behavior Guidance for the Pediatric Dental Patient"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5V15PNJB7TK8DMXFEZXB2QQ",
+  "version": 1,
+  "type": "mcq",
+  "key": "D",
+  "rationales": {
+    "A": [
+      {
+        "text": "Models weigh diet, fluoride, host susceptibility, and microflora together because the etiology is multifactorial, so microflora is not the sole determinant.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 2,
+            "section": "Oral Treatment for Infants, Children, and Adolescents › Caries-risk assessment (CRA)"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Current models explicitly consider how these components interact with social, cultural, and behavioral factors, so those factors are not excluded.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 2,
+            "section": "Oral Treatment for Infants, Children, and Adolescents › Caries-risk assessment (CRA)"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Fluoride exposure is one of the components that these models combine.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 2,
+            "section": "Oral Treatment for Infants, Children, and Adolescents › Caries-risk assessment (CRA)"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Because caries etiology is multifactorial, models integrate the biological components and consider their interaction with social, cultural, and behavioral factors.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 2,
+            "section": "Oral Treatment for Infants, Children, and Adolescents › Caries-risk assessment (CRA)"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Caries etiology is multifactorial, which is why risk models combine diet, fluoride exposure, host susceptibility, and microflora analysis.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+          "page": 2,
+          "section": "Oral Treatment for Infants, Children, and Adolescents › Caries-risk assessment (CRA)"
+        }
+      ]
+    },
+    {
+      "text": "The models also take into account how these components interact with social, cultural, and behavioral factors.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+          "page": 2,
+          "section": "Oral Treatment for Infants, Children, and Adolescents › Caries-risk assessment (CRA)"
+        }
+      ]
+    }
+  ]
+}

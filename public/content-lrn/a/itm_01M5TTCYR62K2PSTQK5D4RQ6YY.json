@@ -1,0 +1,83 @@
+{
+  "id": "itm_01M5TTCYR62K2PSTQK5D4RQ6YY",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Assessing needs includes evaluating physical and emotional state and addressing emotions and concerns when a patient is upset or anxious.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 14,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Search #4. (adults & parents) 332 results"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Emotional state is part of the needs assessment, so limiting it to physical state is wrong.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 14,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Search #4. (adults & parents) 332 results"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "An upset or anxious patient's emotions and concerns should be addressed rather than ignored.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 14,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Search #4. (adults & parents) 332 results"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Histories are reviewed first, but the patient's current behavior must also be evaluated, and the child's physical and emotional state assessed.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 4,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Informed consent"
+          },
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 14,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Search #4. (adults & parents) 332 results"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Needs assessment covers the patient's physical and emotional state.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+          "page": 14,
+          "section": "Behavior Guidance for the Pediatric Dental Patient › Search #4. (adults & parents) 332 results"
+        }
+      ]
+    },
+    {
+      "text": "When the patient is upset or anxious, the provider should address those emotions and concerns.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+          "page": 14,
+          "section": "Behavior Guidance for the Pediatric Dental Patient › Search #4. (adults & parents) 332 results"
+        }
+      ]
+    }
+  ]
+}

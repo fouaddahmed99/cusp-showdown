@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5TZGX8DK8JA6YBCJPSX7NM5",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "CBCT can capture information beyond the original purpose, so radiologist consultation for interpretation may be indicated.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 2,
+            "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+          }
+        ]
+      },
+      {
+        "text": "CBCT is appropriate for planning in this setting.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 2,
+            "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "CBCT can capture information beyond the original purpose, so limiting review is not appropriate.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 2,
+            "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "CBCT is helpful for orthodontic and surgical planning before orthognathic surgery.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 2,
+            "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Consulting a radiologist for CBCT interpretation may be indicated, so it is not never indicated.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 2,
+            "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "CBCT is helpful for planning before orthognathic surgery.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+          "page": 2,
+          "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+        }
+      ]
+    },
+    {
+      "text": "Because CBCT can capture information beyond the original purpose, radiologist consultation for interpretation may be indicated.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+          "page": 2,
+          "section": "Health Care Needs › * Used in the PubMed search to identify all terms that begin with this"
+        }
+      ]
+    }
+  ]
+}

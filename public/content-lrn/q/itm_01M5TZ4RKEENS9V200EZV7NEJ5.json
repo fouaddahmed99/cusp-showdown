@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TZ4RKEENS9V200EZV7NEJ5",
+  "version": 1,
+  "tags": {
+    "domainId": "growth",
+    "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+    "taskStatementId": "ts-growth-05",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:04:00.770Z",
+  "type": "mcq",
+  "stem": "When planning care for a child who receives a space maintainer, which expectation is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A well-made appliance should never need further attention once it is delivered."
+    },
+    {
+      "id": "B",
+      "text": "Needing a repair means the effort to maintain space should be abandoned."
+    },
+    {
+      "id": "C",
+      "text": "Placement alone ensures retention regardless of the patient's cooperation."
+    },
+    {
+      "id": "D",
+      "text": "The clinician should anticipate possibly having to repair, recement, or replace the appliance."
+    }
+  ]
+}

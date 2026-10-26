@@ -1,0 +1,170 @@
+[
+  {
+    "id": "itm_01M5V007FJMK8NP4MYFWRFPBX5",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "fluoride-therapy",
+      "taskStatementId": "ts-prevention-04",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V007FKTY13SBX7ECFY62KJ",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "fluoride-therapy",
+      "taskStatementId": "ts-prevention-04",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V08ZNNNGH4C97EKTWCXKYE",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "nutrition-and-dietary-counseling-in-the-pediatric",
+      "taskStatementId": "ts-prevention-03",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V0DG1EQVJYYJ4NY004J61X",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "nutrition-and-dietary-counseling-in-the-pediatric",
+      "taskStatementId": "ts-prevention-06",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V0H48QDSX97DTBQ5AM3NRP",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "perinatal-and-infant-oral-health-care",
+      "taskStatementId": "ts-prevention-02",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V0H48RFNRW3AS43DJ72PTF",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "perinatal-and-infant-oral-health-care",
+      "taskStatementId": "ts-prevention-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V0PD7M69PMM7BDTDK9NV2T",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "perinatal-and-infant-oral-health-care",
+      "taskStatementId": "ts-prevention-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V0PD7NFTC2PGVHY4D2EAD8",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "perinatal-and-infant-oral-health-care",
+      "taskStatementId": "ts-prevention-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V0VW0G5KEJM9G0FK96DM2V",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "perinatal-and-infant-oral-health-care",
+      "taskStatementId": "ts-prevention-03",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V1154SGATRKW8BC8VQWVS6",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "periodicity-of-examination-preventive-dental-servi",
+      "taskStatementId": "ts-prevention-05",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V15PNJB7TK8DMXFEZXB2QQ",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "periodicity-of-examination-preventive-dental-servi",
+      "taskStatementId": "ts-prevention-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V15PNKNS1QP7210C04S0MB",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "periodicity-of-examination-preventive-dental-servi",
+      "taskStatementId": "ts-prevention-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V1B529PJHY1QGK2R5C5DGF",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "periodicity-of-examination-preventive-dental-servi",
+      "taskStatementId": "ts-prevention-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V29MQBNZRH7C43YSWGTAHE",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "prevention",
+      "subtopicId": "use-of-fluoride",
+      "taskStatementId": "ts-prevention-04",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  }
+]

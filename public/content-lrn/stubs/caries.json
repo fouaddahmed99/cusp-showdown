@@ -22,5 +22,125 @@
       "cognitiveLevel": "remember"
     },
     "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TW4G3GP3JG7J5DDQR0MBQJ",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "caries",
+      "subtopicId": "chairside-guide-silver-diammine-fluoride-in-the-ma",
+      "taskStatementId": "ts-caries-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TW9TCJQK7XBVS5JKYEGNJ4",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "caries",
+      "subtopicId": "early-childhood-caries-ecc-consequences-and-preven",
+      "taskStatementId": "ts-caries-02",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TWEMJ10EG1X2AE4MAD2WPT",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "caries",
+      "subtopicId": "early-childhood-caries-ecc-unique-challenges-and-m",
+      "taskStatementId": "ts-caries-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TWKRRBTANWRZ3KDRFMYA00",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "caries",
+      "subtopicId": "early-childhood-caries-ecc-unique-challenges-and-m",
+      "taskStatementId": "ts-caries-08",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TWRR80ARBAHGHMH7ASEBM4",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "caries",
+      "subtopicId": "pediatric-restorative-dentistry",
+      "taskStatementId": "ts-caries-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TX04GJG90D4QR545MYBC5E",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "caries",
+      "subtopicId": "pediatric-restorative-dentistry",
+      "taskStatementId": "ts-caries-06",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TXQ0GNNS7WB9CACBTEDG1H",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "caries",
+      "subtopicId": "use-of-pit-and-fissure-sealants",
+      "taskStatementId": "ts-caries-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TXTAYNT55M41ZJDJMNMAS9",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "caries",
+      "subtopicId": "use-of-silver-diamine-fluoride-for-dental-caries-m",
+      "taskStatementId": "ts-caries-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TXZ1XY7BY09JRK8F5QCPKK",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "caries",
+      "subtopicId": "use-of-silver-diammine-fluoride",
+      "taskStatementId": "ts-caries-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TXZ1XYYGNVW3B68BVG2TQ3",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "caries",
+      "subtopicId": "use-of-silver-diammine-fluoride",
+      "taskStatementId": "ts-caries-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
   }
 ]

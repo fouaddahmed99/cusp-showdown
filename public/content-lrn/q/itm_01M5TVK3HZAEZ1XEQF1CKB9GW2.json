@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TVK3HZAEZ1XEQF1CKB9GW2",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "use-of-nitrous-oxide",
+    "taskStatementId": "ts-behavior-03",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T01:02:13.951Z",
+  "type": "mcq",
+  "stem": "Which step is critical before a child receives nitrous oxide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Careful review of the medical history"
+    },
+    {
+      "id": "B",
+      "text": "Skipping history review because the effects reverse quickly"
+    },
+    {
+      "id": "C",
+      "text": "Deferring the history review until the child's response has been observed"
+    },
+    {
+      "id": "D",
+      "text": "Reviewing the history only when the concentration will be raised for an extraction"
+    }
+  ]
+}

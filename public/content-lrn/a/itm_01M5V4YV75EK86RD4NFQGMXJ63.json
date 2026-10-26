@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5V4YV75EK86RD4NFQGMXJ63",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "Pulp preservation is pursued in both mature and immature teeth, so limiting it to mature teeth is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+ › MATURE (CLOSED APEX) PERMANENT TEETH"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Pulp preservation is especially vital in immature teeth so that root development and apex formation can continue.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+ › MATURE (CLOSED APEX) PERMANENT TEETH"
+          }
+        ]
+      },
+      {
+        "text": "The immature pulp can also heal considerably after traumatic exposure.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+ › MATURE (CLOSED APEX) PERMANENT TEETH"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "An immature permanent pulp can heal considerably after traumatic exposure, so the claim of little healing capacity is wrong.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+ › MATURE (CLOSED APEX) PERMANENT TEETH"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Preservation is described as especially vital in immature teeth, not less important.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+ › MATURE (CLOSED APEX) PERMANENT TEETH"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Pulp preservation is recommended for both mature and immature teeth, and it is especially important in immature teeth so the root can keep developing and the apex can form.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+          "page": 13,
+          "section": "+ › MATURE (CLOSED APEX) PERMANENT TEETH"
+        }
+      ]
+    },
+    {
+      "text": "This is feasible because the immature pulp can heal considerably after exposure, luxation, or root fracture.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+          "page": 13,
+          "section": "+ › MATURE (CLOSED APEX) PERMANENT TEETH"
+        }
+      ]
+    }
+  ]
+}

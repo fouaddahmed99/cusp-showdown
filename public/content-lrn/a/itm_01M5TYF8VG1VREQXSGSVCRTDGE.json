@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5TYF8VG1VREQXSGSVCRTDGE",
+  "version": 1,
+  "type": "mcq",
+  "key": "D",
+  "rationales": {
+    "A": [
+      {
+        "text": "Occlusal adjustment is an irreversible therapy, and it should be avoided in children because evidence that it works is limited.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Orthodontics is listed among the irreversible therapies that should be avoided in children because evidence of effectiveness is limited.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Surgery is an irreversible therapy that should be avoided in children because evidence supporting it is limited.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Patient instruction, physical therapy, and occlusal splints are all common reversible TMD treatments.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      },
+      {
+        "text": "Reversible care is preferred over irreversible therapies in children.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Common reversible treatments for TMD include patient instruction, physical therapy, behavioral therapy, medications, and occlusal splints.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+          "page": 1,
+          "section": "Care Needs › Definition of TMD"
+        }
+      ]
+    },
+    {
+      "text": "Occlusal adjustment, orthodontics, and surgery are irreversible and should be avoided in children because evidence of their effectiveness is limited.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+          "page": 1,
+          "section": "Care Needs › Definition of TMD"
+        }
+      ]
+    }
+  ]
+}

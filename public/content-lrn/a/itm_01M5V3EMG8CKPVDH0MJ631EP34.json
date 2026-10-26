@@ -1,0 +1,110 @@
+{
+  "id": "itm_01M5V3EMG8CKPVDH0MJ631EP34",
+  "version": 1,
+  "type": "mcq",
+  "key": "C",
+  "rationales": {
+    "A": [
+      {
+        "text": "Formocresol is not the preferred agent, because calcium silicate cement is strongly recommended over it.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-vital-pulp-therapies-in-primary-teeth-2024",
+            "page": 1,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Vital Pulp Therapies in Primary Teeth 2024"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Ferric sulfate ranks below calcium silicate cement, which is strongly recommended over it.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-vital-pulp-therapies-in-primary-teeth-2024",
+            "page": 1,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Vital Pulp Therapies in Primary Teeth 2024"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Calcium silicate cement pulpotomy is strongly recommended over the other pulpotomy agents listed.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-vital-pulp-therapies-in-primary-teeth-2024",
+            "page": 1,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Vital Pulp Therapies in Primary Teeth 2024"
+          }
+        ]
+      },
+      {
+        "text": "It is also preferred in vital primary teeth with deep caries over direct pulp capping and other pulpotomy medicaments.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-vital-pulp-therapies-in-primary-teeth-2024",
+            "page": 8,
+            "section": "searches in PubMed®/MEDLINE, Embase®, Cochrane Library › Question 3. In vital primary teeth requiring pulp therapy due"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Zinc oxide eugenol is not preferred, because calcium silicate cement is strongly recommended over it.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-vital-pulp-therapies-in-primary-teeth-2024",
+            "page": 1,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Vital Pulp Therapies in Primary Teeth 2024"
+          }
+        ]
+      }
+    ],
+    "E": [
+      {
+        "text": "Direct pulp capping is less preferred than indirect pulp treatment or calcium silicate cement pulpotomy for deep caries in vital primary teeth.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-vital-pulp-therapies-in-primary-teeth-2024",
+            "page": 8,
+            "section": "searches in PubMed®/MEDLINE, Embase®, Cochrane Library › Question 3. In vital primary teeth requiring pulp therapy due"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "The guideline addresses vital pulp therapy in caries-affected primary teeth whose pulp is normal or reversibly inflamed.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-vital-pulp-therapies-in-primary-teeth-2024",
+          "page": 1,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › P"
+        }
+      ]
+    },
+    {
+      "text": "For pulpotomy, calcium silicate cement is strongly recommended over formocresol, ferric sulfate, and zinc oxide eugenol.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-vital-pulp-therapies-in-primary-teeth-2024",
+          "page": 1,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Vital Pulp Therapies in Primary Teeth 2024"
+        }
+      ]
+    },
+    {
+      "text": "Indirect pulp treatment or calcium silicate cement pulpotomy is preferred over direct pulp capping and other pulpotomy medicaments for deep caries.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-vital-pulp-therapies-in-primary-teeth-2024",
+          "page": 8,
+          "section": "searches in PubMed®/MEDLINE, Embase®, Cochrane Library › Question 3. In vital primary teeth requiring pulp therapy due"
+        }
+      ]
+    }
+  ]
+}

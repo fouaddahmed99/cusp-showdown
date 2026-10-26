@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V4RJ7ANV65S7Y237KFYVK4",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "dental-trauma-iadt-1-fractures-and-luxations-of-pe",
+    "taskStatementId": "ts-trauma-emergency-02",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T03:42:41.588Z",
+  "type": "mcq",
+  "stem": "Which injuries are the most common among all dental injuries to permanent teeth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Crown fractures and luxations"
+    },
+    {
+      "id": "B",
+      "text": "Root fractures and alveolar bone fractures"
+    },
+    {
+      "id": "C",
+      "text": "Root fractures and crown/root fractures"
+    },
+    {
+      "id": "D",
+      "text": "Alveolar bone fractures alone"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TV18X152DW249BEEREKT7N",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "nonpharmacological-behavior-guidance",
+    "taskStatementId": "ts-behavior-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T00:51:52.347Z",
+  "type": "mcq",
+  "stem": "A dentist is selecting a communicative guidance technique for a child who has a hearing disorder. Which approach is most consistent with current guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Consider the child's cognitive and psychological development together with the communication deficit"
+    },
+    {
+      "id": "B",
+      "text": "Base the choice only on the hearing disorder and disregard the child's developmental level"
+    },
+    {
+      "id": "C",
+      "text": "Base the choice only on the child's cognitive development, treating the hearing disorder as irrelevant"
+    },
+    {
+      "id": "D",
+      "text": "Base the choice only on the child's psychological development, excluding other communication deficits"
+    }
+  ]
+}

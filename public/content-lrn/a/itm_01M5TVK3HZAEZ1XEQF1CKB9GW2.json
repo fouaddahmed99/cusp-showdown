@@ -1,0 +1,73 @@
+{
+  "id": "itm_01M5TVK3HZAEZ1XEQF1CKB9GW2",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "A careful medical history review is critical before using nitrous oxide.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-nitrous-oxide-for-pediatric-dental-patien-2023",
+            "page": 2,
+            "section": "Use of Nitrous Oxide for Pediatric Dental Patients › Candidates for N2O/O2 analgesia/anxiolysis"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Rapid reversibility does not remove the need for the history review, which remains critical.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-nitrous-oxide-for-pediatric-dental-patien-2023",
+            "page": 2,
+            "section": "Use of Nitrous Oxide for Pediatric Dental Patients › Candidates for N2O/O2 analgesia/anxiolysis"
+          },
+          {
+            "sourceId": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+            "page": 9,
+            "section": "Behavior Guidance for the Pediatric Dental Patient › Basic behavior guidance"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The review is needed before use, not after the response has been observed.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-nitrous-oxide-for-pediatric-dental-patien-2023",
+            "page": 2,
+            "section": "Use of Nitrous Oxide for Pediatric Dental Patients › Candidates for N2O/O2 analgesia/anxiolysis"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The review is critical before any use of nitrous oxide, not just for higher concentrations.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-nitrous-oxide-for-pediatric-dental-patien-2023",
+            "page": 2,
+            "section": "Use of Nitrous Oxide for Pediatric Dental Patients › Candidates for N2O/O2 analgesia/anxiolysis"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Medical history review comes before nitrous oxide is used.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-nitrous-oxide-for-pediatric-dental-patien-2023",
+          "page": 2,
+          "section": "Use of Nitrous Oxide for Pediatric Dental Patients › Candidates for N2O/O2 analgesia/anxiolysis"
+        }
+      ]
+    }
+  ]
+}

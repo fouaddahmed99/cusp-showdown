@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5TXZ1XYYGNVW3B68BVG2TQ3",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "use-of-silver-diammine-fluoride",
+    "taskStatementId": "ts-caries-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:43:13.182Z",
+  "type": "vignette_mcq",
+  "vignette": "A child returns after SDF was applied to a cavitated lesion on a primary molar. The lesion now looks black and feels hard.",
+  "stem": "What is the most appropriate plan for ongoing management of this lesion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Discharge the lesion from surveillance because hardness proves arrest is permanent."
+    },
+    {
+      "id": "B",
+      "text": "Continue periodic monitoring for progression and reapply SDF over time if needed to maintain arrest."
+    },
+    {
+      "id": "C",
+      "text": "Consider the treatment a failure because of the black color and remove the tooth structure."
+    },
+    {
+      "id": "D",
+      "text": "Conclude that SDF cannot arrest caries and abandon it in the management plan."
+    }
+  ]
+}

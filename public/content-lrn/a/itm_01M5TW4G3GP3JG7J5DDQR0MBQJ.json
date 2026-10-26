@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5TW4G3GP3JG7J5DDQR0MBQJ",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Consent for SDF should particularly stress that treated lesions are expected to stain.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+            "page": 4,
+            "section": "Infants, Children, and Adolescents › Sealants"
+          }
+        ]
+      },
+      {
+        "text": "Treated lesions typically turn black.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Lesions treated with SDF typically become black, so a tooth-colored result should not be promised.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Treated lesions typically become hard, not soft.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Repeated applications over time may be needed to keep a lesion arrested, so permanent arrest after one application cannot be guaranteed.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Informed consent for SDF should particularly emphasize that lesions are expected to stain.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+          "page": 4,
+          "section": "Infants, Children, and Adolescents › Sealants"
+        }
+      ]
+    },
+    {
+      "text": "Lesions typically become black and hard, and repeat applications may be needed to keep them arrested.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+          "page": 1,
+          "section": "Management of Dental Caries Lesions*"
+        }
+      ]
+    }
+  ]
+}

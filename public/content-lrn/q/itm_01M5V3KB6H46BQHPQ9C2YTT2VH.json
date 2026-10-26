@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V3KB6H46BQHPQ9C2YTT2VH",
+  "version": 1,
+  "tags": {
+    "domainId": "pulp",
+    "subtopicId": "use-of-vital-pulp-therapy-in-permanent-teeth",
+    "taskStatementId": "ts-pulp-03",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:21:45.351Z",
+  "type": "vignette_mcq",
+  "vignette": "A young permanent molar with an incompletely formed root has deep caries and only brief sensitivity to cold. It is diagnosed with reversible pulpitis. A small pulp exposure occurs during caries removal.",
+  "stem": "Which approach is most appropriate for controlling bleeding before placing the capping material?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct pulp capping after sodium hypochlorite irrigation for hemostasis"
+    },
+    {
+      "id": "B",
+      "text": "Direct pulp capping after saline irrigation for hemostasis"
+    },
+    {
+      "id": "C",
+      "text": "No vital pulp therapy, because an immature root rules out pulp capping"
+    },
+    {
+      "id": "D",
+      "text": "No vital pulp therapy, because a tooth with reversible pulpitis is not considered vital"
+    }
+  ]
+}

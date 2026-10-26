@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V3V7J4CGD73NVQEWSYN1WB",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "antibiotic-prophylaxis-for-dental-patients-at-risk",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:25:33.267Z",
+  "type": "vignette_mcq",
+  "vignette": "A child with compromised immunity is scheduled for an invasive oral procedure. The dental team is deciding how to approach antibiotic prophylaxis.",
+  "stem": "Which approach is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Consult the child's physician about management and make the prophylaxis decision for this specific patient."
+    },
+    {
+      "id": "B",
+      "text": "Decide on prophylaxis without involving the physician, because immune status is outside the dentist's consultation needs."
+    },
+    {
+      "id": "C",
+      "text": "Give prophylaxis automatically to every child with a special health care need, whatever the risk level or procedure."
+    },
+    {
+      "id": "D",
+      "text": "Reserve prophylaxis for noninvasive procedures, since invasive procedures do not create meaningful bacteremia concerns."
+    }
+  ]
+}

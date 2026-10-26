@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5V0DG1EQVJYYJ4NY004J61X",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Patients who show signs of erosion should be evaluated for possible gastroesophageal reflux disease, so this is the appropriate step.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+            "page": 3,
+            "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Guidance directs that patients with signs of erosion be evaluated for possible reflux disease, so excluding any evaluation is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+            "page": 3,
+            "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "For patients with erosion and reflux, counseling may involve avoiding spicy foods because they can worsen reflux and dental problems, so encouraging them is wrong.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+            "page": 3,
+            "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Patients with erosion should be evaluated for possible reflux disease, so leaving out that evaluation is incorrect even if dietary advice is given.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+            "page": 3,
+            "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+          }
+        ]
+      },
+      {
+        "text": "Avoiding spicy foods is a dietary counseling option for patients with erosion and reflux, not a replacement for evaluation.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+            "page": 3,
+            "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Signs of erosion should prompt evaluation for possible gastroesophageal reflux disease as a potential etiology.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+          "page": 3,
+          "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+        }
+      ]
+    },
+    {
+      "text": "When reflux accompanies erosion, dietary counseling may include avoiding spicy foods that can worsen reflux and dental problems.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+          "page": 3,
+          "section": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting › Background"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5V15PNKNS1QP7210C04S0MB",
+  "version": 1,
+  "type": "mcq",
+  "key": "C",
+  "rationales": {
+    "A": [
+      {
+        "text": "Limited hygiene from a physical disability raises periodontal risk as well as caries risk.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Caries risk is also raised when a physical disability limits oral hygiene.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Physical disabilities can limit age-appropriate oral hygiene, which raises both caries and periodontal risk.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Hygiene limitations from physical disability do raise caries and periodontal risk.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Physical disabilities can limit age-appropriate oral hygiene, and this raises both caries risk and periodontal risk.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 3,
+          "section": "Management of Dental Patients with Special Health Care Needs › Background"
+        }
+      ]
+    }
+  ]
+}

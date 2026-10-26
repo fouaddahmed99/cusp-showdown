@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5TZ9MREZYXGXY27VTRVJXT0",
+  "version": 1,
+  "tags": {
+    "domainId": "growth",
+    "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+    "taskStatementId": "ts-growth-06",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:05:57.603Z",
+  "type": "vignette_mcq",
+  "vignette": "A child in the mixed dentition is seen for a routine visit, and the clinician notes a developing malocclusion. The parent asks whether every child with a developing malocclusion needs interceptive appliance treatment started right away.",
+  "stem": "Which statement about interceptive treatment is best supported?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interceptive treatment benefits many children, but it is not necessarily indicated for every patient with a developing malocclusion."
+    },
+    {
+      "id": "B",
+      "text": "Every patient with a developing malocclusion should receive interceptive treatment."
+    },
+    {
+      "id": "C",
+      "text": "Appliance therapy for habits is limited to extraoral appliances."
+    },
+    {
+      "id": "D",
+      "text": "Once a space maintainer is placed, no further checks are needed, since it requires no patient cooperation."
+    }
+  ]
+}

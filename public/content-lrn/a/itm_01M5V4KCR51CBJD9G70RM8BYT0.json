@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5V4KCR51CBJD9G70RM8BYT0",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "Each follow-up should include more than a clinical exam, namely radiographic exams, pulp sensibility testing, and symptom questioning, regardless of complaints.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Each post-trauma follow-up should include symptom questioning, clinical and radiographic exams, and pulp sensibility testing.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+"
+          }
+        ]
+      },
+      {
+        "text": "Monitoring matters because complications such as pulp necrosis and infection, pulp space obliteration, root resorption, and marginal gingiva and bone breakdown can develop.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Radiographic examination is part of each follow-up and is not limited to symptomatic patients.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Pulp sensibility testing belongs to each follow-up, not just the first visit.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Every post-trauma follow-up should combine symptom questioning, clinical and radiographic exams, and pulp sensibility testing.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+          "page": 13,
+          "section": "+"
+        }
+      ]
+    },
+    {
+      "text": "This thorough review helps detect main post-traumatic complications such as pulp necrosis and infection, pulp space obliteration, root resorption, and marginal gingiva and bone breakdown.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+          "page": 13,
+          "section": "+"
+        }
+      ]
+    }
+  ]
+}

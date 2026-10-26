@@ -1,0 +1,86 @@
+[
+  {
+    "id": "itm_01M5TYVBCGCW5YKT4AR8W0YMSN",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "growth",
+      "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+      "taskStatementId": "ts-growth-02",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TZ4RKE074FHE387PSJMPZ6",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "growth",
+      "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+      "taskStatementId": "ts-growth-05",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TZ4RKE2NVKZET997EW95BH",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "growth",
+      "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+      "taskStatementId": "ts-growth-05",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TZ4RKEENS9V200EZV7NEJ5",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "growth",
+      "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+      "taskStatementId": "ts-growth-05",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TZ4RKEMJQKQWPNCRPZZ02R",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "growth",
+      "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+      "taskStatementId": "ts-growth-05",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TZ9MREZYXGXY27VTRVJXT0",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "growth",
+      "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+      "taskStatementId": "ts-growth-06",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5TZGX8DK8JA6YBCJPSX7NM5",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "growth",
+      "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+      "taskStatementId": "ts-growth-08",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  }
+]

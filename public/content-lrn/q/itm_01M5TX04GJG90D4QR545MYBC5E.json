@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5TX04GJG90D4QR545MYBC5E",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "pediatric-restorative-dentistry",
+    "taskStatementId": "ts-caries-06",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:25:53.380Z",
+  "type": "vignette_mcq",
+  "vignette": "A young child who is poorly cooperative has a cervical carious lesion on the facial surface of a primary maxillary incisor. The clinician plans a composite restoration.",
+  "stem": "Which statement is most consistent with the available guidance for restoring this tooth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The preparation should follow a design fundamentally different from the one used on permanent teeth."
+    },
+    {
+      "id": "B",
+      "text": "The preparation can follow the same general form used for a Class V lesion on a permanent tooth."
+    },
+    {
+      "id": "C",
+      "text": "Composite can be placed in any young child, because adequate isolation can always be achieved regardless of cooperation."
+    },
+    {
+      "id": "D",
+      "text": "Techniques for restoring primary anterior teeth rest mainly on high-level controlled trial evidence rather than expert opinion."
+    }
+  ]
+}

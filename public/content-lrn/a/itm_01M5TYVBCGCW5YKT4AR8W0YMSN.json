@@ -1,0 +1,98 @@
+{
+  "id": "itm_01M5TYVBCGCW5YKT4AR8W0YMSN",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Guidance directs identification of growth patterns in the transverse, vertical, and sagittal planes, which is exactly this set.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 13,
+            "section": "Oral Treatment for Infants, Children, and Adolescents › ®"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The three planes named in guidance are transverse, vertical, and sagittal, so a rotational plane is not one of them.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 13,
+            "section": "Oral Treatment for Infants, Children, and Adolescents › ®"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Guidance advises identifying adverse transverse growth patterns, so leaving out the transverse plane is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 2,
+            "section": "Occlusion in Pediatric Dentistry › ABBREVIATIONS"
+          },
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 13,
+            "section": "Oral Treatment for Infants, Children, and Adolescents › ®"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The examination should identify adverse vertical patterns, so omitting the vertical plane is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 2,
+            "section": "Occlusion in Pediatric Dentistry › ABBREVIATIONS"
+          },
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 13,
+            "section": "Oral Treatment for Infants, Children, and Adolescents › ®"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Growth patterns are to be identified in three planes: transverse, vertical, and sagittal.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+          "page": 13,
+          "section": "Oral Treatment for Infants, Children, and Adolescents › ®"
+        }
+      ]
+    },
+    {
+      "text": "The examination looks for adverse vertical and adverse sagittal patterns, and notes asymmetries.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+          "page": 2,
+          "section": "Occlusion in Pediatric Dentistry › ABBREVIATIONS"
+        }
+      ]
+    },
+    {
+      "text": "Clinicians are also advised to identify adverse transverse patterns.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+          "page": 2,
+          "section": "Occlusion in Pediatric Dentistry › ABBREVIATIONS"
+        }
+      ]
+    }
+  ]
+}

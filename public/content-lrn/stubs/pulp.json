@@ -1,0 +1,74 @@
+[
+  {
+    "id": "itm_01M5V2JJ62R345K0P90NEVD1NN",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "pulp-therapy-for-primary-and-immature-permanent-te",
+      "taskStatementId": "ts-pulp-02",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V318W1H40EJGYM1XFK6S51",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "pulp-therapy-for-primary-and-immature-permanent-te",
+      "taskStatementId": "ts-pulp-06",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V3ABSS8KYSMCHQPDW7ZMPM",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "use-of-non-vital-pulp-therapies-in-primary-teeth",
+      "taskStatementId": "ts-pulp-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V3EMG82PVF4QEYBN1D761S",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "use-of-vital-pulp-therapies-in-primary-teeth",
+      "taskStatementId": "ts-pulp-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V3EMG8CKPVDH0MJ631EP34",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "use-of-vital-pulp-therapies-in-primary-teeth",
+      "taskStatementId": "ts-pulp-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V3KB6H46BQHPQ9C2YTT2VH",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "pulp",
+      "subtopicId": "use-of-vital-pulp-therapy-in-permanent-teeth",
+      "taskStatementId": "ts-pulp-03",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  }
+]

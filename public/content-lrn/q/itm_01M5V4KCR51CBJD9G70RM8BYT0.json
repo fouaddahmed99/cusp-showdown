@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V4KCR51CBJD9G70RM8BYT0",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "acute-traumatic-injuries-assessment-and-documentat",
+    "taskStatementId": "ts-trauma-emergency-03",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:39:21.815Z",
+  "type": "vignette_mcq",
+  "vignette": "A patient returns for a scheduled follow-up after a luxation injury to a permanent maxillary incisor. The patient reports no pain or other complaints.",
+  "stem": "Which content is appropriate for this follow-up visit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A clinical examination alone, since the patient has no complaints"
+    },
+    {
+      "id": "B",
+      "text": "Questioning about symptoms, clinical and radiographic examination, and pulp sensibility testing"
+    },
+    {
+      "id": "C",
+      "text": "Radiographs only if the patient reports symptoms"
+    },
+    {
+      "id": "D",
+      "text": "Pulp sensibility testing only at the first visit and not at later follow-ups"
+    }
+  ]
+}

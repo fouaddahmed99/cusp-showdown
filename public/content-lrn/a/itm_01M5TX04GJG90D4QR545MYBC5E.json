@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5TX04GJG90D4QR545MYBC5E",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "Class V preparations on primary incisors resemble those on permanent teeth, so a fundamentally different design is not required.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 8,
+            "section": "Pediatric Restorative Dentistry › Anterior esthetic restorations in primary teeth"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Class V preparations on primary incisors resemble those on permanent teeth, so the familiar permanent-tooth form applies.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 8,
+            "section": "Pediatric Restorative Dentistry › Anterior esthetic restorations in primary teeth"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "In young, poorly cooperative children, a tooth sometimes cannot be isolated well enough for composite placement, so adequate isolation is not always achievable.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 8,
+            "section": "Pediatric Restorative Dentistry › Anterior esthetic restorations in primary teeth"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Most evidence on clinical techniques for restoring primary anterior teeth is based on expert opinion, not on high-level controlled trials.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 8,
+            "section": "Pediatric Restorative Dentistry › Anterior esthetic restorations in primary teeth"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Class V preparations on primary incisors resemble those on permanent teeth.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+          "page": 8,
+          "section": "Pediatric Restorative Dentistry › Anterior esthetic restorations in primary teeth"
+        }
+      ]
+    },
+    {
+      "text": "Isolation for composite may not be achievable in young, poorly cooperative children.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+          "page": 8,
+          "section": "Pediatric Restorative Dentistry › Anterior esthetic restorations in primary teeth"
+        }
+      ]
+    },
+    {
+      "text": "Expert opinion is the basis of most evidence on restoring primary anterior teeth.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+          "page": 8,
+          "section": "Pediatric Restorative Dentistry › Anterior esthetic restorations in primary teeth"
+        }
+      ]
+    }
+  ]
+}

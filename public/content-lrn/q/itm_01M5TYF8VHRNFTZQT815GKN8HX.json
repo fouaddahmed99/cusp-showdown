@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TYF8VHRNFTZQT815GKN8HX",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "temporomandibular-disorders-in-children-and-adoles",
+    "taskStatementId": "ts-diagnosis-03",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T01:52:20.008Z",
+  "type": "mcq",
+  "stem": "For which age groups have the Diagnostic Criteria for TMD been adapted for pediatric use?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Children aged 10 to 19 and adolescents aged 6 to 9"
+    },
+    {
+      "id": "B",
+      "text": "Adolescents aged 10 to 19 only, with no adaptation for younger children"
+    },
+    {
+      "id": "C",
+      "text": "Children aged 6 to 9 and adolescents aged 10 to 19"
+    },
+    {
+      "id": "D",
+      "text": "Children aged 6 to 9 only, with no adaptation for adolescents"
+    }
+  ]
+}

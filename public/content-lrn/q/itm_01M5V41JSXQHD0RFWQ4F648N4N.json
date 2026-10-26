@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V41JSXQHD0RFWQ4F648N4N",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "management-of-dental-patients-with-special-health",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:28:59.387Z",
+  "type": "vignette_mcq",
+  "vignette": "A school-aged child who is deaf presents for a first dental visit. The caregiver reports that the child becomes anxious in unfamiliar settings.",
+  "stem": "Which approach to planning this visit best reflects current guidance for patients with sensory impairment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Use the same communication style and operatory setup that is used for every other new patient."
+    },
+    {
+      "id": "B",
+      "text": "Use alternative communication methods, adapt the environment, and individualize the approach to this child."
+    },
+    {
+      "id": "C",
+      "text": "Assume the hearing impairment will have no effect on how care is delivered."
+    },
+    {
+      "id": "D",
+      "text": "Apply one uniform protocol, reserving individualized approaches for patients with behavioral challenges only."
+    }
+  ]
+}

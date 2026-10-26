@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V5QD65D4R1EXD3MJREBTQA",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "dental-trauma-iadt-3-injuries-in-the-primary-denti",
+    "taskStatementId": "ts-trauma-emergency-03",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T03:59:19.472Z",
+  "type": "mcq",
+  "stem": "Which statement best describes the role of parents in the healing of gingival soft tissue injuries after trauma to primary teeth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Parental homecare has no bearing on healing outcomes."
+    },
+    {
+      "id": "B",
+      "text": "Parental engagement in homecare is critical and influences healing of both the teeth and the soft tissues."
+    },
+    {
+      "id": "C",
+      "text": "Parental homecare influences only the soft tissues and has no effect on the teeth."
+    },
+    {
+      "id": "D",
+      "text": "Parental engagement is important only for injuries involving permanent teeth."
+    }
+  ]
+}

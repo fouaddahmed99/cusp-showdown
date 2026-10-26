@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TY53PJXSCNNBJ35WKKSB9J",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "prescribing-dental-radiographs",
+    "taskStatementId": "ts-diagnosis-05",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:47:12.252Z",
+  "type": "mcq",
+  "stem": "Which approach to the number of images best applies ALARA for a child patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Restrict images to the fewest needed to obtain essential diagnostic information"
+    },
+    {
+      "id": "B",
+      "text": "Routinely add extra views as a safeguard against missed findings"
+    },
+    {
+      "id": "C",
+      "text": "Take a fixed set of images for every child regardless of diagnostic need"
+    },
+    {
+      "id": "D",
+      "text": "Disregard the number of images once the fastest receptor is in use"
+    }
+  ]
+}

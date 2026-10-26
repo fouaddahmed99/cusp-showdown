@@ -1,0 +1,130 @@
+{
+  "id": "itm_01M5V1154SGATRKW8BC8VQWVS6",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "C",
+  "rationales": {
+    "A": [
+      {
+        "text": "A one-size-fits-all schedule conflicts with the guidance, which calls for continuity of care tailored to each child's individual needs.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 1,
+            "section": "Oral Treatment for Infants, Children, and Adolescents"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The guidance stresses very early professional intervention, so delaying the start of dental care is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 1,
+            "section": "Oral Treatment for Infants, Children, and Adolescents"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Infant oral health visits should include caries risk assessment so that preventive care can be individualized.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 3,
+            "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+          }
+        ]
+      },
+      {
+        "text": "This fits the emphasis on continuity of care tailored to each child's needs.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 1,
+            "section": "Oral Treatment for Infants, Children, and Adolescents"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Caries risk assessment is part of the infant visit, so it should not be skipped.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 3,
+            "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+          }
+        ]
+      },
+      {
+        "text": "The premise is also wrong, because dental recall visits become more frequent, not less, as children grow older.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 2,
+            "section": "Oral Treatment for Infants, Children, and Adolescents"
+          }
+        ]
+      }
+    ],
+    "E": [
+      {
+        "text": "As children age, medical well-child visits become less frequent and dental recall visits become more frequent, so dentists gain more opportunity to address overall health.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 2,
+            "section": "Oral Treatment for Infants, Children, and Adolescents"
+          }
+        ]
+      },
+      {
+        "text": "Relying on medical visits as the main preventive contacts is therefore incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+            "page": 2,
+            "section": "Oral Treatment for Infants, Children, and Adolescents"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Guidance calls for very early professional care and continuity of care tailored to each child's individual needs.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+          "page": 1,
+          "section": "Oral Treatment for Infants, Children, and Adolescents"
+        }
+      ]
+    },
+    {
+      "text": "Infant visits should include a caries risk assessment so that preventive care can be individualized.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+          "page": 3,
+          "section": "Perinatal and Infant Oral Health Care › Anticipatory guidance"
+        }
+      ]
+    },
+    {
+      "text": "Dental recall visits become more frequent as children grow, while medical well-child visits become less frequent.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+          "page": 2,
+          "section": "Oral Treatment for Infants, Children, and Adolescents"
+        }
+      ]
+    }
+  ]
+}

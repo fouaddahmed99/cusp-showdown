@@ -1,0 +1,35 @@
+{
+  "id": "itm_01M5V62M9A1ZJF4CXZ8KA8GTZ2",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "oral-and-dental-aspects-of-child-abuse-and-neglect",
+    "taskStatementId": "ts-trauma-emergency-01",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T04:05:25.082Z",
+  "type": "mcq",
+  "stem": "In one cited study of inflicted oral injuries, which site was the most commonly affected?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lips"
+    },
+    {
+      "id": "B",
+      "text": "Tongue"
+    },
+    {
+      "id": "C",
+      "text": "Palate"
+    },
+    {
+      "id": "D",
+      "text": "Buccal mucosa"
+    },
+    {
+      "id": "E",
+      "text": "Gingiva"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V15PNKNS1QP7210C04S0MB",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "periodicity-of-examination-preventive-dental-servi",
+    "taskStatementId": "ts-prevention-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:39:57.474Z",
+  "type": "mcq",
+  "stem": "A child has a physical disability that limits age-appropriate oral hygiene. Which risk conclusion is best supported?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Caries risk is raised, but periodontal risk is unaffected."
+    },
+    {
+      "id": "B",
+      "text": "Periodontal risk is raised, but caries risk is unaffected."
+    },
+    {
+      "id": "C",
+      "text": "Both caries risk and periodontal risk are raised."
+    },
+    {
+      "id": "D",
+      "text": "Neither caries risk nor periodontal risk is changed by limited oral hygiene."
+    }
+  ]
+}

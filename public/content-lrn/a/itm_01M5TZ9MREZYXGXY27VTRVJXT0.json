@@ -1,0 +1,98 @@
+{
+  "id": "itm_01M5TZ9MREZYXGXY27VTRVJXT0",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Interceptive treatment helps many children, yet it is not automatically indicated for each patient who has a developing malocclusion.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 3,
+            "section": "Occlusion in Pediatric Dentistry › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "This overstates the role of interceptive care, because it is not necessarily indicated for every patient with a developing malocclusion.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 3,
+            "section": "Occlusion in Pediatric Dentistry › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Appliance therapy for habits can be either extraoral or intraoral, so it is not limited to extraoral designs.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 4,
+            "section": "Occlusion in Pediatric Dentistry › Oral habits"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Space maintainers depend on ongoing patient compliance.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      },
+      {
+        "text": "Periodic checks of appliance integrity, retention, and succedaneous tooth eruption help maximize their effectiveness, so follow-up is needed.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+            "page": 9,
+            "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Interceptive treatment helps many children but is not necessarily indicated for every patient with a developing malocclusion.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+          "page": 3,
+          "section": "Occlusion in Pediatric Dentistry › ABBREVIATIONS"
+        }
+      ]
+    },
+    {
+      "text": "Habit appliance options include both extraoral and intraoral types.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+          "page": 4,
+          "section": "Occlusion in Pediatric Dentistry › Oral habits"
+        }
+      ]
+    },
+    {
+      "text": "Space maintainers need ongoing compliance and periodic checks of the appliance and of succedaneous tooth eruption.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+          "page": 9,
+          "section": "Occlusion in Pediatric Dentistry › Localized disturbances in eruption"
+        }
+      ]
+    }
+  ]
+}

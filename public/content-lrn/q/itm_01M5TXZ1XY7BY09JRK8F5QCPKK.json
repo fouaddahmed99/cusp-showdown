@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5TXZ1XY7BY09JRK8F5QCPKK",
+  "version": 1,
+  "tags": {
+    "domainId": "caries",
+    "subtopicId": "use-of-silver-diammine-fluoride",
+    "taskStatementId": "ts-caries-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T01:44:02.065Z",
+  "type": "vignette_mcq",
+  "vignette": "A young child with early childhood caries has cavitated lesions in primary teeth. Definitive restorative care cannot be provided soon because access to it is limited.",
+  "stem": "Which management approach best fits this situation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leave the lesions untreated because nothing can arrest them before definitive restoration."
+    },
+    {
+      "id": "B",
+      "text": "Use 38% SDF as an adjunct within the individualized caries management plan."
+    },
+    {
+      "id": "C",
+      "text": "Restrict SDF to permanent teeth and withhold it from primary teeth."
+    },
+    {
+      "id": "D",
+      "text": "Apply SDF once and plan no further reassessment."
+    }
+  ]
+}

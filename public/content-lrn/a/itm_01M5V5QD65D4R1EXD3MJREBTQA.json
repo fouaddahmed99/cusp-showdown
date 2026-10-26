@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5V5QD65D4R1EXD3MJREBTQA",
+  "version": 1,
+  "type": "mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "Parental engagement in homecare is described as critical and as influencing healing outcomes, so it does bear on healing.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Parental engagement in homecare is critical and influences healing of teeth and soft tissues.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The influence extends to the healing of the teeth as well as the soft tissues.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The statement concerns gingival soft tissue injuries in the primary dentition, so parental engagement is not limited to permanent teeth.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Parental engagement in homecare for gingival soft tissue injuries is critical.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-injuries-primary-dentition",
+          "page": 2,
+          "section": "+"
+        }
+      ]
+    },
+    {
+      "text": "It influences healing outcomes of both teeth and soft tissues.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-injuries-primary-dentition",
+          "page": 2,
+          "section": "+"
+        }
+      ]
+    }
+  ]
+}

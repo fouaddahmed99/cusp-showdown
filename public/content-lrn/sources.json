@@ -1,5 +1,41 @@
 [
   {
+    "id": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+    "title": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2026,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2026-2027, latest revision 2026",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/antibiotic-prophylaxis-for-dental-patients-at-risk-for-infection/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-behavior-guidance-for-the-pediatric-dental-patie-2024",
+    "title": "Behavior Guidance for the Pediatric Dental Patient",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2024,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2024",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/behavior-guidance-for-the-pediatric-dental-patient/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+    "title": "Caries-risk Assessment and Management for Infants, Children, and Adolescents",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2022,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2022",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/caries-risk-assessment-and-management-for-infants-children-and-adolescents/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+    "title": "Chairside Guide: Silver Diammine Fluoride in the Management of Dental Caries Lesions",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2025,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2025",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/chairside-guide-silver-diamine-fluoride-in-the-management-of-dental-caries-lesions/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
     "id": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
     "title": "Evidence-based Clinical Practice Guideline for the Use of Pit-and-Fissure Sealants",
     "organization": "American Academy of Pediatric Dentistry",
@@ -7,5 +43,242 @@
     "versionLabel": "Pediatr Dent 2016;38(5):E120-E36 (as reprinted in the AAPD Reference Manual 2025-2026)",
     "url": "https://www.aapd.org/research/oral-health-policies--recommendations/pit_and_fissure_sealants/",
     "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-fluoride-therapy-2023",
+    "title": "Fluoride Therapy",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2023,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2023",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/fluoride-therapy/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-guideline-for-use-of-vital-pulp-therapy-in-perma-2025",
+    "title": "Guideline for Use of Vital Pulp Therapy in Permanent Teeth",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2025,
+    "versionLabel": "Pediatr Dent 2025;47(5):299-311 (as reprinted in the AAPD Reference Manual 2025-2026)",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/silver-diamine-fluoride-for-dental-caries-management-in-children-and-adolescents-including-those-with-special-health-care-needs2/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-guidelines-for-monitoring-and-management-of-pedi-2025",
+    "title": "Guidelines for Monitoring and Management of Pediatric Patients Before, During, and After Sedation for Diagnostic and Therapeutic Procedures",
+    "organization": "American Academy of Pediatric Dentistry / American Academy of Pediatrics",
+    "year": 2025,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2025",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/monitoring-and-management-of-pediatric-patients-before-during-and-after-sedation-for-diagnostic-and-therapeutic-procedures/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-informed-consent-2023",
+    "title": "Informed Consent",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2023,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2023",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/informed-consent/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+    "title": "Management of Dental Patients with Special Health Care Needs",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2026,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2026-2027, latest revision 2026",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/management-of-dental-patients-with-special-health-care-needs/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-management-of-the-developing-dentition-and-occlu-2024",
+    "title": "Management of the Developing Dentition and Occlusion in Pediatric Dentistry",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2024,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2024",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/management-of-the-developing-dentition-and-occlusion-in-pediatric-dentistry/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-nonpharmacological-behavior-guidance-for-the-ped-2023",
+    "title": "Nonpharmacological Behavior Guidance for the Pediatric Dental Patient",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2023,
+    "versionLabel": "Pediatr Dent 2023;45(5):385-410 (as reprinted in the AAPD Reference Manual 2025-2026)",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/delineation-of-privileges/asdas/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-oral-and-dental-aspects-of-child-abuse-and-negle-2024",
+    "title": "Oral and Dental Aspects of Child Abuse and Neglect",
+    "organization": "American Academy of Pediatric Dentistry / American Academy of Pediatrics",
+    "year": 2024,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2024",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/oral-and-dental-aspects-of-child-abuse-and-neglect/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-pediatric-restorative-dentistry-2022",
+    "title": "Pediatric Restorative Dentistry",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2022,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2022",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/pediatric-restorative-dentistry/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+    "title": "Perinatal and Infant Oral Health Care",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2025,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2025",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/perinatal-and-infant-oral-health-care/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-periodicity-of-examination-preventive-dental-ser-2022",
+    "title": "Periodicity of Examination, Preventive Dental Services, Anticipatory Guidance/Counseling, and Oral Treatment for Infants, Children, and Adolescents",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2022,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2022",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/periodicity-of-examination-preventive-dental-services-anticipatory-guidance-counseling-and-oral-treatment-for-infants-children-and-adolescents/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-policy-on-early-childhood-caries-ecc-consequence-2025",
+    "title": "Policy on Early Childhood Caries (ECC): Consequences and Preventive Strategies",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2025,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2025",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/early-childhood-caries-classifications-consequences-and-preventive-strategies/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-policy-on-early-childhood-caries-ecc-unique-chal-2025",
+    "title": "Policy on Early Childhood Caries (ECC): Unique Challenges and Management Considerations",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2025,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2025",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/early-childhood-caries-unique-challenges-and-treatment-options/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-policy-on-nutrition-and-dietary-counseling-in-th-2026",
+    "title": "Policy on Nutrition and Dietary Counseling in the Pediatric Dental Setting",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2026,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2026-2027, latest revision 2026",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/dietary-recommendations-for-infants-children-and-adolescents/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-policy-on-use-of-fluoride-2023",
+    "title": "Policy on Use of Fluoride",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2023,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2023",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/use-of-fluoride/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+    "title": "Prescribing Dental Radiographs for Infants, Children, Adolescents, and Individuals with Special Health Care Needs",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2025,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2025",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/prescribing-dental-radiographs-for-infants-children-adolescents-and-individuals-with-special-health-care-needs/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+    "title": "Pulp Therapy for Primary and Immature Permanent Teeth: Indications and Objectives",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2026,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2026-2027, latest revision 2026",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/pulp-therapy-for-primary-and-immature-permanent-teeth/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+    "title": "Temporomandibular Disorders in Children and Adolescents, Including Those with Special Health Care Needs",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2024,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2024",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/acquired-temporomandibular-disorders-in-infants-children-and-adolescents/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-use-of-anesthesia-providers-in-the-administratio-2023",
+    "title": "Use of Anesthesia Providers in the Administration of Office-Based Deep Sedation/General Anesthesia to the Pediatric Dental Patient",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2023,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2023",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/use-of-anesthesia-providers-in-the-administration-of-office-based-deep-sedationgeneral-anesthesia-to-the-pediatric-dental-patient/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-use-of-local-anesthesia-for-pediatric-dental-pat-2023",
+    "title": "Use of Local Anesthesia for Pediatric Dental Patients",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2023,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2023",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/use-of-local-anesthesia-for-pediatric-dental-patients/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-use-of-nitrous-oxide-for-pediatric-dental-patien-2023",
+    "title": "Use of Nitrous Oxide for Pediatric Dental Patients",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2023,
+    "versionLabel": "Reference Manual of Pediatric Dentistry 2025-2026, latest revision 2023",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/use-of-nitrous-oxide-for-pediatric-dental-patients/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+    "title": "Use of Non-Vital Pulp Therapies in Primary Teeth",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2020,
+    "versionLabel": "Pediatr Dent 2020;42(5):337-49 (as reprinted in the AAPD Reference Manual 2025-2026)",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/use-of-non-vital-pulp-therapies-in-primary-teeth/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-use-of-vital-pulp-therapies-in-primary-teeth-2024",
+    "title": "Use of Vital Pulp Therapies in Primary Teeth",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2024,
+    "versionLabel": "Pediatr Dent 2024;46(1):13-26 (as reprinted in the AAPD Reference Manual 2025-2026)",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/vital_pulp_therapies_in_primary_teeth_with_deep_caries_lesions/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_iadt-2020-avulsion-permanent-teeth",
+    "title": "International Association of Dental Traumatology Guidelines for the Management of Traumatic Dental Injuries: 2. Avulsion of Permanent Teeth",
+    "organization": "International Association of Dental Traumatology",
+    "year": 2020,
+    "versionLabel": "Dent Traumatol 2020;36(4):331-342 (as reprinted in the AAPD Reference Manual 2025-2026)",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/guidelines-for-the-management-of-traumatic-dental-injuries-2-avulsion-of-permanent-teeth/",
+    "licenseLabel": "Non-commercial license (facts paraphrased)",
+    "attribution": "International Association of Dental Traumatology Guidelines for the Management of Traumatic Dental Injuries: 2. Avulsion of Permanent Teeth. Dent Traumatol 2020;36(4):331-342. © 2020 The Authors (CC BY-NC-ND). https://doi.org/10.1111/edt.12573"
+  },
+  {
+    "id": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+    "title": "International Association of Dental Traumatology Guidelines for the Management of Traumatic Dental Injuries: 1. Fractures and Luxations of Permanent Teeth",
+    "organization": "International Association of Dental Traumatology",
+    "year": 2020,
+    "versionLabel": "Dent Traumatol 2020;36(4):314-330 (as reprinted in the AAPD Reference Manual 2025-2026)",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/guidelines-for-the-management-of-traumatic-dental-injuries-1-fracture-and-luxations-or-permanent-teeth/",
+    "licenseLabel": "Non-commercial license (facts paraphrased)",
+    "attribution": "International Association of Dental Traumatology Guidelines for the Management of Traumatic Dental Injuries: 1. Fractures and Luxations of Permanent Teeth. Dent Traumatol 2020;36(4):314-330. © 2020 The Authors (CC BY-NC-ND). https://doi.org/10.1111/edt.12578"
+  },
+  {
+    "id": "src_iadt-2020-injuries-primary-dentition",
+    "title": "International Association of Dental Traumatology Guidelines for the Management of Traumatic Dental Injuries: 3. Injuries in the Primary Dentition",
+    "organization": "International Association of Dental Traumatology",
+    "year": 2020,
+    "versionLabel": "Dent Traumatol 2020;36(4):343-359 (as reprinted in the AAPD Reference Manual 2025-2026)",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/guidelines-for-the-management-of-traumatic-dental-injuries-in-the-primary-dentition/",
+    "licenseLabel": "Non-commercial license (facts paraphrased)",
+    "attribution": "International Association of Dental Traumatology Guidelines for the Management of Traumatic Dental Injuries: 3. Injuries in the Primary Dentition. Dent Traumatol 2020;36(4):343-359. © 2020 The Authors (CC BY-NC-ND). https://doi.org/10.1111/edt.12576"
   }
 ]

@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V4YV75EK86RD4NFQGMXJ63",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "dental-trauma-iadt-1-fractures-and-luxations-of-pe",
+    "taskStatementId": "ts-trauma-emergency-03",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:44:59.519Z",
+  "type": "vignette_mcq",
+  "vignette": "A school-age child presents shortly after a fall with a fractured maxillary central incisor that has an immature root and an exposed pulp. The child is otherwise healthy.",
+  "stem": "Which principle best guides the management of the pulp in this tooth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pulp preservation is mainly intended for fully formed teeth, so the pulp here should be removed at the outset."
+    },
+    {
+      "id": "B",
+      "text": "The pulp should be preserved, because this allows root development and apex formation to continue."
+    },
+    {
+      "id": "C",
+      "text": "The exposed immature pulp has little healing capacity, so pulp-preserving treatment is unlikely to succeed."
+    },
+    {
+      "id": "D",
+      "text": "Keeping the pulp vital matters less in an immature tooth than in a mature tooth."
+    }
+  ]
+}

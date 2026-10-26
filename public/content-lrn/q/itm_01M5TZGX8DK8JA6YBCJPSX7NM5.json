@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5TZGX8DK8JA6YBCJPSX7NM5",
+  "version": 1,
+  "tags": {
+    "domainId": "growth",
+    "subtopicId": "management-of-the-developing-dentition-and-occlusi",
+    "taskStatementId": "ts-growth-08",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:10:47.166Z",
+  "type": "vignette_mcq",
+  "vignette": "An adolescent is being planned for orthognathic surgery, and CBCT images have been obtained for orthodontic and surgical planning.",
+  "stem": "Which statement about handling these CBCT images is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Consulting a radiologist to interpret the images may be indicated, because CBCT can capture information beyond the original purpose"
+    },
+    {
+      "id": "B",
+      "text": "Review should be limited to the original purpose, because CBCT captures nothing else"
+    },
+    {
+      "id": "C",
+      "text": "CBCT is not helpful for surgical planning before orthognathic surgery"
+    },
+    {
+      "id": "D",
+      "text": "Radiologist interpretation of CBCT is never indicated"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V318W1H40EJGYM1XFK6S51",
+  "version": 1,
+  "tags": {
+    "domainId": "pulp",
+    "subtopicId": "pulp-therapy-for-primary-and-immature-permanent-te",
+    "taskStatementId": "ts-pulp-06",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T03:11:38.485Z",
+  "type": "mcq",
+  "stem": "Which result indicates a successful vital pulp therapy outcome in a tooth with an immature root?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Continued root development and apexogenesis"
+    },
+    {
+      "id": "B",
+      "text": "Cessation of root development with the apex remaining open"
+    },
+    {
+      "id": "C",
+      "text": "Replacement of the vital pulp by nonvital tissue"
+    },
+    {
+      "id": "D",
+      "text": "Elimination of the pulp so that no further apex formation occurs"
+    }
+  ]
+}

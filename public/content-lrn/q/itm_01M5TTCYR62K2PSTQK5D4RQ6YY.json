@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5TTCYR62K2PSTQK5D4RQ6YY",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "behavior-guidance",
+    "taskStatementId": "ts-behavior-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T00:40:51.993Z",
+  "type": "vignette_mcq",
+  "vignette": "A child arrives for a visit tearful and clinging to a parent, appearing visibly anxious before any care begins.",
+  "stem": "Which action best addresses the assessment of this patient's needs?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Assess the child's physical and emotional state and address the child's emotions and concerns."
+    },
+    {
+      "id": "B",
+      "text": "Assess only the physical state, since the emotional state is outside the scope of the assessment."
+    },
+    {
+      "id": "C",
+      "text": "Proceed with treatment without acknowledging the child's concerns, since anxiety is expected."
+    },
+    {
+      "id": "D",
+      "text": "Skip direct assessment of the child and rely on the medical history alone."
+    }
+  ]
+}

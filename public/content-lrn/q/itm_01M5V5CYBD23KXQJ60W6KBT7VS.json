@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V5CYBD23KXQJ60W6KBT7VS",
+  "version": 1,
+  "tags": {
+    "domainId": "trauma-emergency",
+    "subtopicId": "dental-trauma-iadt-2-avulsion-of-permanent-teeth",
+    "taskStatementId": "ts-trauma-emergency-06",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:53:16.205Z",
+  "type": "mcq",
+  "stem": "A child has lost a permanent tooth after trauma, and several options are available, including decoronation. Which approach to treatment planning is most consistent with current guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The clinician selects the definitive option alone without discussing alternatives"
+    },
+    {
+      "id": "B",
+      "text": "The choice is made through a full discussion with the child and parents, aiming to keep all options open until maturity"
+    },
+    {
+      "id": "C",
+      "text": "The option that closes off future choices earliest is selected to avoid delay"
+    },
+    {
+      "id": "D",
+      "text": "Discussion with the family is deferred until the time of implant treatment"
+    }
+  ]
+}

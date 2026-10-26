@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5V4RJ7ANV65S7Y237KFYVK4",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Crown fractures and luxations are the most common injuries among all dental injuries to permanent teeth.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Crown fractures and luxations, not root and alveolar bone fractures, are the most common injuries.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Crown fractures and luxations are identified as the most common, so this pairing is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Crown fractures and luxations are the most common dental injuries, not alveolar bone fractures.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 1,
+            "section": "Abstract"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Crown fractures and luxations are the most frequently encountered injuries to permanent teeth.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+          "page": 1,
+          "section": "Abstract"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "itm_01M5V2JJ62R345K0P90NEVD1NN",
+  "version": 1,
+  "type": "mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "Extraction is presented as an alternative to non-vital pulp therapy, not as one of the therapies.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+          }
+        ]
+      },
+      {
+        "text": "The two named non-vital pulp therapies are pulpectomy and LSTR, so this pair is wrong.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Conventional pulpectomy and LSTR are the two non-vital pulp therapies currently described for primary teeth.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Extraction is an alternative to non-vital pulp therapy, not a type of it.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+          }
+        ]
+      },
+      {
+        "text": "Conventional pulpectomy is one of the two named therapies, and this pair leaves it out.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Non-vital pulp therapy is an accepted management option alongside extraction for primary teeth with irreversible pulpitis or necrosis.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+          }
+        ]
+      },
+      {
+        "text": "Two non-vital pulp therapies exist, so the claim that none exist is wrong.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+            "page": 2,
+            "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Two non-vital pulp therapies currently exist for primary teeth: conventional pulpectomy and LSTR.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+          "page": 2,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+        }
+      ]
+    },
+    {
+      "text": "Extraction is a separate option and is not itself a pulp therapy.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-non-vital-pulp-therapies-in-primary-teeth-2020",
+          "page": 2,
+          "section": "RECOMMENDATIONS: CLINICAL PRACTICE GUIDELINE › Use of Non-Vital Pulp Therapies in Primary Teeth"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V0PD7M69PMM7BDTDK9NV2T",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "perinatal-and-infant-oral-health-care",
+    "taskStatementId": "ts-prevention-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:30:47.468Z",
+  "type": "vignette_mcq",
+  "vignette": "A child with special health care needs presents as a new patient. The medical history documents a chronic condition, and the caregiver asks what preventive counseling the child will receive.",
+  "stem": "Which approach to anticipatory guidance is most appropriate for this child?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Guidance that addresses concerns tied to the child's medical status, including caries, periodontal, trauma, and orthodontic risks"
+    },
+    {
+      "id": "B",
+      "text": "Guidance restricted to caries risk alone"
+    },
+    {
+      "id": "C",
+      "text": "Standard generic guidance that does not take the child's medical status into account"
+    },
+    {
+      "id": "D",
+      "text": "Guidance on periodontal and trauma risks only, leaving caries and orthodontic concerns out"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TYF8VHCCVRSHVVNKS82ZPJ",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "temporomandibular-disorders-in-children-and-adoles",
+    "taskStatementId": "ts-diagnosis-03",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T01:51:52.861Z",
+  "type": "mcq",
+  "stem": "Which combination best describes the basis for diagnosing a temporomandibular disorder in a child or adolescent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Joint imaging alone, since it directly shows the pathology"
+    },
+    {
+      "id": "B",
+      "text": "A clinical examination alone, without history or imaging"
+    },
+    {
+      "id": "C",
+      "text": "A screening history alone, with confirmation unnecessary"
+    },
+    {
+      "id": "D",
+      "text": "A screening history, a clinical examination, and diagnostic aids such as joint imaging"
+    }
+  ]
+}

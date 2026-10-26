@@ -1,0 +1,98 @@
+{
+  "id": "itm_01M5TXZ1XY7BY09JRK8F5QCPKK",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "SDF is effective at arresting caries lesions and is an important adjunct when access to definitive restorative care is limited or deferred, so waiting without intervention is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          },
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 3,
+            "section": "Fluoride Therapy › Silver diammine fluoride"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "SDF is an important adjunct in individualized care when access to definitive restorative care is limited or deferred.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 3,
+            "section": "Fluoride Therapy › Silver diammine fluoride"
+          }
+        ]
+      },
+      {
+        "text": "38% SDF is effective for arresting cavitated lesions in primary teeth and can be used within an ongoing caries management plan.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-consequence-2025",
+            "page": 2,
+            "section": "and Preventive Strategies › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "38% SDF is effective for arresting cavitated lesions in primary teeth, so withholding it from them is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-consequence-2025",
+            "page": 2,
+            "section": "and Preventive Strategies › ABBREVIATIONS"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Surveillance involves periodic monitoring for progression, and repeated applications may be needed to maintain arrest, so a single application with no reassessment is inadequate.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-caries-risk-assessment-and-management-for-infant-2022",
+            "page": 4,
+            "section": "Infants, Children, and Adolescents › Sealants"
+          },
+          {
+            "sourceId": "src_aapd-chairside-guide-silver-diammine-fluoride-in-the-2025",
+            "page": 1,
+            "section": "Management of Dental Caries Lesions*"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "SDF serves as an adjunct in individualized care when definitive restorative care is limited or deferred.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-fluoride-therapy-2023",
+          "page": 3,
+          "section": "Fluoride Therapy › Silver diammine fluoride"
+        }
+      ]
+    },
+    {
+      "text": "It is effective for arresting cavitated lesions in primary teeth within an ongoing caries management plan.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-consequence-2025",
+          "page": 2,
+          "section": "and Preventive Strategies › ABBREVIATIONS"
+        }
+      ]
+    }
+  ]
+}

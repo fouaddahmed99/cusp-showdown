@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5V41JSZ5M8BX0N3FQ32FGAG",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "Age restrictions at pediatric hospitals are a separate barrier to care, and the caregiver's own past experience is not related to them.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 4,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          },
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "A caregiver's past dental experiences are listed among the psychosocial factors that influence access for patients with special health care needs.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Sensory impairments such as blindness, deafness, or olfactory dysfunction are patient characteristics that affect care, not a caregiver's past experience.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Enamel and dentin defects are dental conditions that complicate restoration, whereas the caregiver's experience is a psychosocial influence on access.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Oral health beliefs, caregiver responsibility norms, and a caregiver's past dental experiences are psychosocial factors that influence access.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 3,
+          "section": "Management of Dental Patients with Special Health Care Needs › Background"
+        }
+      ]
+    },
+    {
+      "text": "Other factors, such as hospital age restrictions, sensory impairments, and enamel or dentin defects, belong to different categories.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 4,
+          "section": "Management of Dental Patients with Special Health Care Needs › Background"
+        },
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 3,
+          "section": "Management of Dental Patients with Special Health Care Needs › Background"
+        }
+      ]
+    }
+  ]
+}

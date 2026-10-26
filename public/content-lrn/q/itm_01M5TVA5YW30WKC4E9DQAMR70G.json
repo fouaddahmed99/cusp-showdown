@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TVA5YW30WKC4E9DQAMR70G",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "use-of-local-anesthesia",
+    "taskStatementId": "ts-behavior-05",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T00:56:18.586Z",
+  "type": "mcq",
+  "stem": "Which description best defines local anesthesia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A temporary loss of sensation in one region of the body produced by a topical or injected agent"
+    },
+    {
+      "id": "B",
+      "text": "A permanent loss of sensation in one region of the body produced by an injected agent"
+    },
+    {
+      "id": "C",
+      "text": "A temporary loss of sensation throughout the entire body produced by an injected agent"
+    },
+    {
+      "id": "D",
+      "text": "A temporary loss of sensation in one region of the body produced only by an injected agent, never a topical one"
+    }
+  ]
+}

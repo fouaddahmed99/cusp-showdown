@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5TY53PJZWK46RRJZKS52MT4",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "For essential radiographs in children, a thyroid collar is used when the thyroid is in the primary beam, and a lead apron is used for a parent holding the child.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "A parent who holds the child should wear a lead apron.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The thyroid collar is indicated when the thyroid is in the primary beam, not when it is outside it.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-injuries-primary-dentition",
+            "page": 2,
+            "section": "+"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Routine patient shielding is no longer considered necessary according to the evidence.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+            "page": 4,
+            "section": "Health Care Needs › Patient (New and Recall)"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "A thyroid collar is used for the child when the thyroid is in the primary beam, and a parent holding the child wears a lead apron.",
+      "cites": [
+        {
+          "sourceId": "src_iadt-2020-injuries-primary-dentition",
+          "page": 2,
+          "section": "+"
+        }
+      ]
+    },
+    {
+      "text": "Routine shielding for every exposure is not needed.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-prescribing-dental-radiographs-for-infants-child-2025",
+          "page": 4,
+          "section": "Health Care Needs › Patient (New and Recall)"
+        }
+      ]
+    }
+  ]
+}

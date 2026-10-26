@@ -1,0 +1,83 @@
+{
+  "id": "itm_01M5TWEMJ10EG1X2AE4MAD2WPT",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "ITR is a temporary restoration that can control caries in a child with many open lesions before definitive restoration.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-unique-chal-2025",
+            "page": 1,
+            "section": ""
+          },
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 5,
+            "section": "Pediatric Restorative Dentistry › Glass-ionomer cements (GIC)"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "ITR is temporary and is followed by conventional preparation and restoration, so it is not the final restoration.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-unique-chal-2025",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Timely nonsurgical intervention may reduce or delay the need for sedation or general anesthesia, so waiting for it is not the best approach.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-unique-chal-2025",
+            "page": 2,
+            "section": "Challenges and Management Considerations"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Restoring alone does not stop the disease process, and not every lesion needs restoration.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+            "page": 1,
+            "section": "Pediatric Restorative Dentistry"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "ITR is a temporary restoration used in young children until conventional restoration can be done.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-policy-on-early-childhood-caries-ecc-unique-chal-2025",
+          "page": 1,
+          "section": ""
+        }
+      ]
+    },
+    {
+      "text": "It can provide caries control when many lesions are open before definitive restoration.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pediatric-restorative-dentistry-2022",
+          "page": 5,
+          "section": "Pediatric Restorative Dentistry › Glass-ionomer cements (GIC)"
+        }
+      ]
+    }
+  ]
+}

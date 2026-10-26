@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V007FKTY13SBX7ECFY62KJ",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "fluoride-therapy",
+    "taskStatementId": "ts-prevention-04",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T02:18:43.204Z",
+  "type": "mcq",
+  "stem": "Which approach is advised as the first-line strategy for caries prevention?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An appropriate amount of over-the-counter fluoride toothpaste"
+    },
+    {
+      "id": "B",
+      "text": "Dietary fluoride supplements given to every child from 6 months of age regardless of other fluoride exposure"
+    },
+    {
+      "id": "C",
+      "text": "A fluoride mouthrinse used in place of toothpaste"
+    },
+    {
+      "id": "D",
+      "text": "Professionally applied topical fluoride agents as the initial approach for all patients"
+    }
+  ]
+}

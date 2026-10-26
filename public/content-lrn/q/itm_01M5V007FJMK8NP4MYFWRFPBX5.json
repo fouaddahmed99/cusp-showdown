@@ -1,0 +1,35 @@
+{
+  "id": "itm_01M5V007FJMK8NP4MYFWRFPBX5",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "fluoride-therapy",
+    "taskStatementId": "ts-prevention-04",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:18:24.038Z",
+  "type": "mcq",
+  "stem": "Which statement best describes how a clinician should choose a fluoride type and treatment modality for a pediatric patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Select systemic or topical products, in the office or at home, based on the individual patient's specific needs."
+    },
+    {
+      "id": "B",
+      "text": "Use one standard fluoride product and setting for every patient, whatever their individual needs."
+    },
+    {
+      "id": "C",
+      "text": "Base supplement recommendations on age alone, without regard to the water fluoride level."
+    },
+    {
+      "id": "D",
+      "text": "Avoid fluoride for caries prevention because it has not been shown to be safe and effective."
+    },
+    {
+      "id": "E",
+      "text": "Limit fluoride therapy to professionally applied agents, since home-use products fall outside fluoride therapy."
+    }
+  ]
+}

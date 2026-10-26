@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5TYF8VHCCVRSHVVNKS82ZPJ",
+  "version": 1,
+  "type": "mcq",
+  "key": "D",
+  "rationales": {
+    "A": [
+      {
+        "text": "Diagnosis should rest on history and clinical examination as well as diagnostic aids, so imaging alone is insufficient.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The examination is only one component; a screening history and diagnostic aids are also part of the diagnostic basis.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "History is only one component; diagnosis also requires a clinical exam and diagnostic aids.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "This option includes all three elements on which TMD diagnosis should rest.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "TMD diagnosis should be based on a screening history, a clinical exam, and diagnostic aids such as joint imaging used together.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+          "page": 1,
+          "section": "Care Needs › Definition of TMD"
+        }
+      ]
+    }
+  ]
+}

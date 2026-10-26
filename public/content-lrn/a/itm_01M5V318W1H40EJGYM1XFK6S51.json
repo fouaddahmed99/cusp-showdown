@@ -1,0 +1,83 @@
+{
+  "id": "itm_01M5V318W1H40EJGYM1XFK6S51",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Continued root development and apexogenesis are listed as successful outcomes of vital pulp therapy in immature roots.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+            "page": 7,
+            "section": "Indications and Objectives › Immature permanent teeth"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Successful outcomes include continued root development, so cessation of root development is not a success.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+            "page": 7,
+            "section": "Indications and Objectives › Immature permanent teeth"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Apexogenesis requires a vital pulp, so replacing it with nonvital tissue is not a successful outcome.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+            "page": 2,
+            "section": "Indications and Objectives › Background"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Preserving the pulp is of utmost importance to allow apex formation, so eliminating it contradicts the treatment objective.",
+        "cites": [
+          {
+            "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+            "page": 13,
+            "section": "+ › MATURE (CLOSED APEX) PERMANENT TEETH"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "In teeth with immature roots, successful vital pulp therapy leads to continued root development and apexogenesis.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+          "page": 7,
+          "section": "Indications and Objectives › Immature permanent teeth"
+        }
+      ]
+    },
+    {
+      "text": "This depends on keeping the pulp vital and preserved.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-pulp-therapy-for-primary-and-immature-permanent-2026",
+          "page": 2,
+          "section": "Indications and Objectives › Background"
+        },
+        {
+          "sourceId": "src_iadt-2020-fractures-and-luxations-permanent-teeth",
+          "page": 13,
+          "section": "+ › MATURE (CLOSED APEX) PERMANENT TEETH"
+        }
+      ]
+    }
+  ]
+}

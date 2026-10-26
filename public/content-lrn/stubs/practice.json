@@ -1,0 +1,14 @@
+[
+  {
+    "id": "itm_01M5TZNYND7D3KXG2DW6HRTGBW",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "practice",
+      "subtopicId": "informed-consent",
+      "taskStatementId": "ts-practice-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  }
+]

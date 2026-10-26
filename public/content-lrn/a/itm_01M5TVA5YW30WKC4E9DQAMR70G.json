@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5TVA5YW30WKC4E9DQAMR70G",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Local anesthesia is a short-lived loss of feeling confined to one body region, and the agent may be topical or injected.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-local-anesthesia-for-pediatric-dental-pat-2023",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The loss of sensation is temporary, not permanent.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-local-anesthesia-for-pediatric-dental-pat-2023",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The loss of sensation is limited to one body region, not the whole body.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-local-anesthesia-for-pediatric-dental-pat-2023",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The definition covers topical agents as well as injected ones, so injection is not the only route.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-use-of-local-anesthesia-for-pediatric-dental-pat-2023",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Local anesthesia is defined as a temporary, regional loss of sensation from a topical or injected agent.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-use-of-local-anesthesia-for-pediatric-dental-pat-2023",
+          "page": 1,
+          "section": ""
+        }
+      ]
+    }
+  ]
+}

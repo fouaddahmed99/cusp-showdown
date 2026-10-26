@@ -1,0 +1,50 @@
+[
+  {
+    "id": "itm_01M5V3V7J4CGD73NVQEWSYN1WB",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "antibiotic-prophylaxis-for-dental-patients-at-risk",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V41JSXQHD0RFWQ4F648N4N",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "management-of-dental-patients-with-special-health",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V41JSZ5M8BX0N3FQ32FGAG",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "management-of-dental-patients-with-special-health",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5V4A83DJZZFQ6E8BGGQVV5X",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "use-of-antibiotic-therapy",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  }
+]

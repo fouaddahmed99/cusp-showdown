@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5TTS3PT5ES23CB7F80CQCH7",
+  "version": 1,
+  "tags": {
+    "domainId": "behavior",
+    "subtopicId": "monitoring-and-management-of-pediatric-patients-be",
+    "taskStatementId": "ts-behavior-04",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T00:47:09.060Z",
+  "type": "mcq",
+  "stem": "A child will undergo MRI with sedation. Which approach to the expected depth of sedation is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Presume the child is deeply sedated, and make sure the practitioner can rescue from apnea, laryngospasm, or airway obstruction."
+    },
+    {
+      "id": "B",
+      "text": "Presume moderate sedation, because responses to stimulation can be reliably checked while the child is in the scanner."
+    },
+    {
+      "id": "C",
+      "text": "Presume deep sedation, but treat airway rescue skills as unnecessary because protective reflexes stay intact."
+    },
+    {
+      "id": "D",
+      "text": "Presume minimal sedation unless the child becomes apneic, and then reassess the depth."
+    }
+  ]
+}

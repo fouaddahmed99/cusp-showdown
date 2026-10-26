@@ -1,0 +1,100 @@
+{
+  "id": "itm_01M5V007FJMK8NP4MYFWRFPBX5",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "The patient's specific needs determine whether systemic or topical fluoride is used, and whether it is delivered clinically or at home.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 1,
+            "section": "Fluoride Therapy"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Product and setting are chosen by individual patient need, so a uniform approach is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 1,
+            "section": "Fluoride Therapy"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Supplement recommendations depend on water fluoride level, other fluoride sources, fluoridated toothpaste use, and caries risk, not on age alone.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 1,
+            "section": "Fluoride Therapy"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "AAPD affirms that fluoride use for caries prevention is safe and effective.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-use-of-fluoride-2023",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ],
+    "E": [
+      {
+        "text": "Fluoride therapy guidance covers systemic fluoride, professionally applied agents, and home-use products such as toothpastes and mouthrinses, so home products are not excluded.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-fluoride-therapy-2023",
+            "page": 1,
+            "section": "Fluoride Therapy"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Fluoride therapy includes systemic, professionally applied, and home-use products.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-fluoride-therapy-2023",
+          "page": 1,
+          "section": "Fluoride Therapy"
+        }
+      ]
+    },
+    {
+      "text": "The choice among them is individualized to the patient's needs and setting.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-fluoride-therapy-2023",
+          "page": 1,
+          "section": "Fluoride Therapy"
+        }
+      ]
+    },
+    {
+      "text": "Fluoride is safe and effective for caries prevention.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-policy-on-use-of-fluoride-2023",
+          "page": 1,
+          "section": ""
+        }
+      ]
+    }
+  ]
+}

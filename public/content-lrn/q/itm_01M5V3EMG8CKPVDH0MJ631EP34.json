@@ -1,0 +1,35 @@
+{
+  "id": "itm_01M5V3EMG8CKPVDH0MJ631EP34",
+  "version": 1,
+  "tags": {
+    "domainId": "pulp",
+    "subtopicId": "use-of-vital-pulp-therapies-in-primary-teeth",
+    "taskStatementId": "ts-pulp-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:18:39.426Z",
+  "type": "mcq",
+  "stem": "A primary molar has deep caries and a vital pulp that is normal or reversibly inflamed. Which pulpotomy agent is most strongly recommended for this tooth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Formocresol"
+    },
+    {
+      "id": "B",
+      "text": "Ferric sulfate"
+    },
+    {
+      "id": "C",
+      "text": "Calcium silicate cement"
+    },
+    {
+      "id": "D",
+      "text": "Zinc oxide eugenol"
+    },
+    {
+      "id": "E",
+      "text": "Direct pulp capping instead of a pulpotomy"
+    }
+  ]
+}

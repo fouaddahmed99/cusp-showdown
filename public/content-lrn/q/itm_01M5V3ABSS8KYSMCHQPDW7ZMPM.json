@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5V3ABSS8KYSMCHQPDW7ZMPM",
+  "version": 1,
+  "tags": {
+    "domainId": "pulp",
+    "subtopicId": "use-of-non-vital-pulp-therapies-in-primary-teeth",
+    "taskStatementId": "ts-pulp-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T03:16:40.854Z",
+  "type": "vignette_mcq",
+  "vignette": "A child has a deeply carious primary molar. The dentist must decide whether the tooth needs non-vital pulp therapy or extraction.",
+  "stem": "Which statement best describes the basis for establishing the pulp diagnosis in this tooth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The patient's reported symptoms alone"
+    },
+    {
+      "id": "B",
+      "text": "Radiographic findings alone"
+    },
+    {
+      "id": "C",
+      "text": "Clinical signs alone"
+    },
+    {
+      "id": "D",
+      "text": "Symptoms together with clinical and radiographic signs"
+    }
+  ]
+}

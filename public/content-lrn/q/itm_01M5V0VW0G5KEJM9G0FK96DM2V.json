@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5V0VW0G5KEJM9G0FK96DM2V",
+  "version": 1,
+  "tags": {
+    "domainId": "prevention",
+    "subtopicId": "perinatal-and-infant-oral-health-care",
+    "taskStatementId": "ts-prevention-03",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T02:33:53.922Z",
+  "type": "mcq",
+  "stem": "A pediatric dentist is counseling the parents of a child whose first primary teeth are just beginning to erupt. Which set of topics best matches the caries prevention information that should be covered?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Frequent sugar intake, prolonged breastfeeding, hygiene habits, and optimally fluoridated community water"
+    },
+    {
+      "id": "B",
+      "text": "Sugar intake alone, because feeding practices and community water are outside the scope of counseling at this stage"
+    },
+    {
+      "id": "C",
+      "text": "Hygiene habits and fluoridated water only, with all dietary topics deferred to a later visit"
+    },
+    {
+      "id": "D",
+      "text": "Prolonged breastfeeding only, because sugar frequency is not relevant until several teeth are present"
+    }
+  ]
+}
