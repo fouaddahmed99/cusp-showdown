@@ -1,5 +1,7 @@
 # CUSP Showdown
 
+**Live: https://fouaddahmed99.github.io/cusp-showdown/**
+
 A quiz-board game for pediatric dentistry board review. Six categories, thirty tiles, a buzzer on
 every phone in the room — built on the approved CUSP LRN question bank, so every answer comes back
 with its explanation and its guideline citation.
@@ -24,7 +26,7 @@ Honest status, not a wish list. "Verified" means a test in this repository exerc
 | Game summary: score, accuracy, per-category breakdown, references | **Working, verified in a browser** |
 | Multiplayer database: rooms, buzz order, scoring, permissions, RLS | **Working, verified against a real Postgres** |
 | Multiplayer client: host console, join, buzzers, teams, reconnection | **Written and type-checked; not yet run against a live Supabase project** |
-| Deployment to GitHub Pages | **Workflow written; see "Deploying"** |
+| Deployment to GitHub Pages | **Deployed and serving the approved bundle** |
 
 The multiplayer client is the one part not yet exercised end to end, because that needs a Supabase
 project. Its database half is verified, and a contract test checks that every RPC the client sends
@@ -56,10 +58,13 @@ Two packs ship:
 The app says which pack is in play on the home screen, on the board, and in the summary. Settings
 lets you force either one.
 
-**As of the last sync, the approved bank holds 2 playable items.** A board wants 30. Until the bank
-grows, "approved content only" is honest about it — most tiles come back empty with the reason —
-and the default picks the demo pack so the game is playable. Nothing is ever generated to fill a
-tile.
+**As of the last sync the approved bank holds 71 playable items** (44 MCQ, 27 vignette MCQ) across
+9 domains, citing 31 sources — enough that a full six-category board fills with approved content
+alone, which is what the live site serves. The demo pack now only appears if the bundle cannot be
+read, or if you pick it in settings.
+
+If the bank ever falls below a full board, "approved content only" says so plainly: the tiles it
+cannot fill come back empty with the reason. Nothing is ever generated to fill a tile.
 
 ### Difficulty
 
@@ -74,6 +79,10 @@ The published contract has no difficulty score. The only reviewed difficulty sig
 
 When a row's own level has run out, the generator may fill it from an adjacent level, and the tile
 carries a marker saying so. It never invents a difficulty.
+
+Right now the bank has no `analyze_evaluate` items, so **every 1000-point row borrows an
+`understand_apply` question** and is marked as borrowed. Publishing some `analyze_evaluate` items is
+what would make the top row genuinely harder.
 
 ### What the adapter refuses
 
@@ -175,8 +184,8 @@ The Deploy workflow builds on every push to `main` and publishes to GitHub Pages
 runs the unit tests, refreshes the content bundle, builds with the right base path, and checks that
 `dist/` actually carries its content before uploading.
 
-One-time setup in the repository: **Settings → Pages → Build and deployment → Source: GitHub
-Actions**.
+Pages is enabled and the first deployment succeeded. If you ever need to set it up again:
+**Settings → Pages → Build and deployment → Source: GitHub Actions**.
 
 The site is served from `/<repo>/`, which the build bakes in via `BASE_PATH`. Deep links use hash
 routing (`#/join/ABCDE`) because Pages serves static files only and would 404 on a real path — this
