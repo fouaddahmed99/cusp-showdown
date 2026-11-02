@@ -1,0 +1,93 @@
+{
+  "id": "itm_01M5WZ9378T9VDP5NS6ZWQ5DHK",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Periodontitis in a child calls for considering a list of medical conditions in the differential diagnosis.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+            "page": 1,
+            "section": "the Periodontium"
+          }
+        ]
+      },
+      {
+        "text": "Many systemic disease categories, as well as certain medications, can negatively affect the periodontium.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 8,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Medical conditions should be considered in the differential diagnosis, and systemic diseases and medications can affect the periodontium.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+            "page": 1,
+            "section": "the Periodontium"
+          },
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 8,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Many systemic disease categories can negatively affect the periodontium, so they cannot be dismissed.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 8,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Certain medications can also negatively affect the periodontium, so they should not be ignored.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 8,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "The AAPD chart lists medical conditions to consider in the differential diagnosis of periodontitis in a child.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+          "page": 1,
+          "section": "the Periodontium"
+        }
+      ]
+    },
+    {
+      "text": "Both systemic disease categories and certain medications can negatively affect the periodontium.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 8,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+        }
+      ]
+    }
+  ]
+}

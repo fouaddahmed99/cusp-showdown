@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WW1TCE7MB9A9NF4EN7PK4R",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "bleeding-disorders",
+    "taskStatementId": "ts-shcn-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T19:48:23.072Z",
+  "type": "vignette_mcq",
+  "vignette": "A resident reviews the charts of two children with hemophilia. One child has a much greater degree of clotting factor deficiency than the other.",
+  "stem": "Which expectation about oral bleeding in these two children is most consistent with current guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The child with the greater deficiency would generally be expected to have more severe bleeding manifestations."
+    },
+    {
+      "id": "B",
+      "text": "Both children would be expected to bleed equally severely regardless of factor level."
+    },
+    {
+      "id": "C",
+      "text": "The child with the greater deficiency would generally be expected to have milder bleeding."
+    },
+    {
+      "id": "D",
+      "text": "Bleeding severity depends only on oral hygiene and not on the degree of factor deficiency."
+    }
+  ]
+}

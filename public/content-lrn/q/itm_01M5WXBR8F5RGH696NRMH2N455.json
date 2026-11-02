@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WXBR8F5RGH696NRMH2N455",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+    "taskStatementId": "ts-shcn-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:12:27.510Z",
+  "type": "vignette_mcq",
+  "vignette": "A child born prematurely with congenital heart disease presents with enamel and dentin defects, missing teeth, and malocclusion. A trainee suggests the dental findings are a coincidence and that restoration will be simple.",
+  "stem": "Which statement best addresses the relationship between the child's history and dental findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Disrupted fetal development can lead to dental conditions that raise vulnerability to oral disease, and these defects make restorative care complex."
+    },
+    {
+      "id": "B",
+      "text": "The dental findings are unrelated to the medical history, which only matters for medical management."
+    },
+    {
+      "id": "C",
+      "text": "Restorative care is straightforward despite enamel and dentin defects, missing teeth, and malocclusion."
+    },
+    {
+      "id": "D",
+      "text": "Only syndromes, not premature birth or congenital heart disease, can lead to dental conditions that raise vulnerability to oral disease."
+    }
+  ]
+}

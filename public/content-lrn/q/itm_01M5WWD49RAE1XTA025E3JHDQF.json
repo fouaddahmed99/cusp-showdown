@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WWD49RAE1XTA025E3JHDQF",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T19:55:42.562Z",
+  "type": "vignette_mcq",
+  "vignette": "A resident is reviewing the records of children in an oncology and transplant program. Some are receiving drugs given deliberately to dampen the immune system, and others are in chemotherapy or HSCT conditioning.",
+  "stem": "Which statement about the origin of immunosuppression in these children is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It may be an intended goal of therapy or a consequence of chemotherapy or HSCT conditioning."
+    },
+    {
+      "id": "B",
+      "text": "It is always an unintended adverse effect and never a goal of therapy."
+    },
+    {
+      "id": "C",
+      "text": "It arises only from head and neck radiation and not from chemotherapy or HSCT conditioning."
+    },
+    {
+      "id": "D",
+      "text": "It results only from HSCT conditioning and is never caused by chemotherapy."
+    }
+  ]
+}

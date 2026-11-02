@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WXBR8FBAQMYC0J7E09PYFG",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:11:22.032Z",
+  "type": "vignette_mcq",
+  "vignette": "A child with several severe medical conditions has not been seen by a dentist in a long time. The caregiver reports that the child's medical care, sensory sensitivities, and behavior make visits hard to arrange.",
+  "stem": "Which statement best describes this child's oral health situation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The child has a higher risk of poor oral health from a combination of medical, sensory, behavioral, and access factors, and is more likely to have unmet dental needs."
+    },
+    {
+      "id": "B",
+      "text": "The child's oral health risk is driven by medical status alone."
+    },
+    {
+      "id": "C",
+      "text": "Because of frequent medical contact, the child is less likely to have unmet dental needs than children with milder conditions."
+    },
+    {
+      "id": "D",
+      "text": "The child's risk of poor oral health is no different from that of a typical peer."
+    }
+  ]
+}

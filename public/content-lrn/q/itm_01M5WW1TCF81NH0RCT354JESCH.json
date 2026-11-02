@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WW1TCF81NH0RCT354JESCH",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "bleeding-disorders",
+    "taskStatementId": "ts-shcn-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T19:48:41.181Z",
+  "type": "vignette_mcq",
+  "vignette": "A resident cares for several patients with different special health care needs and asks whether the oral findings seen in one group can be assumed to apply to all of them.",
+  "stem": "Which statement most accurately describes oral manifestations in people with special health care needs?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They differ in cause, how often they occur, and how severe they are."
+    },
+    {
+      "id": "B",
+      "text": "They are identical in cause and severity across all special health care needs."
+    },
+    {
+      "id": "C",
+      "text": "They occur at the same frequency in every special health care need."
+    },
+    {
+      "id": "D",
+      "text": "They differ in severity but always share one cause."
+    }
+  ]
+}

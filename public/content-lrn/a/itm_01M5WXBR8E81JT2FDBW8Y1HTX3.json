@@ -1,0 +1,98 @@
+{
+  "id": "itm_01M5WXBR8E81JT2FDBW8Y1HTX3",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Patients with craniofacial anomalies need dental care across their lifespan, both because of the condition and as part of treatment.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-the-management-of-patients-with-c-2023",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      },
+      {
+        "text": "A pediatric dentist on the team is ideal because these patients' exam and restorative needs often differ from standard periodicity.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-the-management-of-patients-with-c-2023",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Dental needs persist across the lifespan, so care does not stop when the surgical phase ends.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-the-management-of-patients-with-c-2023",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Cleft lip rehabilitation can take years of specialized team treatment, so it is not brief.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+            "page": 2,
+            "section": "Perinatal and Infant Oral Health Care › Common oral conditions in newborns and infants"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "These patients often need exam and restorative schedules that differ from standard periodicity, which is why a pediatric dentist on the team is ideal.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-policy-on-the-management-of-patients-with-c-2023",
+            "page": 1,
+            "section": ""
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Dental needs of patients with craniofacial anomalies continue across the lifespan.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-policy-on-the-management-of-patients-with-c-2023",
+          "page": 1,
+          "section": ""
+        }
+      ]
+    },
+    {
+      "text": "Their schedules often depart from standard periodicity, making a pediatric dentist on the craniofacial team ideal.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-policy-on-the-management-of-patients-with-c-2023",
+          "page": 1,
+          "section": ""
+        }
+      ]
+    },
+    {
+      "text": "Rehabilitation can extend over years.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-perinatal-and-infant-oral-health-care-2025",
+          "page": 2,
+          "section": "Perinatal and Infant Oral Health Care › Common oral conditions in newborns and infants"
+        }
+      ]
+    }
+  ]
+}

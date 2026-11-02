@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WWD49R6VVCGTJZ9HEWWC1Q",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-10-26T19:54:53.592Z",
+  "type": "vignette_mcq",
+  "vignette": "A child with compromised immunity is referred for a dental procedure that will be invasive. The parent asks whether the dentist should simply give antibiotics as a standard step.",
+  "stem": "Which is the most appropriate approach?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Consult the child's physician about management and decide on antibiotic prophylaxis individually for this patient."
+    },
+    {
+      "id": "B",
+      "text": "Proceed without contacting the physician because the dental plan is independent of the medical condition."
+    },
+    {
+      "id": "C",
+      "text": "Give prophylactic antibiotics automatically to every patient without individual consideration."
+    },
+    {
+      "id": "D",
+      "text": "Never use prophylactic antibiotics, regardless of the patient's risk or the procedure."
+    }
+  ]
+}

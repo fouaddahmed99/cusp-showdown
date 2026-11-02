@@ -1,0 +1,93 @@
+{
+  "id": "itm_01M5WWVN1G45RNNCHD6FEZH5VR",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Physician consultation is recommended for patients with compromised immunity, and the decision to use prophylaxis should be made case by case.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 6,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Patients with compromised immunity"
+          },
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 2,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Background"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Clindamycin is no longer advised for antibiotic prophylaxis before a dental procedure.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 4,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Situation Agent Adults Children"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Compromised immunity can lead to bacteremia and distant site infections after invasive procedures, and consultation is recommended.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 6,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Patients with compromised immunity"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The choice to use prophylaxis should be individualized, and extra doses or a pre- and postoperative course may be needed with compromised host response.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 2,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Background"
+          },
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 2,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Recommendations"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Immunocompromised patients may develop bacteremia and distant infections after invasive procedures, so physician consultation is recommended.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+          "page": 6,
+          "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Patients with compromised immunity"
+        }
+      ]
+    },
+    {
+      "text": "Prophylaxis decisions are made case by case, and clindamycin is no longer advised.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+          "page": 2,
+          "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Background"
+        },
+        {
+          "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+          "page": 4,
+          "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Situation Agent Adults Children"
+        }
+      ]
+    }
+  ]
+}

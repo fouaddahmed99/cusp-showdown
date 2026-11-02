@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5WX1ZH9Z3EXDCVN79NERJHE",
+  "version": 1,
+  "type": "mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "Incorrect: good oral hygiene may lessen mucositis severity, so minimizing it is not supported.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Correct: good oral hygiene lowers oral microbial load, which may reduce the inflammatory response and mucositis severity.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      },
+      {
+        "text": "Oral mucositis commonly results from high-dose head and neck radiation, which makes this relevant for this child.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Incorrect: oral hygiene is linked, through lower microbial load, to reduced mucositis severity.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Incorrect: good oral hygiene lowers, rather than raises, oral microbial load.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Oral mucositis commonly results from antineoplastic chemotherapy, high-dose head and neck radiation, and HSCT.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+          "page": 7,
+          "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+        }
+      ]
+    },
+    {
+      "text": "Good oral hygiene reduces microbial load, which may lessen the host inflammatory response and the severity of mucositis.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+          "page": 7,
+          "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+        }
+      ]
+    }
+  ]
+}

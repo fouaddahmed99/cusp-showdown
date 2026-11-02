@@ -1,7 +1,7 @@
 {
   "contractVersion": 1,
-  "contentVersion": "d09e98faadf1",
-  "builtAt": "2026-10-26T16:39:42.315Z",
+  "contentVersion": "d4856f39cd41",
+  "builtAt": "2026-10-26T21:36:40.126Z",
   "sample": false,
   "exam": {
     "qe": {
@@ -546,6 +546,31 @@
       "id": "cond-tuberous-sclerosis-complex",
       "domainId": "shcn",
       "name": "Tuberous sclerosis complex"
+    },
+    {
+      "id": "bleeding-disorders",
+      "domainId": "shcn",
+      "name": "Hemophilia and Other Inherited Bleeding Disorders"
+    },
+    {
+      "id": "immunosuppression-and-head-and-neck-radiation",
+      "domainId": "shcn",
+      "name": "Immunosuppressive Therapy and Head and Neck Radiation"
+    },
+    {
+      "id": "cleft-lip-palate-and-craniofacial-anomalies",
+      "domainId": "shcn",
+      "name": "Cleft Lip/Palate and Other Craniofacial Anomalies"
+    },
+    {
+      "id": "periodontal-conditions",
+      "domainId": "diagnosis",
+      "name": "Periodontal Conditions in Pediatric Patients"
+    },
+    {
+      "id": "systemic-diseases-affecting-the-periodontium",
+      "domainId": "diagnosis",
+      "name": "Systemic Diseases and Syndromes that Affect the Periodontium"
     }
   ],
   "taskStatements": [
@@ -871,8 +896,8 @@
     }
   ],
   "counts": {
-    "mcq": 44,
-    "vignette_mcq": 27,
+    "mcq": 61,
+    "vignette_mcq": 46,
     "image_mcq": 0,
     "flashcard": 0,
     "note_section": 0,
@@ -895,19 +920,19 @@
       "id": "form_mini-100-a",
       "name": "100-item mini-mock — Form A",
       "kind": "mini100",
-      "size": 62
+      "size": 76
     },
     {
       "id": "form_mini-50-a",
       "name": "50-item mini-mock — Form A",
       "kind": "mini50",
-      "size": 45
+      "size": 48
     },
     {
       "id": "form_qe-full-a",
       "name": "Full QE simulation — Form A",
       "kind": "full",
-      "size": 71
+      "size": 107
     }
   ]
 }

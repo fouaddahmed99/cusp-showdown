@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WWMNE28WYAX07FVTME7J3T",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+    "taskStatementId": "ts-shcn-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T19:59:06.369Z",
+  "type": "mcq",
+  "stem": "Which measure is recommended during head and neck radiation to lower the risk of trismus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Daily oral stretching exercises along with physical therapy"
+    },
+    {
+      "id": "B",
+      "text": "Deferring stretching exercises until radiation is finished"
+    },
+    {
+      "id": "C",
+      "text": "Starting exercises only after trismus has been diagnosed"
+    },
+    {
+      "id": "D",
+      "text": "Performing stretching exercises once weekly"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WZ48C1MM4TJWDQ9SP4QBBF",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "systemic-diseases-affecting-the-periodontium",
+    "taskStatementId": "ts-diagnosis-07",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:42:00.434Z",
+  "type": "mcq",
+  "stem": "Periodontitis is found in a pediatric patient. Which statement best describes how the clinician should approach the diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Attribute the disease to local factors alone and leave systemic conditions out of the differential."
+    },
+    {
+      "id": "B",
+      "text": "Consider systemic effects only in adults, because pediatric periodontium is unaffected by medical conditions."
+    },
+    {
+      "id": "C",
+      "text": "Consider medications only, because medical diseases do not influence periodontal health."
+    },
+    {
+      "id": "D",
+      "text": "Include medical conditions that affect periodontal health in the differential diagnosis."
+    }
+  ]
+}

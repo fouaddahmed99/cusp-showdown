@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5WZ93779XQH8B5D36FPBA7N",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "When conservative periodontal treatment is not gravely dangerous, the dentist should communicate with the physician and coordinate systemic and periodontal care.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 11,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Considerations for treatment coordination and/or referral"
+          }
+        ]
+      },
+      {
+        "text": "A multidisciplinary approach may also be needed for safe and effective oral care.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+            "page": 1,
+            "section": "the Periodontium"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Guidance calls for the dentist to communicate with the physician and coordinate care, so working alone is inappropriate.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 11,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Considerations for treatment coordination and/or referral"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "These patients need preventive oral care emphasized at home as well as in the office, so limiting care to the office is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+            "page": 1,
+            "section": "the Periodontium"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The preventive care these patients need is individualized, not a uniform regimen.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+            "page": 1,
+            "section": "the Periodontium"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "When conservative periodontal treatment is not gravely dangerous, the dentist should communicate with the physician and coordinate systemic and periodontal care.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 11,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Considerations for treatment coordination and/or referral"
+        }
+      ]
+    },
+    {
+      "text": "Individualized preventive care at home and in the office is emphasized, and a multidisciplinary approach may be needed.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+          "page": 1,
+          "section": "the Periodontium"
+        }
+      ]
+    }
+  ]
+}

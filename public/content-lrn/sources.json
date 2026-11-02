@@ -36,6 +36,15 @@
     "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
   },
   {
+    "id": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+    "title": "Dental Management of Pediatric Patients Receiving Immunosuppressive Therapy and/or Head and Neck Radiation",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2026,
+    "versionLabel": "Reference Manual of Pediatric Dentistry, latest revision 2026",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/dental-management-of-pediatric-patients-receiving-Immunosuppressive-therapy-andor-radiation-therapy/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
     "id": "src_aapd-evidence-based-clinical-practice-guideline-for-t-2016",
     "title": "Evidence-based Clinical Practice Guideline for the Use of Pit-and-Fissure Sealants",
     "organization": "American Academy of Pediatric Dentistry",
@@ -144,6 +153,15 @@
     "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
   },
   {
+    "id": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+    "title": "Periodontal Conditions in Pediatric Dental Patients",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2024,
+    "versionLabel": "Reference Manual of Pediatric Dentistry, latest revision 2024",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/risk-assessment-and-management-of-periodontal-diseases-and-pathologies-in-pediatric-dental-patients/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
     "id": "src_aapd-policy-on-early-childhood-caries-ecc-consequence-2025",
     "title": "Policy on Early Childhood Caries (ECC): Consequences and Preventive Strategies",
     "organization": "American Academy of Pediatric Dentistry",
@@ -171,6 +189,15 @@
     "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
   },
   {
+    "id": "src_aapd-policy-on-the-management-of-patients-with-c-2023",
+    "title": "Policy on the Management of Patients with Cleft Lip/Palate and Other Craniofacial Anomalies",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2023,
+    "versionLabel": "Reference Manual of Pediatric Dentistry, latest revision 2023",
+    "url": "https://www.aapd.org/research/oral-health-policies--recommendations/management-of-patients-with-cleft-lip-palate-and-other-carniofacial-anomalies/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
     "id": "src_aapd-policy-on-use-of-fluoride-2023",
     "title": "Policy on Use of Fluoride",
     "organization": "American Academy of Pediatric Dentistry",
@@ -195,6 +222,15 @@
     "year": 2026,
     "versionLabel": "Reference Manual of Pediatric Dentistry 2026-2027, latest revision 2026",
     "url": "https://www.aapd.org/research/oral-health-policies--recommendations/pulp-therapy-for-primary-and-immature-permanent-teeth/",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
+  },
+  {
+    "id": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+    "title": "Systemic Diseases and Syndromes that Affect the Periodontium",
+    "organization": "American Academy of Pediatric Dentistry",
+    "year": 2022,
+    "versionLabel": "Reference Manual of Pediatric Dentistry resource (year to confirm against PDF)",
+    "url": "https://www.aapd.org/globalassets/media/policies_guidelines/r_systemicdissyndromes.pdf",
     "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
   },
   {
@@ -280,5 +316,14 @@
     "url": "https://www.aapd.org/research/oral-health-policies--recommendations/guidelines-for-the-management-of-traumatic-dental-injuries-in-the-primary-dentition/",
     "licenseLabel": "Non-commercial license (facts paraphrased)",
     "attribution": "International Association of Dental Traumatology Guidelines for the Management of Traumatic Dental Injuries: 3. Injuries in the Primary Dentition. Dent Traumatol 2020;36(4):343-359. © 2020 The Authors (CC BY-NC-ND). https://doi.org/10.1111/edt.12576"
+  },
+  {
+    "id": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+    "title": "WFH Guidelines for the Management of Hemophilia, 3rd edition",
+    "organization": "World Federation of Hemophilia",
+    "year": 2020,
+    "versionLabel": "3rd edition (Haemophilia 2020)",
+    "url": "https://doi.org/10.1111/hae.14046",
+    "licenseLabel": "Free to read (all rights reserved; facts paraphrased)"
   }
 ]

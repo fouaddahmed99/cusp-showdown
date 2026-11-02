@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WY40K1DYMFG0E8AP9P0ZQJ",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "periodontal-conditions",
+    "taskStatementId": "ts-diagnosis-07",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:24:15.181Z",
+  "type": "vignette_mcq",
+  "vignette": "An adolescent has generalized gingival inflammation. The clinician notes carious lesions, a defective restoration, and crowded malocclusion. The patient is also receiving immunosuppressive therapy.",
+  "stem": "Which finding is a biological risk factor for periodontal disease rather than a local factor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immunosuppressive therapy"
+    },
+    {
+      "id": "B",
+      "text": "Carious lesions"
+    },
+    {
+      "id": "C",
+      "text": "Defective restoration"
+    },
+    {
+      "id": "D",
+      "text": "Malocclusion"
+    }
+  ]
+}

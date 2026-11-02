@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5WXBR8FBAQMYC0J7E09PYFG",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Individuals with special health care needs face higher risk of poor oral health because of medical status, sensory issues, behavioral challenges, and access barriers.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 1,
+            "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+          }
+        ]
+      },
+      {
+        "text": "Children with more severe health conditions are more likely to have unmet dental needs.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 1,
+            "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Risk comes from several sources, including sensory, behavioral, and access factors, not medical status alone.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 1,
+            "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Children with more severe conditions are more, not less, likely to have unmet dental needs.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 1,
+            "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Individuals with special health care needs face higher risk of poor oral health than the general population.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 1,
+            "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Medical status, sensory issues, behavioral challenges, and access barriers together raise oral health risk.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 1,
+          "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+        }
+      ]
+    },
+    {
+      "text": "Greater condition severity is associated with more unmet dental needs.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 1,
+          "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+        }
+      ]
+    }
+  ]
+}

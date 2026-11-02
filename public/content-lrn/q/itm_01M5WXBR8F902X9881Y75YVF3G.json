@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WXBR8F902X9881Y75YVF3G",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-10-26T20:12:06.602Z",
+  "type": "vignette_mcq",
+  "vignette": "A child with compromised immunity is scheduled for an invasive dental procedure. The dental team is deciding how to approach antibiotic prophylaxis.",
+  "stem": "Which action is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Consult the child's physician about management and decide on prophylaxis for this individual patient."
+    },
+    {
+      "id": "B",
+      "text": "Give prophylactic antibiotics routinely to every patient with special health care needs."
+    },
+    {
+      "id": "C",
+      "text": "Withhold prophylaxis from all patients, including those at high risk of adverse outcomes from bacteremia."
+    },
+    {
+      "id": "D",
+      "text": "Proceed on the dentist's judgment alone without involving the physician."
+    }
+  ]
+}

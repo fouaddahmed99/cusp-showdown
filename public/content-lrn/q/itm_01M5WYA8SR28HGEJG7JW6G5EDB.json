@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WYA8SR28HGEJG7JW6G5EDB",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "periodontal-conditions",
+    "taskStatementId": "ts-diagnosis-07",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T20:28:02.154Z",
+  "type": "mcq",
+  "stem": "On what evidence base were the elevated-risk factors used in periodontal risk assessment for pediatric patients established?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Extrapolation from adult evidence"
+    },
+    {
+      "id": "B",
+      "text": "Large longitudinal cohort studies conducted in children"
+    },
+    {
+      "id": "C",
+      "text": "Randomized trials performed in pediatric populations"
+    },
+    {
+      "id": "D",
+      "text": "An extensive body of pediatric risk-assessment literature"
+    }
+  ]
+}

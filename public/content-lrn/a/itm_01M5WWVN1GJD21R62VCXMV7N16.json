@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5WWVN1GJD21R62VCXMV7N16",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Oral health is reevaluated at shorter intervals when there is a risk of dry mouth, caries, trismus, or chronic oral GVHD.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The 6-month interval is shortened when dry mouth risk is present, so a fixed 6-month schedule is not best.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Reevaluation is directed to occur during treatment, not only afterward.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Reevaluation is scheduled at regular intervals during treatment rather than being triggered only by symptoms.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Oral health reevaluation during therapy is routine at 6-month intervals and is made more frequent when dry mouth, caries, trismus, or chronic oral GVHD risk exists.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+          "page": 7,
+          "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+        }
+      ]
+    }
+  ]
+}

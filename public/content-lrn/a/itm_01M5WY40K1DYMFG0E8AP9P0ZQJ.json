@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5WY40K1DYMFG0E8AP9P0ZQJ",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Immunosuppressive or radiation therapy is listed among the biological risk factors for periodontal disease.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 5,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Biological factors"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Carious lesions are among the local factors that can raise periodontal disease risk.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 7,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › High risk"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Defective restorations are a local factor that can raise periodontal disease risk.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 7,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › High risk"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Malocclusion is a local factor that can raise periodontal disease risk.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 7,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › High risk"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Immunosuppressive or radiation therapy is categorized as a biological risk factor.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 5,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Biological factors"
+        }
+      ]
+    },
+    {
+      "text": "Caries lesions, defective restorations, and malocclusion are local factors.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 7,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › High risk"
+        }
+      ]
+    }
+  ]
+}

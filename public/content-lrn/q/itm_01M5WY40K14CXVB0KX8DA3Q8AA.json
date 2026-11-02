@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WY40K14CXVB0KX8DA3Q8AA",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "periodontal-conditions",
+    "taskStatementId": "ts-diagnosis-07",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T20:24:36.235Z",
+  "type": "vignette_mcq",
+  "vignette": "A resident is presenting a periodontal risk assessment for a child and is asked how well the listed risk factors are supported by studies in children and adolescents.",
+  "stem": "Which statement best describes the evidence behind risk factors used for children and adolescents?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Because pediatric research is limited, the risk factors were extrapolated from adult evidence."
+    },
+    {
+      "id": "B",
+      "text": "The risk factors come mainly from extensive pediatric research on risk assessment."
+    },
+    {
+      "id": "C",
+      "text": "The risk factors were established entirely in studies of adolescents and then applied to adults."
+    },
+    {
+      "id": "D",
+      "text": "Pediatric studies of risk assessment are plentiful, so adult data were not needed."
+    }
+  ]
+}

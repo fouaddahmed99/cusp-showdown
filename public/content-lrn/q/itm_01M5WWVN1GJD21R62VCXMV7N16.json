@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WWVN1GJD21R62VCXMV7N16",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+    "taskStatementId": "ts-shcn-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:02:21.778Z",
+  "type": "vignette_mcq",
+  "vignette": "A child is receiving high-dose head and neck radiation and has developed a dry mouth. The child is already being followed by the dental team during cancer treatment.",
+  "stem": "Which approach to reevaluating this child's oral health during treatment is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reevaluate at an interval shorter than 6 months because of the dry mouth risk."
+    },
+    {
+      "id": "B",
+      "text": "Reevaluate every 6 months with no change, regardless of the dry mouth."
+    },
+    {
+      "id": "C",
+      "text": "Wait until cancer treatment is completely finished before any reevaluation."
+    },
+    {
+      "id": "D",
+      "text": "Reevaluate only if the child later reports symptoms."
+    }
+  ]
+}

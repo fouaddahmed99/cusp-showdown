@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WVV47CRVREZVVFE37Y7YTN",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "bleeding-disorders",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T19:45:35.483Z",
+  "type": "mcq",
+  "stem": "A dental team plans care for a child with a sensory impairment such as deafness or blindness. Which approach is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Use the same communication style and clinic environment as for every other patient."
+    },
+    {
+      "id": "B",
+      "text": "Treat the impairment as irrelevant to the delivery of dental care."
+    },
+    {
+      "id": "C",
+      "text": "Defer all care because the impairment makes treatment impossible."
+    },
+    {
+      "id": "D",
+      "text": "Use alternative communication, an adapted environment, and an individualized approach."
+    }
+  ]
+}

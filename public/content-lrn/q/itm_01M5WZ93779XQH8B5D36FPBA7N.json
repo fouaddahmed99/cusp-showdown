@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WZ93779XQH8B5D36FPBA7N",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "systemic-diseases-affecting-the-periodontium",
+    "taskStatementId": "ts-diagnosis-07",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:44:12.839Z",
+  "type": "vignette_mcq",
+  "vignette": "A child with a known systemic condition has periodontal disease on examination. The dentist has determined that conservative periodontal treatment would not be gravely dangerous for this child.",
+  "stem": "Which approach to this child's care is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Contact the child's physician about the condition and coordinate systemic and periodontal care"
+    },
+    {
+      "id": "B",
+      "text": "Manage the periodontal disease independently, without contacting the physician"
+    },
+    {
+      "id": "C",
+      "text": "Focus on in-office care only, because home care adds little for patients with systemic conditions"
+    },
+    {
+      "id": "D",
+      "text": "Use one standard preventive regimen for all such patients, without tailoring it to the individual"
+    }
+  ]
+}

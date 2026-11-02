@@ -1,0 +1,93 @@
+{
+  "id": "itm_01M5WYFTXNQRHCF3SWRQJVBSF3",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Children receiving immunosuppressive or radiation therapy may develop treatment-related periodontal problems.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 9,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      },
+      {
+        "text": "Medical management of systemic conditions can itself add to oral health risks.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 4,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Treatment-related periodontal problems are described in children receiving immunosuppressive therapy, so this option is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 9,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Connective tissue, metabolic, endocrine and immunological disorders, and certain medications are also named as negative influences on the periodontium, so diabetes is not the only one.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 8,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Medical management of systemic conditions can itself add to oral health risks, so the word never makes this option incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 4,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Immunosuppressive therapy is linked to treatment-related periodontal problems in children.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 9,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+        }
+      ]
+    },
+    {
+      "text": "Medical treatment of a systemic condition can add to oral health risk, and many systemic disorders and medications can affect the periodontium.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 4,
+          "section": "Management of Dental Patients with Special Health Care Needs › Background"
+        },
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 8,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+        }
+      ]
+    }
+  ]
+}

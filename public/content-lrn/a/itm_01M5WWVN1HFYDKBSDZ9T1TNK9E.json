@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5WWVN1HFYDKBSDZ9T1TNK9E",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Fever, malaise, weakness, or lethargy after a procedure may indicate antibiotic failure and the need for further medical evaluation.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 2,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Background"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Prophylaxis cannot guarantee that infection is fully prevented, so symptoms cannot be dismissed.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 2,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Background"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "These symptoms may signal antibiotic failure and call for medical evaluation rather than being assumed normal.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 2,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Background"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Clindamycin is no longer advised for antibiotic prophylaxis before a dental procedure.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 4,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Situation Agent Adults Children"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Systemic symptoms after a procedure may represent antibiotic failure and warrant further medical evaluation.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+          "page": 2,
+          "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Background"
+        }
+      ]
+    },
+    {
+      "text": "Prophylaxis does not guarantee prevention of infection.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+          "page": 2,
+          "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Background"
+        }
+      ]
+    }
+  ]
+}

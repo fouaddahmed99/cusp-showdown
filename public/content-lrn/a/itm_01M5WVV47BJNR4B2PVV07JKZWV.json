@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5WVV47BJNR4B2PVV07JKZWV",
+  "version": 1,
+  "type": "mcq",
+  "key": "C",
+  "rationales": {
+    "A": [
+      {
+        "text": "The recommendation calls for regular preventive care, not care limited to emergencies.",
+        "cites": [
+          {
+            "sourceId": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+            "page": 34,
+            "section": "OF HEMOPHILIA › • For children and adults with hemophilia, the WFH"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The recommendation places dental care within comprehensive hemophilia care rather than apart from it.",
+        "cites": [
+          {
+            "sourceId": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+            "page": 34,
+            "section": "OF HEMOPHILIA › • For children and adults with hemophilia, the WFH"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "WFH recommends access to regular preventive dental and oral health care within comprehensive hemophilia care.",
+        "cites": [
+          {
+            "sourceId": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+            "page": 34,
+            "section": "OF HEMOPHILIA › • For children and adults with hemophilia, the WFH"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The recommendation covers both children and adults with hemophilia.",
+        "cites": [
+          {
+            "sourceId": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+            "page": 34,
+            "section": "OF HEMOPHILIA › • For children and adults with hemophilia, the WFH"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "WFH recommends that children and adults with hemophilia have access to regular preventive dental and oral health care within comprehensive hemophilia care.",
+      "cites": [
+        {
+          "sourceId": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+          "page": 34,
+          "section": "OF HEMOPHILIA › • For children and adults with hemophilia, the WFH"
+        }
+      ]
+    }
+  ]
+}

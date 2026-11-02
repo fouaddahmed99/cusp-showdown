@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5WZFYC01SMWJY9YQC2Y19KE",
+  "version": 1,
+  "type": "mcq",
+  "key": "B",
+  "rationales": {
+    "A": [
+      {
+        "text": "Children receiving immunosuppressive or radiation therapy may have treatment-related periodontal problems, so the periodontium can be affected.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 9,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Children receiving immunosuppressive therapy may have treatment-related periodontal problems.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 9,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Certain medications, in addition to systemic diseases, can negatively affect the periodontium.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 8,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Both immunosuppressive and radiation therapy are named as possible sources of treatment-related periodontal problems.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 9,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Immunosuppressive and radiation therapies can both lead to periodontal problems.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 9,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+        }
+      ]
+    },
+    {
+      "text": "Medications as well as systemic diseases can harm the periodontium.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 8,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+        }
+      ]
+    }
+  ]
+}

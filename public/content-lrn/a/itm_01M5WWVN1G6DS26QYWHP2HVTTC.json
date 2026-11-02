@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5WWVN1G6DS26QYWHP2HVTTC",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Severe mucositis can interrupt cancer therapy, so this statement is correct.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Mucositis causes pain and an inability to eat, so it is not painless or mild in this sense.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Good oral hygiene lowers microbial load, which may reduce the inflammatory response and the severity of mucositis, so hygiene does matter.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Mucositis commonly follows chemotherapy, high-dose head and neck radiation, and stem cell transplantation, so it is not limited to chemotherapy.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 7,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Mucositis appears as redness and ulceration of the mucosa with pain and inability to eat, and severe cases may interrupt cancer therapy.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+          "page": 7,
+          "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+        }
+      ]
+    },
+    {
+      "text": "It commonly results from several therapies, and good hygiene may lessen its severity.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+          "page": 7,
+          "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5WWMNE22ZN72ZM7375M5Q4G",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "For HSCT, dental treatment is completed before immunosuppression and elective care waits for immune recovery.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 1,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Abstract"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Treatment should be finished before immunosuppression, so postponing all care until after the transplant is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 1,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Abstract"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Elective care is deferred until immune recovery, not done during immunosuppression.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 1,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Abstract"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "An oral examination should occur before immunosuppressive therapy starts, not after complications arise.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 1,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Abstract"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Dental treatment for a child undergoing HSCT should be completed before immunosuppression, and elective care should wait until immune recovery.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+          "page": 1,
+          "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Abstract"
+        }
+      ]
+    },
+    {
+      "text": "The oral examination also belongs before therapy begins.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+          "page": 1,
+          "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Abstract"
+        }
+      ]
+    }
+  ]
+}

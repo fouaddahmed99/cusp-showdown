@@ -1,0 +1,90 @@
+{
+  "id": "itm_01M5WYA8SRHHXPRYJ6MNVXRBXP",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Defective restorations are named as a local factor that can increase periodontal disease risk, along with caries lesions and malocclusion.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 7,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › High risk"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Immunosuppressive or radiation therapy is listed as a biological risk factor, not a local one.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 5,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Biological factors"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Nutritional deficiencies are listed among the biological risk factors.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 5,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Biological factors"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Pregnancy is listed as a biological risk factor.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 5,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Biological factors"
+          }
+        ]
+      }
+    ],
+    "E": [
+      {
+        "text": "Mental health disorders such as stress and depression are listed as biological risk factors.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 5,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Biological factors"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Local risk factors include caries lesions, defective restorations, and malocclusion.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 7,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › High risk"
+        }
+      ]
+    },
+    {
+      "text": "Immunosuppressive therapy, nutritional deficiencies, pregnancy, and stress or depression fall under biological risk factors.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 5,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Biological factors"
+        }
+      ]
+    }
+  ]
+}

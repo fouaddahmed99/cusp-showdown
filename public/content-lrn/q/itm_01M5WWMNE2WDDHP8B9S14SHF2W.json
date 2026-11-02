@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WWMNE2WDDHP8B9S14SHF2W",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-10-26T19:58:47.744Z",
+  "type": "mcq",
+  "stem": "A child with compromised immunity requires an invasive dental procedure. Which approach is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Consult the child's physician about management and decide on antibiotic prophylaxis for this individual patient"
+    },
+    {
+      "id": "B",
+      "text": "Give prophylactic antibiotics automatically to every child with special health care needs"
+    },
+    {
+      "id": "C",
+      "text": "Never consider prophylactic antibiotics for invasive procedures in any patient"
+    },
+    {
+      "id": "D",
+      "text": "Manage the child without physician input"
+    }
+  ]
+}

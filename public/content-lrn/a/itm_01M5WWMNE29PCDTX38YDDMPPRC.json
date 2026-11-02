@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5WWMNE29PCDTX38YDDMPPRC",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Immunosuppression may be deliberately sought to prevent rejection of a transplant, or may result from chemotherapy or HSCT conditioning.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 2,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Purpose"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "It can be a deliberate therapeutic goal, so calling it always unintended is wrong.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 2,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Purpose"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "HSCT conditioning is also a recognized cause of immunosuppression.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 2,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Purpose"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "It may also be a consequence of chemotherapy or HSCT conditioning, so it is not solely intended.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 2,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Purpose"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Immunosuppression can be a purposeful goal, as in preventing transplant rejection, or a consequence of chemotherapy or HSCT conditioning.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+          "page": 2,
+          "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Purpose"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WWVN1G6DS26QYWHP2HVTTC",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+    "taskStatementId": "ts-shcn-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:02:00.948Z",
+  "type": "vignette_mcq",
+  "vignette": "A child undergoing conditioning for hematopoietic stem cell transplantation has red, ulcerated oral mucosa. The child reports pain and cannot eat.",
+  "stem": "Which statement about this oral condition is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "When it is severe, it can force an interruption of the cancer treatment."
+    },
+    {
+      "id": "B",
+      "text": "It is usually mild and painless and seldom limits the ability to eat."
+    },
+    {
+      "id": "C",
+      "text": "Oral hygiene status has no bearing on how severe it becomes."
+    },
+    {
+      "id": "D",
+      "text": "It arises only from chemotherapy and is not linked to head and neck radiation or transplant conditioning."
+    }
+  ]
+}

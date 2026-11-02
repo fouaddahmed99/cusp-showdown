@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5WZFYC04A7ZN6S2E9WYJ7A6",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "When conservative care is not gravely dangerous, the dentist should communicate with the physician and coordinate treatments.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 11,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Considerations for treatment coordination and/or referral"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Guidance directs the dentist to communicate with the physician and coordinate, so acting independently is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 11,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Considerations for treatment coordination and/or referral"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Treatment depends on the underlying systemic disorder, so disregarding it is incorrect.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 11,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Considerations for treatment coordination and/or referral"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Medical conditions that affect periodontal health may belong in the differential diagnosis of periodontitis in children, so a systemic link cannot be excluded outright.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+            "page": 1,
+            "section": "the Periodontium"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Physician communication and coordinated treatment are expected when conservative periodontal care is not gravely dangerous.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 11,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Considerations for treatment coordination and/or referral"
+        }
+      ]
+    },
+    {
+      "text": "The systemic disorder determines how periodontitis is treated.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 11,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Considerations for treatment coordination and/or referral"
+        }
+      ]
+    }
+  ]
+}

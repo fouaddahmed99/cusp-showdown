@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WWVN1HFYDKBSDZ9T1TNK9E",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-10-26T20:03:09.763Z",
+  "type": "vignette_mcq",
+  "vignette": "A child with compromised immunity received antibiotic prophylaxis before an invasive dental procedure. Two days later the parent reports fever, malaise, and lethargy.",
+  "stem": "What is the most appropriate interpretation and response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The symptoms may signal antibiotic failure, so arrange further medical evaluation."
+    },
+    {
+      "id": "B",
+      "text": "Prophylaxis completely prevents infection, so the symptoms must be unrelated and need no follow-up."
+    },
+    {
+      "id": "C",
+      "text": "Treat the symptoms as expected after a procedure and advise no evaluation."
+    },
+    {
+      "id": "D",
+      "text": "Plan to give clindamycin prophylaxis before the next procedure to prevent a recurrence."
+    }
+  ]
+}

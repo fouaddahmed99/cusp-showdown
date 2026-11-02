@@ -1,0 +1,35 @@
+{
+  "id": "itm_01M5WW7A7NMF9XP1PNJR5G9D5M",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "bleeding-disorders",
+    "taskStatementId": "ts-shcn-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T19:50:48.947Z",
+  "type": "mcq",
+  "stem": "Which statement about oral manifestations in patients with special health care needs is best supported?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Enamel and dentin defects, missing teeth, and malocclusion make restorative care simpler than usual."
+    },
+    {
+      "id": "B",
+      "text": "Medical management of a systemic condition never adds to a patient's oral health risks."
+    },
+    {
+      "id": "C",
+      "text": "The cause, frequency, and severity of oral manifestations differ from one patient to another."
+    },
+    {
+      "id": "D",
+      "text": "Attention-deficit and behavior disorders lower the risk of dental trauma and make home care easier."
+    },
+    {
+      "id": "E",
+      "text": "Physical disabilities seldom interfere with oral hygiene or with caries and periodontal risk."
+    }
+  ]
+}

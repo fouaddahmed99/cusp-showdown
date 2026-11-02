@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WXBR8FE4Q2GTKFEFEZ8754",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:11:47.135Z",
+  "type": "vignette_mcq",
+  "vignette": "A child who is deaf presents for a first dental visit. The dental team usually uses spoken instructions in a standard operatory.",
+  "stem": "Which approach is most appropriate for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Use alternative communication, adapt the environment, and individualize the approach."
+    },
+    {
+      "id": "B",
+      "text": "Use the same communication and environment as for every other patient."
+    },
+    {
+      "id": "C",
+      "text": "Disregard sensory impairment when judging this child's oral health risk."
+    },
+    {
+      "id": "D",
+      "text": "Adapt care only for blindness, since deafness does not typically change care."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "itm_01M5WZ48C1MM4TJWDQ9SP4QBBF",
+  "version": 1,
+  "type": "mcq",
+  "key": "D",
+  "rationales": {
+    "A": [
+      {
+        "text": "Incorrect: medical conditions that affect periodontal health may belong in the differential diagnosis when periodontitis is found in children.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+            "page": 1,
+            "section": "the Periodontium"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Incorrect: the differential-diagnosis guidance is specifically about periodontitis in pediatric patients.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+            "page": 1,
+            "section": "the Periodontium"
+          }
+        ]
+      },
+      {
+        "text": "Diabetes and other systemic disorders can negatively affect the periodontium.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 8,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Incorrect: diabetes and connective tissue, metabolic, endocrine and immunological disorders can affect the periodontium, as can certain medications.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 8,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Correct: medical conditions that affect periodontal health may belong in the differential diagnosis when periodontitis is found in pediatric patients.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+            "page": 1,
+            "section": "the Periodontium"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Medical conditions that affect periodontal health may belong in the differential diagnosis when periodontitis is found in children.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-systemic-diseases-and-syndromes-that-affect-2022",
+          "page": 1,
+          "section": "the Periodontium"
+        }
+      ]
+    },
+    {
+      "text": "Diabetes and connective tissue, metabolic, endocrine and immunological disorders, along with certain medications, can negatively affect the periodontium.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 8,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Periodontitis as a manifestation of systemic disease (systemic"
+        }
+      ]
+    }
+  ]
+}

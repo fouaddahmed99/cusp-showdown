@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WX1ZH9Z3EXDCVN79NERJHE",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+    "taskStatementId": "ts-shcn-02",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:06:19.291Z",
+  "type": "mcq",
+  "stem": "A child is about to receive high-dose head and neck radiation, a treatment that commonly causes oral mucositis. Which statement best explains the role of oral hygiene in this child's care?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oral hygiene should be minimized because it aggravates mucositis."
+    },
+    {
+      "id": "B",
+      "text": "Good oral hygiene lowers oral microbial load, which may reduce the host inflammatory response and the severity of mucositis."
+    },
+    {
+      "id": "C",
+      "text": "Oral hygiene has no bearing on the severity of mucositis."
+    },
+    {
+      "id": "D",
+      "text": "Good oral hygiene raises microbial load and so increases the host inflammatory response."
+    }
+  ]
+}

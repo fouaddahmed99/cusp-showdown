@@ -1,0 +1,68 @@
+{
+  "id": "itm_01M5WWMNE28WYAX07FVTME7J3T",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Daily oral stretching and physical therapy are used during radiation to lower trismus risk.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 9,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The exercises are meant to be used during radiation, not after it ends.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 9,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The exercises are intended to lower the risk, so they are begun during radiation rather than waiting for a diagnosis.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 9,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The recommendation calls for daily exercises, not weekly ones.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+            "page": 9,
+            "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Daily oral stretching exercises and physical therapy during head and neck radiation reduce the risk of trismus.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-dental-management-of-pediatric-patients-rec-2026",
+          "page": 9,
+          "section": "Dental Management of Pediatric Patients Receiving Immunosuppressive › Oral care during immunosuppression periods and radiation therapy"
+        }
+      ]
+    }
+  ]
+}

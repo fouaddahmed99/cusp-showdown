@@ -1,0 +1,35 @@
+{
+  "id": "itm_01M5WYA8SRHHXPRYJ6MNVXRBXP",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "periodontal-conditions",
+    "taskStatementId": "ts-diagnosis-07",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T20:27:42.159Z",
+  "type": "mcq",
+  "stem": "Which of the following is a local factor that can raise the risk of periodontal disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Defective restorations"
+    },
+    {
+      "id": "B",
+      "text": "Immunosuppressive therapy"
+    },
+    {
+      "id": "C",
+      "text": "Nutritional deficiencies"
+    },
+    {
+      "id": "D",
+      "text": "Pregnancy"
+    },
+    {
+      "id": "E",
+      "text": "Stress and depression"
+    }
+  ]
+}

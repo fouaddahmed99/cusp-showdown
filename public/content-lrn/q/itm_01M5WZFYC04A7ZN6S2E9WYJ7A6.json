@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WZFYC04A7ZN6S2E9WYJ7A6",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "systemic-diseases-affecting-the-periodontium",
+    "taskStatementId": "ts-diagnosis-07",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:49:06.175Z",
+  "type": "mcq",
+  "stem": "A child has periodontitis that manifests a systemic condition, and conservative periodontal care is not considered gravely dangerous. What is the most appropriate next step?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Communicate with the child's physician about the systemic condition and coordinate treatments."
+    },
+    {
+      "id": "B",
+      "text": "Proceed independently without contacting the physician, since the care is conservative."
+    },
+    {
+      "id": "C",
+      "text": "Apply the standard periodontal protocol and disregard the systemic condition."
+    },
+    {
+      "id": "D",
+      "text": "Conclude that the periodontitis cannot be related to a systemic condition."
+    }
+  ]
+}

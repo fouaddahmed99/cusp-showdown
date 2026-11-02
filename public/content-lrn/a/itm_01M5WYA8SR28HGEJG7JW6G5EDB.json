@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5WYA8SR28HGEJG7JW6G5EDB",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Pediatric risk-assessment literature is scarce, so the elevated-risk factors were extrapolated from adult evidence.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 2,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "The risk factors were not drawn from pediatric cohorts, because pediatric literature is scarce and adult evidence was extrapolated.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 2,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The pediatric evidence is scarce, and the risk factors came from adult evidence rather than pediatric trials.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 2,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The pediatric literature on this topic is scarce, not extensive.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 2,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Periodontal risk assessment identifies factors that raise the chance of gingival and periodontal disease and factors affecting its progression.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 2,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+        }
+      ]
+    },
+    {
+      "text": "Because pediatric literature is scarce, the elevated-risk factors were extrapolated from adult evidence.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 2,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+        }
+      ]
+    }
+  ]
+}

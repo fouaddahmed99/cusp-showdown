@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WXBR8E81JT2FDBW8Y1HTX3",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:10:52.061Z",
+  "type": "vignette_mcq",
+  "vignette": "An infant with a cleft lip is followed by a craniofacial team. The parent asks whether dental visits will still matter after the surgical phase and why a pediatric dentist would join the team.",
+  "stem": "Which statement best reflects dental care for this child?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dental care is needed throughout life, and a pediatric dentist on the team is ideal because exam and restorative timing often differs from standard periodicity."
+    },
+    {
+      "id": "B",
+      "text": "Dental care is needed only until the surgical phase ends and can be discontinued afterward."
+    },
+    {
+      "id": "C",
+      "text": "Cleft rehabilitation is brief, so involvement of a specialized team is needed only for a short time."
+    },
+    {
+      "id": "D",
+      "text": "A standard periodicity schedule is sufficient, so a pediatric dentist on the team adds little."
+    }
+  ]
+}

@@ -46,5 +46,281 @@
       "cognitiveLevel": "understand_apply"
     },
     "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WVV47B8E1Y640QG2VBBTSP",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "bleeding-disorders",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WVV47BJNR4B2PVV07JKZWV",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "bleeding-disorders",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WVV47CRVREZVVFE37Y7YTN",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "bleeding-disorders",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WW1TCE7MB9A9NF4EN7PK4R",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "bleeding-disorders",
+      "taskStatementId": "ts-shcn-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WW1TCF81NH0RCT354JESCH",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "bleeding-disorders",
+      "taskStatementId": "ts-shcn-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WW7A7NMF9XP1PNJR5G9D5M",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "bleeding-disorders",
+      "taskStatementId": "ts-shcn-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WWD49R6VVCGTJZ9HEWWC1Q",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WWD49RAE1XTA025E3JHDQF",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WWMNE22ZN72ZM7375M5Q4G",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WWMNE28WYAX07FVTME7J3T",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+      "taskStatementId": "ts-shcn-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WWMNE29PCDTX38YDDMPPRC",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WWMNE2WDDHP8B9S14SHF2W",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WWVN1G45RNNCHD6FEZH5VR",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WWVN1G6DS26QYWHP2HVTTC",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+      "taskStatementId": "ts-shcn-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WWVN1GJD21R62VCXMV7N16",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+      "taskStatementId": "ts-shcn-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WWVN1HFYDKBSDZ9T1TNK9E",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WX1ZH9Z3EXDCVN79NERJHE",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+      "taskStatementId": "ts-shcn-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WXBR8E81JT2FDBW8Y1HTX3",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WXBR8F5RGH696NRMH2N455",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+      "taskStatementId": "ts-shcn-02",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WXBR8F902X9881Y75YVF3G",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WXBR8FBAQMYC0J7E09PYFG",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WXBR8FE4Q2GTKFEFEZ8754",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WXK8YMWZ64SCHP7CB5W02T",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "shcn",
+      "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+      "taskStatementId": "ts-shcn-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
   }
 ]

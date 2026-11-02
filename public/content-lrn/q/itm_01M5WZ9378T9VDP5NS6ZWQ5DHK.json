@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WZ9378T9VDP5NS6ZWQ5DHK",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "systemic-diseases-affecting-the-periodontium",
+    "taskStatementId": "ts-diagnosis-07",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:45:46.421Z",
+  "type": "vignette_mcq",
+  "vignette": "A child presents with periodontitis. The dentist is considering possible causes.",
+  "stem": "Which approach to determining the cause is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Consider medical conditions in the differential diagnosis, along with medications that may affect the periodontium."
+    },
+    {
+      "id": "B",
+      "text": "Attribute the periodontitis solely to local plaque, with no further consideration of systemic factors."
+    },
+    {
+      "id": "C",
+      "text": "Rule out systemic disease as a cause, since only medications can negatively affect the periodontium."
+    },
+    {
+      "id": "D",
+      "text": "Ignore medications as a possible contributor, since only systemic disease can affect the periodontium."
+    }
+  ]
+}

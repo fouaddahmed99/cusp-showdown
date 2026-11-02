@@ -1,0 +1,103 @@
+{
+  "id": "itm_01M5WWMNE2WDDHP8B9S14SHF2W",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "The physician should be consulted for patients with compromised immunity.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 6,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Patients with compromised immunity"
+          }
+        ]
+      },
+      {
+        "text": "The decision to use prophylaxis is individualized for each patient.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 2,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Background"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Prophylaxis is decided individually, not applied automatically to everyone.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 2,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Background"
+          }
+        ]
+      },
+      {
+        "text": "It is recommended for patients at high risk of adverse outcomes from bacteremia and infection.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 1,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Purpose"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Prophylactic antibiotics are recommended for high-risk patients having invasive oral procedures, so never considering them is wrong.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 1,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Purpose"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "The physician should be consulted for compromised immunity.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+            "page": 6,
+            "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Patients with compromised immunity"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Physician consultation is advised when immunity is compromised.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+          "page": 6,
+          "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Patients with compromised immunity"
+        }
+      ]
+    },
+    {
+      "text": "Prophylaxis is chosen for each patient individually and is recommended for high-risk patients having invasive procedures.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+          "page": 2,
+          "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Background"
+        },
+        {
+          "sourceId": "src_aapd-antibiotic-prophylaxis-for-dental-patients-at-ri-2026",
+          "page": 1,
+          "section": "Antibiotic Prophylaxis for Dental Patients at Risk for Infection › Purpose"
+        }
+      ]
+    }
+  ]
+}

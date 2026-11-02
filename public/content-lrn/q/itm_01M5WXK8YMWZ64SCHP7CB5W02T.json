@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WXK8YMWZ64SCHP7CB5W02T",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "cleft-lip-palate-and-craniofacial-anomalies",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:15:52.642Z",
+  "type": "mcq",
+  "stem": "Which approach to antibiotic prophylaxis is most consistent with current guidance for dental patients at risk for infection, including those with special health care needs?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Give prophylaxis routinely to every patient with a special health care need, regardless of individual risk."
+    },
+    {
+      "id": "B",
+      "text": "Decide on prophylaxis individually for each patient, recommending it for those at high risk of adverse outcomes from bacteremia who undergo invasive procedures."
+    },
+    {
+      "id": "C",
+      "text": "Withhold prophylaxis from patients at high risk of adverse outcomes from bacteremia, even for invasive procedures."
+    },
+    {
+      "id": "D",
+      "text": "For a patient with compromised immunity, decide independently without consulting the physician."
+    }
+  ]
+}

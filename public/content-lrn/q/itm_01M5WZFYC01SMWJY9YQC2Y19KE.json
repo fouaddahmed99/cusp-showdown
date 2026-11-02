@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WZFYC01SMWJY9YQC2Y19KE",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "systemic-diseases-affecting-the-periodontium",
+    "taskStatementId": "ts-diagnosis-07",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:49:28.822Z",
+  "type": "mcq",
+  "stem": "A child is receiving immunosuppressive therapy for a medical condition. Which statement about this child's periodontal risk is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The periodontium is unaffected by medical therapies."
+    },
+    {
+      "id": "B",
+      "text": "Treatment-related periodontal problems may occur."
+    },
+    {
+      "id": "C",
+      "text": "Only systemic diseases, never medications, can negatively affect the periodontium."
+    },
+    {
+      "id": "D",
+      "text": "Periodontal problems from therapy occur only with radiation, not with immunosuppression."
+    }
+  ]
+}

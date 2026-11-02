@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WZFYC0X6B6SPW97X6HYM8Z",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "systemic-diseases-affecting-the-periodontium",
+    "taskStatementId": "ts-diagnosis-07",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:47:59.057Z",
+  "type": "mcq",
+  "stem": "Periodontitis is found in a school-age child. Which approach to the diagnostic work-up is most consistent with AAPD guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Attribute the findings to local plaque factors alone, because systemic disease does not affect the periodontium in children."
+    },
+    {
+      "id": "B",
+      "text": "Include systemic medical conditions in the differential diagnosis, using the AAPD list of conditions that affect periodontal health."
+    },
+    {
+      "id": "C",
+      "text": "Rule out medication effects, because drugs do not influence periodontal tissues."
+    },
+    {
+      "id": "D",
+      "text": "Defer any consideration of systemic causes until the child reaches adolescence."
+    }
+  ]
+}

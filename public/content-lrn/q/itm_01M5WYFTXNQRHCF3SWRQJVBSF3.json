@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WYFTXNQRHCF3SWRQJVBSF3",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "periodontal-conditions",
+    "taskStatementId": "ts-diagnosis-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T20:30:54.676Z",
+  "type": "vignette_mcq",
+  "vignette": "A child is receiving immunosuppressive therapy for a systemic illness. The child now has periodontal problems that began during treatment.",
+  "stem": "Which interpretation best reflects current guidance on systemic contributors to this child's periodontal findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immunosuppressive therapy can itself be a contributor to treatment-related periodontal problems."
+    },
+    {
+      "id": "B",
+      "text": "Immunosuppressive therapy has no effect on the periodontium, so the cause must lie elsewhere."
+    },
+    {
+      "id": "C",
+      "text": "Diabetes is the only systemic condition recognized as negatively affecting the periodontium."
+    },
+    {
+      "id": "D",
+      "text": "Medical management of a systemic condition never adds to the child's oral health risks."
+    }
+  ]
+}

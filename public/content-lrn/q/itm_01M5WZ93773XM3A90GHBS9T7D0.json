@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WZ93773XM3A90GHBS9T7D0",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "systemic-diseases-affecting-the-periodontium",
+    "taskStatementId": "ts-diagnosis-03",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-10-26T20:44:48.742Z",
+  "type": "vignette_mcq",
+  "vignette": "An adolescent is diagnosed with a temporomandibular disorder after reporting jaw discomfort. The family asks about treatment options.",
+  "stem": "Which treatment is most appropriate for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A reversible approach such as an occlusal splint"
+    },
+    {
+      "id": "B",
+      "text": "Occlusal adjustment"
+    },
+    {
+      "id": "C",
+      "text": "Orthodontic treatment to alter the occlusion"
+    },
+    {
+      "id": "D",
+      "text": "Surgical intervention"
+    }
+  ]
+}

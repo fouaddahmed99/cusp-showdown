@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5WXBR8FE4Q2GTKFEFEZ8754",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Sensory impairments can affect care and often call for alternative communication, adapted environments, and individualized approaches.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Sensory impairments often call for adapted communication and environments, so a uniform approach is inappropriate.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Sensory issues are among the factors that raise the risk of poor oral health, so they should not be disregarded.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 1,
+            "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Deafness, along with blindness and olfactory dysfunction, is a sensory impairment that can affect care and call for individualized approaches.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+            "page": 3,
+            "section": "Management of Dental Patients with Special Health Care Needs › Background"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Sensory impairments such as deafness can affect care and often require alternative communication, adapted environments, and individualized approaches.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 3,
+          "section": "Management of Dental Patients with Special Health Care Needs › Background"
+        }
+      ]
+    },
+    {
+      "text": "Sensory issues also contribute to higher oral health risk.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-management-of-dental-patients-with-special-healt-2026",
+          "page": 1,
+          "section": "Management of Dental Patients with Special Health Care Needs › Abstract"
+        }
+      ]
+    }
+  ]
+}

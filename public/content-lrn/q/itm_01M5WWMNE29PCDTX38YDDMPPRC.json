@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WWMNE29PCDTX38YDDMPPRC",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T19:58:22.533Z",
+  "type": "mcq",
+  "stem": "Which statement most accurately describes immunosuppression in pediatric patients who receive transplants or chemotherapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It can be an intended therapeutic goal, such as preventing rejection of a donor organ or stem cell transplant, and can also result from chemotherapy or HSCT conditioning"
+    },
+    {
+      "id": "B",
+      "text": "It is always an unintended side effect of treatment"
+    },
+    {
+      "id": "C",
+      "text": "It results only from chemotherapy and never from HSCT conditioning"
+    },
+    {
+      "id": "D",
+      "text": "It is only ever an intended goal and never a consequence of treatment"
+    }
+  ]
+}

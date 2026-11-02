@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WVV47B8E1Y640QG2VBBTSP",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "bleeding-disorders",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T19:45:14.165Z",
+  "type": "mcq",
+  "stem": "Which approach to antibiotic prophylaxis for dental patients at risk for infection is consistent with AAPD guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Give prophylaxis routinely to every patient with SHCN regardless of individual circumstances."
+    },
+    {
+      "id": "B",
+      "text": "For a patient with compromised immunity, decide on management without involving the physician."
+    },
+    {
+      "id": "C",
+      "text": "Withhold prophylaxis even from patients at high risk of adverse outcomes who undergo invasive procedures."
+    },
+    {
+      "id": "D",
+      "text": "Decide on prophylaxis individually for each patient, recommending it for high-risk patients undergoing invasive procedures."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "itm_01M5WW1TCE7MB9A9NF4EN7PK4R",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "The degree of clotting factor deficiency generally parallels the severity of bleeding in hemophilia, so a greater deficiency predicts more severe bleeding.",
+        "cites": [
+          {
+            "sourceId": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+            "page": 24,
+            "section": "OF HEMOPHILIA › Bleeding manifestations"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Severity generally parallels the degree of deficiency, so equal severity regardless of factor level is not expected.",
+        "cites": [
+          {
+            "sourceId": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+            "page": 24,
+            "section": "OF HEMOPHILIA › Bleeding manifestations"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Because severity parallels the degree of deficiency, a greater deficiency does not predict milder bleeding.",
+        "cites": [
+          {
+            "sourceId": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+            "page": 24,
+            "section": "OF HEMOPHILIA › Bleeding manifestations"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Poor oral hygiene is one source of gum bleeding, but severity generally parallels the degree of factor deficiency, so it is not independent of factor level.",
+        "cites": [
+          {
+            "sourceId": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+            "page": 104,
+            "section": "HEMORRHAGES › 7.8 Oral hemorrhage"
+          },
+          {
+            "sourceId": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+            "page": 24,
+            "section": "OF HEMOPHILIA › Bleeding manifestations"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "In hemophilia, the degree of clotting factor deficiency generally parallels the severity of bleeding manifestations.",
+      "cites": [
+        {
+          "sourceId": "src_wfh-guidelines-for-the-management-of-hemophilia-2020",
+          "page": 24,
+          "section": "OF HEMOPHILIA › Bleeding manifestations"
+        }
+      ]
+    }
+  ]
+}

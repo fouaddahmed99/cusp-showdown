@@ -1,0 +1,32 @@
+{
+  "id": "itm_01M5WWVN1G45RNNCHD6FEZH5VR",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-10-26T20:02:40.719Z",
+  "type": "vignette_mcq",
+  "vignette": "A child with compromised immunity needs an invasive dental procedure. The dentist is deciding how to handle the risk of infection.",
+  "stem": "Which plan is most consistent with current guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Consult the child's physician and decide on antibiotic prophylaxis for this individual case."
+    },
+    {
+      "id": "B",
+      "text": "Use clindamycin as the prophylactic agent."
+    },
+    {
+      "id": "C",
+      "text": "Proceed without physician consultation, since immune compromise does not raise the risk of distant infection after invasive procedures."
+    },
+    {
+      "id": "D",
+      "text": "Give the same prophylaxis to every patient regardless of individual circumstances."
+    }
+  ]
+}

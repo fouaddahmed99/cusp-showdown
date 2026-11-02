@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5WZFYC1GK7CM6QM0XEZPJ42",
+  "version": 1,
+  "type": "mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "Patient instruction and physical therapy are among the common reversible TMD treatments.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Irreversible therapies such as occlusal adjustment should be avoided in children because evidence of effectiveness is limited.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "Orthodontics is listed among irreversible therapies that should be avoided in children.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Surgery is listed among irreversible therapies that should be avoided in children.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+            "page": 1,
+            "section": "Care Needs › Definition of TMD"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Common reversible TMD treatments include patient instruction, physical therapy, behavioral therapy, medications, and occlusal splints.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+          "page": 1,
+          "section": "Care Needs › Definition of TMD"
+        }
+      ]
+    },
+    {
+      "text": "Irreversible therapies should be avoided in children because of limited evidence of effectiveness.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-temporomandibular-disorders-in-children-and-adol-2024",
+          "page": 1,
+          "section": "Care Needs › Definition of TMD"
+        }
+      ]
+    }
+  ]
+}

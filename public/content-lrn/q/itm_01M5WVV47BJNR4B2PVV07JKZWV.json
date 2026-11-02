@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WVV47BJNR4B2PVV07JKZWV",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "bleeding-disorders",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "remember"
+  },
+  "lastVerifiedAt": "2026-10-26T19:44:45.146Z",
+  "type": "mcq",
+  "stem": "What does the World Federation of Hemophilia recommend about dental care for people with hemophilia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dental care should be sought only when an emergency occurs."
+    },
+    {
+      "id": "B",
+      "text": "Dental care should be delivered entirely separate from the comprehensive hemophilia care program."
+    },
+    {
+      "id": "C",
+      "text": "Regular preventive dental and oral health care should be accessible within comprehensive hemophilia care."
+    },
+    {
+      "id": "D",
+      "text": "Preventive dental access is intended for adults only."
+    }
+  ]
+}

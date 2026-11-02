@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WWMNE22ZN72ZM7375M5Q4G",
+  "version": 1,
+  "tags": {
+    "domainId": "shcn",
+    "subtopicId": "immunosuppression-and-head-and-neck-radiation",
+    "taskStatementId": "ts-shcn-01",
+    "cognitiveLevel": "understand_apply"
+  },
+  "lastVerifiedAt": "2026-10-26T19:58:02.824Z",
+  "type": "mcq",
+  "stem": "A child is scheduled for hematopoietic stem cell transplantation (HSCT). Which dental plan best matches current guidance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Finish needed dental treatment before immunosuppression begins and defer elective care until the immune system has recovered"
+    },
+    {
+      "id": "B",
+      "text": "Postpone all dental care, including treatment of infection, until after the transplant"
+    },
+    {
+      "id": "C",
+      "text": "Schedule elective dental procedures during the period of immunosuppression"
+    },
+    {
+      "id": "D",
+      "text": "Wait to perform the first oral examination until oral complications appear"
+    }
+  ]
+}

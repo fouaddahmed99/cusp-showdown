@@ -1,0 +1,31 @@
+{
+  "id": "itm_01M5WZFYC1GK7CM6QM0XEZPJ42",
+  "version": 1,
+  "tags": {
+    "domainId": "diagnosis",
+    "subtopicId": "systemic-diseases-affecting-the-periodontium",
+    "taskStatementId": "ts-diagnosis-03",
+    "cognitiveLevel": "analyze_evaluate"
+  },
+  "lastVerifiedAt": "2026-10-26T20:49:47.645Z",
+  "type": "mcq",
+  "stem": "Which management approach is most appropriate for a child diagnosed with a temporomandibular disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reversible measures such as patient instruction and physical therapy"
+    },
+    {
+      "id": "B",
+      "text": "Occlusal adjustment"
+    },
+    {
+      "id": "C",
+      "text": "Orthodontic treatment aimed at the TMD"
+    },
+    {
+      "id": "D",
+      "text": "Surgical intervention as the initial approach"
+    }
+  ]
+}

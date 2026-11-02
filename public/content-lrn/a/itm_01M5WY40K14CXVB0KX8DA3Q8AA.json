@@ -1,0 +1,78 @@
+{
+  "id": "itm_01M5WY40K14CXVB0KX8DA3Q8AA",
+  "version": 1,
+  "type": "vignette_mcq",
+  "key": "A",
+  "rationales": {
+    "A": [
+      {
+        "text": "The pediatric research base is limited, so risk factors for children and adolescents were extrapolated from adult evidence.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 2,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "text": "Pediatric research on risk assessment is limited, not extensive.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 2,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "text": "The extrapolation ran from adults to children and adolescents, not the other way around.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 2,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+          }
+        ]
+      }
+    ],
+    "D": [
+      {
+        "text": "Pediatric research is limited, which is why adult evidence was used.",
+        "cites": [
+          {
+            "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+            "page": 2,
+            "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": [
+    {
+      "text": "Risk assessment identifies factors that raise the risk of gingival and periodontal disease and factors that affect progression.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 2,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+        }
+      ]
+    },
+    {
+      "text": "For children and adolescents, these factors were extrapolated from adult evidence because pediatric research is limited.",
+      "cites": [
+        {
+          "sourceId": "src_aapd-periodontal-conditions-in-pediatric-dental-2024",
+          "page": 2,
+          "section": "Periodontal Conditions in Pediatric Dental Patients › Diagnostic phase"
+        }
+      ]
+    }
+  ]
+}

@@ -70,5 +70,161 @@
       "cognitiveLevel": "remember"
     },
     "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WY40K14CXVB0KX8DA3Q8AA",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "periodontal-conditions",
+      "taskStatementId": "ts-diagnosis-07",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WY40K1DYMFG0E8AP9P0ZQJ",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "periodontal-conditions",
+      "taskStatementId": "ts-diagnosis-07",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WYA8SR28HGEJG7JW6G5EDB",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "periodontal-conditions",
+      "taskStatementId": "ts-diagnosis-07",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WYA8SRHHXPRYJ6MNVXRBXP",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "periodontal-conditions",
+      "taskStatementId": "ts-diagnosis-07",
+      "cognitiveLevel": "remember"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WYFTXNQRHCF3SWRQJVBSF3",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "periodontal-conditions",
+      "taskStatementId": "ts-diagnosis-01",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WZ48C1MM4TJWDQ9SP4QBBF",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "systemic-diseases-affecting-the-periodontium",
+      "taskStatementId": "ts-diagnosis-07",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WZ93773XM3A90GHBS9T7D0",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "systemic-diseases-affecting-the-periodontium",
+      "taskStatementId": "ts-diagnosis-03",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WZ93779XQH8B5D36FPBA7N",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "systemic-diseases-affecting-the-periodontium",
+      "taskStatementId": "ts-diagnosis-07",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WZ9378T9VDP5NS6ZWQ5DHK",
+    "version": 1,
+    "type": "vignette_mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "systemic-diseases-affecting-the-periodontium",
+      "taskStatementId": "ts-diagnosis-07",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WZFYC01SMWJY9YQC2Y19KE",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "systemic-diseases-affecting-the-periodontium",
+      "taskStatementId": "ts-diagnosis-07",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WZFYC04A7ZN6S2E9WYJ7A6",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "systemic-diseases-affecting-the-periodontium",
+      "taskStatementId": "ts-diagnosis-07",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WZFYC0X6B6SPW97X6HYM8Z",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "systemic-diseases-affecting-the-periodontium",
+      "taskStatementId": "ts-diagnosis-07",
+      "cognitiveLevel": "understand_apply"
+    },
+    "hasMedia": false
+  },
+  {
+    "id": "itm_01M5WZFYC1GK7CM6QM0XEZPJ42",
+    "version": 1,
+    "type": "mcq",
+    "tags": {
+      "domainId": "diagnosis",
+      "subtopicId": "systemic-diseases-affecting-the-periodontium",
+      "taskStatementId": "ts-diagnosis-03",
+      "cognitiveLevel": "analyze_evaluate"
+    },
+    "hasMedia": false
   }
 ]
